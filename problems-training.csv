@@ -1,0 +1,735 @@
+SN,Enunciado,Category
+1,Hallar todas las formas de expresar $2003$ como la suma de los cuadrados de dos números enteros.,1
+2,En cada casilla de un tablero $m\times n$ se encuentra un número real. Se permite cambiar todos los números de una fila o de una columna de signo tantas veces como queramos. Demostrar que puede conseguirse que las sumas de los elementos cada fila y cada columna sean no negativas independientemente de la configuración inicial.,1
+3,"Sea  $a_1,a_2,\ldots$ una progresión aritmética no constante de números reales. Supongamos que existen enteros primos entre sí $p,q\gt 1$ para los que $a_1^2$, $a_{p+1}^2$ y $a_{q+1}^2$ son también elementos de la misma sucesión. Demostrar que todos los términos de la sucesión son enteros.",1
+4,"Sean $p$ y $q$ números enteros tales que
+\[1-\frac{1}{2}+\frac{1}{3}-\frac{1}{4}+\ldots-\frac{1}{1318}+\frac{1}{1319}=\frac{p}{q}.\]
+Demostrar que $p$ es divisible entre $1979$.",1
+5,"Demostrar que el siguiente número entero es compuesto:
+\[\frac{5^{125}-1}{5^{25}-1}.\]",1
+6,"Si los números del $11111$ al $99999$ se colocan en algún orden formando un número de $444445$ cifras, demostrar que dicho número no es una potencia de $2$.",1
+7,"Dado un número natural $n$, denotaremos por $s(n)$ a la suma de los dígitos de $n$ (por ejemplo, tenemos que $s(436)=4+3+6=13$). Hallar todas las soluciones de la ecuación
+\[n+s(n)+s(s(n))=2018.\]",1
+8,"Sean $p$ un número primo impar y $a$ y $b$ enteros positivos. Si el exponente de $p$ en $a-1$ es $\alpha\geq 1$ y el exponente de $p$ en $b$ es $\beta\geq 0$, demostrar que el exponente de $p$ en $a^b-1$ es $\alpha+\beta$.
+
+(Cuando decimos que $e$ es el exponente de $p$ en un número $n$, queremos decir que es el exponente en su factorización como producto de números primos, es decir, que $p^e$ divide a $n$ pero $p^{e+1}$ no divide a $n$.)",1
+9,"Determinar todos los números enteros positivos $p$ y $n$ tales que $p$ es primo y 
+\[8p+120=1+2+\ldots+n.\]",1
+10,"Probar que, para todo número racional positivo $r$, existen enteros positivos $a,b,c,d$ tales que
+\[r=\frac{a^3+b^3}{c^3+d^3}.\]",1
+11,"Un entero positivo se llama monótono si sus dígitos en base decimal de izquierda a derecha forma una sucesión no decreciente. Demostrar que, para cada entero positivo $n$ existe un número monótono de $n$ dígitos que es cuadrado perfecto.",1
+12,"Dado un entero $n\geq 2$, demostrar que existe un conjunto $S$ de $n$ números enteros tales que $(a-b)^2$ divide a $ab$ para cualesquiera $a,b\in S$.",1
+13,"Sean $a,p,n\in\mathbb{N}$ enteros positivos con $p$ primo. Demostrar que si $2^p+3^p=a^n$, entonces $n=1$.",1
+14,"Probar que, para cada $n\in\mathbb{N}$, existe un número entero $N$ que puede ser expresado como la suma de dos cuadrados y que, además, cumple que $n\leq N\leq n+2\sqrt{2}\sqrt[4]{n}$.",1
+15,"Decimos que un número entero positivo es un número ondulante si sus dígitos en base 10 son alternativamente cero y distinto de cero, siendo el dígito de las unidades distinto de cero. Determinar todos los enteros positivos que no dividen a ningún número ondulante.",1
+16,"Probar que entre $39$ números naturales consecutivos, siempre existe uno tal que la suma de sus cifras es múltiplo de $11$.",1
+17,"Dados dos números naturales $a,b\in\mathbb{N}$, ¿pueden ser $a^2+b$ y $b^2+a$ ambos cuadrados perfectos?",1
+18,Demostrar que los binomios $25x+31y$ y $3x+7y$ son múltiplos de 41 para los mismos valores enteros de $x$ e $y$.,1
+19,"Hallar todos los enteros positivos $n$ tales que 
+\[n=s+u^2{,}\]
+donde $s$ es la suma de las cifras de $n$ y $u$ su cifra de las unidades. ",1
+20,"Encontrar todas las soluciones naturales de la ecuación
+\[\frac{1}{m}+\frac{1}{n}+\frac{1}{mn^2}=\frac{3}{4}{.}\]
+",1
+21,"Dado un número entero positivo, consideremos la operación consistente en restarle su mayor divisor propio. Partiendo del número $19^{19}$ y aplicando reiteradamente esta operación se obtiene el número 1. Determinar cuántas veces se ha aplicado la operación.",1
+22,"Dados los números racionales $r$, $q$ y $n$ tales que
+\[\frac{1}{r+qn}+\frac{1}{q+rn}=\frac{1}{r+q}{,}\]
+demostrar que $\sqrt{\frac{n-3}{n+1}}$ es un número racional.",1
+23,"Sea $N$ un entero positivo tal que existen exactamente $2005$ pares ordenados $(x,y)$ de números enteros positivos que satisfacen la ecuación
+\[\frac{1}{x}+\frac{1}{y}=\frac{1}{N}{.}\]
+Demostrar que $N$ es un cuadrado perfecto.",1
+24,"Hallar todas las ternas de números enteros $(x,y,z)$ tales que 
+$$\frac{1}{x^2}+\frac{1}{y^2}=z.$$",1
+25,"Determinar todos los pares de enteros positivos $(a,b)$ para los cuales
+\[\frac{a^2b+b}{ab^2+9}\]
+es un número entero.
+",1
+26,"Sean $a$ y $b$ enteros. Demostrar que la ecuación
+\[(x-a)(x-b)(x-3)+1=0\]
+admite a lo sumo una solución entera.",1
+27,¿Existe alguna potencia de $2$ tal que al escribirla en el sistema decimal tenga todos sus dígitos distintos de cero y sea posible reordenar los mismos para formar con ellos otra potencia de $2$?,1
+28,"Encontrar el mayor entero $N$ que cumple las siguientes condiciones:
+
+$E(\frac{N}{3})$ es un número de tres cifras iguales,
+$E(\frac{N}{3})=1+2+\ldots+n$, para algún número natural $n\in\mathbb{N}$,
+
+donde $E(x)$ denota la parte entera de $x$.",1
+29,"Sea $a$ un entero positivo impar mayor que $17$ tal que $3a-2$ es un cuadrado perfecto. Demostrar que existen enteros positivos distintos $b$ y $c$ tales que $a+b$, $b+c$, $a+c$ y $a+b+c$ son cuatro cuadrados perfectos.",1
+30,Hallar todos los números naturales $n$ tales que $2^n+12^n+2011^n$ es un cuadrado perfecto.,1
+31,"Hallar todos los números enteros $n$ tales que
+$$n^4-4n^3+22n^2-36n+18$$
+es un cuadrado perfecto.",1
+32,"Sean $a,b,c,d$ números naturales tales que $ad=b^2+bc+c^2$. Demostrar que
+$$a^2+b^2+c^2+d^2$$
+es un número compuesto.",1
+33,Hallar todos los polinomios de coeficientes enteros $P(x)$ con la propiedad de que $P(n)$ divide a $2^n-1$ para todo número natural  $n$.,1
+34,Determinar todos los números naturales $m$ tales que $m2^{m-1}+1$ es un cuadrado perfecto.,1
+35,"Descomponer en factores primos el número
+\[N=1995\cdot 2007\cdot 2013+320.\]",1
+36,"Sean $a,b,c,d,p,q$ números naturales tales que $ad-bc=1$ y
+\[\frac{a}{b}\gt\frac{p}{q}\gt\frac{c}{d}{.}\]
+Demostrar que
+
+$q\geq b+d$.
+Si $q=b+d$, entonces $p=a+c$.
+",1
+37,Determinar razonadamente si el número $\sqrt{3n^2+2n+2}$ es irracional para todo entero no negativo $n$.,1
+38,"Sean $a$, $b$ y $n$ enteros positivos tales que $ab-1=n^2$. Demostrar que
+$$|a-b|\geq\sqrt{4n-3}.$$
+Indicar justificadamente cuándo se alcanza la igualdad.",1
+39,"Demostrar que si $4^n+2^n+1$ es primo, entonces $n$ es una potencia de $3$.",1
+40,"Demuestra que, para cualesquiera enteros no negativos $m$ y $n$, el número
+\[\frac{(2m)!(2n)!}{m!\,n!(m+n)!}\]
+es entero.",1
+41,"Demostrar que si $n$ es un número impar, entonces $2^n+3^n$ no es un cuadrado perfecto. ",1
+42,"Sea $P(x,y)=2x^2-6xy+5y^2$. Diremos que $a$ es un valor de $P$ si existen números enteros $b$ y $c$ tales que $a=P(b,c)$.
+
+Determinar cuántos elementos de $\{1,2,...,100\}$ son valores de $P$.
+Probar que el producto de valores de $P$ es un valor de $P$.
+",1
+43,Supongamos que un número primo se escribe como la suma de los cuadrados de otros tres números primos. Demuestra que uno de esos primos tiene que ser igual a 3.,1
+44,"Demostrar que existen infinitas ternas de números naturales distintos $(a,b,c)$ tales que 
+\[\frac{1}{a}+\frac{1}{b}=\frac{1}{c}{.}\]",1
+45,"Dado un número natural $n$, expresamos
+\[(3-2\sqrt{2})^n=a_n+b_n\sqrt{2},\]
+donde $a_n$ y $b_n$ son números enteros. Demostrar que $a_n$ y $b_n$ son primos entre sí para todo $n\in\mathbb{N}$.",1
+46,"Consideremos $d_1\lt d_2\lt\ldots\lt d_k$ los divisores positivos de un número natural $n$, de forma que $d_1=1$ y $d_k=n$, y sea
+\[d=d_1d_2+d_2d_3+\ldots+d_{k-1}d_k.\]
+Demostrar que $d\lt n^2$ y hallar todos los valores de $n$ para los que $d$ divide a $n^2$.",1
+47,"Los números naturales $a$ y $b$ son tales que
+\[\frac{a+1}{b}+\frac{b+1}{a}\]
+es un número entero. Demostrar que el máximo común divisor de $a$ y $b$ no es mayor que $\sqrt{a+b}$.",1
+48,"Demostrar que si $m$, $n$ y $r$ son enteros positivos tales que
+\[1+m+n\sqrt{3}=\left(2+\sqrt{3}\right)^{2r-1},\]
+entonces $m$ es un cuadrado perfecto.",1
+49,"Hallar todas las ternas de números enteros $(a,b,c)$ tales que
+\begin{eqnarray*}
+ a+b+c&=&24,\\
+ a^2+b^2+c^2&=&210,\\
+ abc&=&440.
+\end{eqnarray*}",1
+50,Supongamos que $n$ es un número natural tal que $2n+1$ es un cuadrado perfecto. Demostrar que $n+1$ es la suma de los cuadrados de dos números consecutivos.,1
+51,Encontrar un conjunto infinito de enteros positivos $S$ tal que la suma de los elementos de cualquier subconjunto finito de $S$ no sea un cuadrado perfecto.,1
+52,"Demostrar que si $p\geq 7$ es un número primo y $k$ es un número natural cualquiera, entonces existe una potencia de $p$ cuya representación decimal tiene $k$ ceros consecutivos.",1
+53,"Demostrar que no existen enteros positivos $x$ e $y$ tales que
+\[x^{2008}+2008!=21^y.\]",1
+54,"Hallar todos los números enteros $x$ e $y$ que cumplen la ecuación
+\[xy-4x-5y=27.\]",1
+55,Hallar todos los números enteros $n$ para los que $n^4+n^2+1$ es un número primo.,1
+56,"Dado un número natural $n$, llamamos $P$ al producto de los números naturales entre $1$ y $n$, y llamamos $Q$ al producto de los números entre $n+1$ y $2n$. Demostrar que $Q$ es un múltiplo de $P$.",1
+57,"Supongamos que $a,b,c\in\mathbb{N}$ son números naturales que no tienen factores comunes y cumplen que
+\[a=\frac{bc}{c-b}.\]
+Demostrar que $a-b$ es un cuadrado perfecto.",1
+58,"Un número $n$ se llama abundante cuando la suma de todos los divisores de $n$ (sin contar al propio $n$ como divisor suyo), es mayor que $n$. Demostrar que todos los múltiplos de $100$ son abundantes. ",1
+59,Sea $p$ un número primo. Hallar todos los números enteros $k$ tales que $\sqrt{k^2-kp}$ es un número natural.,1
+60,"Encontrar todas las soluciones enteras de la ecuación
+\[x^2+y^2=3z^2.\]",1
+61,"Encontrar todas las soluciones enteras de la ecuación
+\[x^2+y^2+z^2=x^2y^2.\]",1
+62,"Encontrar todas las soluciones enteras de la ecuación
+\[x^2-y^2=2xyz.\]
+",1
+63,"Escribimos los números del uno al veinte de forma consecutiva formando el número de $31$ cifras
+\[N=1234567891011121314151617181920.\]
+¿Podemos reordenar las cifras de $N$ para obtener un cuadrado perfecto?",1
+64,"Encontrar todas las soluciones enteras $(x,y)$ de la ecuación
+\[(x+y)p=xy,\]
+donde $p$ es un número primo.",1
+65,"Determinar todas las ternas $(a,b,p)$ de números enteros, siendo $p$ un número primo, verificando la ecuación
+\[a^2b^2=p^2(a-1)(b-1).\]",1
+66,¿Es primo el número $2015^4+4^{2015}$?,1
+67,"Calcular el siguiente máximo común divisor:
+\[\mathrm{mcd}\left(\left(2^{2009}+1\right)^{2009},2^{2009^{2009}}+1\right)\]",1
+68,"Si tenemos dos números enteros que pueden expresarse como suma de dos cuadrados perfectos, demostrar que su producto también puede expresarse de esta forma.",1
+69,"Encontrar todos los números naturales $n$ tales que
+\[n^4+6n^3+11n^2+3n+31\]
+es un cuadrado perfecto.",1
+70,"Demostrar que existen infinitos números naturales $n$ de forma que cada uno de los números $n$, $n+1$ y $n+2$ es un cuadrado perfecto o bien la suma de dos cuadrados perfectos.",1
+71,"¿Qué elementos de la sucesión
+\[\{101,\ 10101,\ 1010101,\ 101010101,\ldots\}\]
+son números primos?",1
+72,Encontrar un número que sea múltiplo de $18$ y tenga exactamente $74$ divisores.,1
+73,"Demostrar la veracidad o falsedad de las siguientes afirmaciones:
+
+La suma de los cubos de tres enteros consecutivos es múltiplo de $9$. 
+La suma de los cubos de cinco enteros consecutivos es múltiplo de $25$. 
+La suma de las potencias quintas de cinco enteros consecutivos es múltiplo de $25$.
+",1
+74,"Diremos que un conjunto de números naturales es especial cuando tomando cualesquiera dos elementos $a$ y $b$ del conjunto, se cumple que $(a-b)^2$ divide a $ab$.
+
+Encontrar un conjunto especial de tres elementos.
+¿Existe un conjunto de especial de cuatro números en progresión aritmética?
+",1
+75,Hallar todos los números enteros positivos que son menores que $1000$ y que cumplen que el cubo de la suma de sus cifras es igual al cuadrado del dicho entero.,1
+76,"Partiendo de dos números naturales $a$ y $b$, repetimos el siguiente proceso: al mayor le restamos el menor y nos quedamos con el menor y con la diferencia. Demostrar que llegará un momento en el los dos números obtenidos serán iguales y determinar esos números.",1
+77,Encontrar todos los números naturales \(n\in\mathbb{N}\) tales que \(3^n+5^n\) es múltiplo de \(3^{n-1}+5^{n-1}\).,1
+78,"Demuestra que el siguiente producto es un número entero:
+\[\left(4-\frac{2}{1}\right)\left(4-\frac{2}{2}\right)\left(4-\frac{2}{3}\right)\cdots\left(4-\frac{2}{2011}\right).\]",1
+79,¿Existe algún número natural tal que al elevarlo al cubo su expresión decimal termine en $111$?,1
+80,"¿Cuál es el menor valor positivo posible de $36^m-5^n$, siendo $m$ y $n$ números naturales?",1
+81,"Dado un número primo \(p\geq 7\), hallar los posibles restos de dividir \(p^2\) entre \(30\).",1
+82,"Se define la sucesión \(\{p_n\}\) de la siguiente manera: \(p_1=2\) y, para todo \(n\geq 2\), \(p_n\) es el mayor divisor primo de la expresión \(p_1p_2\cdots p_{n-1}+1\). Probar que \(p_n\) es siempre distinto de \(5\).",1
+83,"Demostrar que pueden tomarse \(2^k\) números del conjunto \(\{0,1,2,\ldots,3^k-1\}\), de forma que cualesquiera tres de ellos (distintos) no estén en progresión aritmética. ",1
+84,"Demostrar que si \(n\in\mathbb{N}\) cumple que \((n-1)!+1\) es divisible entre \(n\), entonces \(n\) es un número primo.",1
+85,Demostrar que todo número entero \(n>6\) puede expresarse como suma de dos números naturales mayores que uno y primos entre sí.,1
+86,Hallar los números primos \(p\) tales que \(p+10\) y \(p+14\) también son primos.,1
+87,"Hallar el valor de \(\mathrm{mcd}(2n+3,n+7)\) en función del número entero \(n\in\mathbb{Z}\).",1
+88,Supongamos que \(p\) y \(p^2+2\) son números primos. Probar que \(p^3+5p^2+1\) es también primo.,1
+89,"Demostrar que \(a^5-a\) es múltiplo de \(30\), para cualquier número entero \(a\in\mathbb{Z}\).",1
+90,Sea \(n\) un número entero. Demostrar que \(8n+7\) no se puede escribir como suma de tres enteros cuadrados perfectos.,1
+91,"Sean $x,y,z$ números enteros. Demostrar que si $6$ divide a $x+y+z$, entonces también divide a $x^3+y^3+z^3$.",1
+92,"Dado un número natural $n\in\mathbb{N}$, calcular el número de soluciones naturales $(x,y)$ de la ecuación
+\[\frac{xy}{x+y}=n\]
+Deducir que el número de soluciones siempre es impar.",1
+93,"Demostrar que, para cualquier número natural \(n\in\mathbb{N}\), la siguiente fracción es irreducible:
+\[\frac{21n+4}{14n+3}\]",1
+94,Demostrar que en un conjunto de diez números naturales consecutivos siempre hay uno de ellos que es primo relativo con todos los demás.,1
+95,Determinar todos los números naturales de cuatro cifras que sean iguales al cubo de la suma de sus cifras.,1
+96,"Hallar el menor número natural \(n\in\mathbb{N}\) que cumple las siguientes dos propiedades:
+
+Su representación en base decimal termina en 6.
+Si borramos el 6 final y lo colocamos delante del resto de los dígitos, el número resultante es cuatro veces el anterior.
+",1
+97,"Sea \(n\) un entero mayor que \(10\) tal que todos sus dígitos son \(1\), \(3\), \(7\) ó \(9\). Demostrar que \(n\) tiene al menos un factor primo mayor o igual que \(11\).",1
+98,"Calcular todas las parejas de números enteros \((a,b)\) tales que \(a+b=ab\).",1
+99,"Demostrar que para cualquier número natural \(n\in\mathbb{N}\), existen \(n\) números compuestos consecutivos.",1
+100,"Sean \(a\) y \(b\) dos números naturales primos entre sí. Para cada número natural \(n\in\mathbb{N}\), hallar los posibles valores de \(\text{mcd}(a+b,a^n+b^n)\).",1
+101,Hallar todos los números naturales \(m\) y \(n\) que cumplan \[n!+1=(m!-1)^2\],1
+102,"Encontrar el menor número natural $n$, si existe, tal que $64$ divide a $5^n-1$.",1
+103,Hallar todos los números naturales $n\in\mathbb{N}$ para los que $2^{11}+2^{8}+2^n$ es un cuadrado perfecto.,1
+104,"Sean $A$ la suma de las cifras del número $N=4444^{4444}$, $B$ la suma de las cifras de $A$ y $C$ la suma de las cifras de $B$. Determinar el número $C$.",1
+105,Encontrar todos los números naturales \(n\in\mathbb{N}\) tales que \(n!\) no es divisible por \(n^2\).,1
+106,"Dado $n\in\mathbb{N}$, denotamos por $S(n)$ la suma de los dígitos del número $n$ en base 10. Demostrar que $S(2n)\leq 2S(n)\leq 10S(2n)$ para todo $n\in\mathbb{N}$ y analizar para qué números se alcanza la igualdad en cada una de las desigualdades.",1
+107,"Supongamos que $n\in\mathbb{N}$ cumple que $2^n-1$ es primo.
+
+Demostrar que $n$ es primo.
+Demostrar que $2^{n-1}(2^n-1)$ es un número perfecto, es decir, es igual a la suma de sus divisores (excluyendo en esta suma al propio número).
+",1
+108,Encontrar todos los números naturales $n\in\mathbb{N}$ tales que $2^n-1$ es divisible entre $7$.,1
+109,En un cuadrado $ABCD$ se traza una circunferencia que pasa por el vértice $A$ y por los puntos medios de los lados $BC$ y $CD$. Determinar si es mayor la longitud de la circunferencia o el perímetro del cuadrado.,3
+110,"Sea $P$ un punto interior del triángulo equilátero $ABC$ tal que $PA=5$, $PB=7$ y $PC=8$. Hallar la longitud de un lado del triángulo $ABC$.",3
+111,Diremos que un circunferencia es un separador de un conjunto de cinco puntos en el plano si pasa por tres de ellos y los otros dos están uno en su círculo interior y otro en su exterior. Demostrar que todo conjunto de cinco puntos que no contiene tres puntos alineados ni cuatro puntos concíclicos tiene exactamente cuatro separadores.,3
+112,"Se considera un triángulo cuyos lados son los lados de un pentágono, hexágono y decágono regulares inscritos en circunferencias de radio unidad. Demostrar que dicho triángulo es rectángulo.",3
+113,"Sea $ABCDEFG$ un heptágono regular de lado 1. Demostrar que se cumple la relación
+\[\frac{1}{AC}+\frac{1}{AD}=1.\]",3
+114,Consideremos un polígono convexo de área $A$ y perímetro $P$. Demostrar que existe un círculo de radio $A/P$ contenido en el interior del polígono.,3
+115,Se consideran $n$ puntos en el plano de forma que no haya dos pares de puntos equidistantes. Por cada punto se traza el segmento que lo une al más próximo. Demostrar que ningún punto está unido a más de cinco puntos.,3
+116,"Se sabe que un dodecaedro regular es un poliedro regular con 12 caras pentagonales iguales y concurriendo 3 aristas en cada vértice. Se pide calcular, razonadamente,
+
+el número de vértices;
+el número de aristas;
+el número de diagonales de todas las caras;
+el número de segmentos rectilíneos determinados por cada dos vértices;
+el número de diagonales del dodecaedro.
+",3
+117,"¿Existe un cubo en el espacio tal que las distancias de sus ocho vértices a un plano dado son los números $0$, $1$, $2$, $3$, $4$, $5$, $6$, $7$ y $8$?",3
+118,"Sea $ABC$ un triángulo acutángulo con radio inscrito $r$ y radio circunscrito $1$. Si $\rho$ es el radio inscrito del triángulo órtico de $ABC$, demostrar que 
+\[\rho\leq 1-\frac{1}{3}(1+r)^2.\]",3
+119,"Encontrar el menor número $A$ que cumple el siguiente enunciado:
+
+Para cualquier par de cuadrados tales que la suma de sus áreas es 1, se pueden colocar dentro de un rectángulo de área $A$ sin puntos interiores comunes y con sus lados paralelos a los lados del rectángulo.",3
+120,"En un triángulo $ABC$, sea $F$ el punto medio del lado $BC$. Se construyen triángulos rectángulos isósceles $ABD$ y $ACE$ exteriores a $ABC$ y con ángulos rectos en $D$ y $E$, respectivamente. Demostrar que $DEF$ es también un triángulo rectángulo isósceles.",3
+121,Consideremos un pentágono en el que cada una de sus diagonales es paralela a uno de sus lados. Demostrar que la razón entre la longitud de una diagonal y la longitud del correspondiente lado paralelo es la misma para cada diagonal.,3
+122,"Dado un pentágono regular, construir un triángulo que tenga la misma área.",3
+123,"Dado un rectángulo $ABCD$ y un punto $P$ interior al rectángulo, demostrar que 
+\[PA^2+PC^2=PB^2+PD^2{.}\]",3
+124,"Dado un rectángulo cualquiera en el plano, llamemos $A$ a su área y $p$ a su perímetro. Demostrar que 
+$$p^2\geq 16A.$$
+¿Para qué rectángulos se tiene una igualdad?",3
+125,"El baricentro del triángulo $ABC$ es $G$ y denotamos por $g_a$, $g_b$ y $g_c$ a las distancias desde $G$ a los lados $a$, $b$ y $c$, respectivamente. Sea $r$ el radio de la circunferencia inscrita a $ABC$.
+
+ Probar que $g_a\geq\frac{2r}{3}$,  $g_b\geq\frac{2r}{3}$ y  $g_c\geq\frac{2r}{3}$.
+ Probar que $\frac{1}{r}(g_a+g_b+g_c)\geq 3$.
+",3
+126,"Sea $ABCD$ un cuadrilátero inscrito en una circunferencia de radio 1 de modo que $AB$ es un diámetro y el cuadrilátero admite circunferencia inscrita. Probar que
+\[CD\leq 2\sqrt{5}-4.\]",3
+127,"En una circunferencia de centro $O$ y radio $1$, tomemos una cuerda de longitud $a$ y la circunferencia $C$ que tiene a dicha cuerda por diámetro. Si $P$ es el punto de $C$ más alejado de $O$, ¿cuál es el valor máximo de la distancia entre $O$ y $P$ cuando variamos $a$?",3
+128,"Sea $P$ un punto interior al triángulo $ABC$ tal que $AP=BP$. Sean $Q$ y $R$ puntos exteriores al triángulo tales que los triángulos $BQC$ y $CRA$ son semejantes a $ABP$ cumpliendo $BQ=CQ$ y $CR=RA$. Probar que los puntos $P$, $Q$, $R$ y $C$ están alineados o bien son los vértices de un paralelogramo.",3
+129,Las longitudes de los lados de un triángulo están en progresión aritmética y las longitudes de sus alturas también están en progresión aritmética. Demostrar que el triángulo es equilátero.,3
+130,"Sea $ABC$ un triángulo cuyos lados son $a$, $b$ y $c$. Se divide cada lado de $ABC$ en $n$ segmentos iguales. Sea $S$ la suma de los cuadrados de las distancias de cada vértice a cada uno de los puntos de división del lado opuesto, distintos de los vértices. Demostrar que 
+\[\frac{S}{a^2+b^2+c^2}\]
+es un número racional.",3
+131,"En un triángulo $ABC$, supongamos que las rectas tangentes a su circunferencia circunscrita en $B$ y en $C$ se cortan en un punto $P$. Demostrar que la recta $AP$ es la simétrica de la mediana del lado $BC$ respecto de la bisectriz del ángulo $A$.",3
+132,"Sea $ABC$ un triángulo acutángulo, $O$ su circuncentro y $\Gamma$ la circunferencia que pasa por $A$, $B$ y $O$. Supongamos que las rectas $CA$ y $CB$ cortan a $\Gamma$ otra vez en $P$ y $Q$, respectivamente. Probar que las rectas $CO$ y $PQ$ son perpendiculares.",3
+133,"Un triángulo acutángulo $ABC$ está inscrito en una circunferencia de centro $O$. Las alturas del triángulo son $AD$, $BE$ y $CF$. La recta $EF$ corta a la circunferencia circunscrita en $P$ y $Q$.
+
+Probar que $OA$ es perpendicular a $PQ$.
+Si $M$ es el punto medio de $BC$, probar que $AP^2=2\cdot AD\cdot OM$.
+",3
+134,"En un triángulo rectángulo trazamos la altura que parte del ángulo recto y el triángulo queda dividido en dos triángulos, uno de los cuales tiene el triple de área que el otro. Si la hipotenusa del triángulo original mide 1, ¿cuánto miden sus catetos?",3
+135,"Las longitudes de los lados de un triángulo están en progresión geométrica de razón \(r\). 
+
+¿Para qué valores de \(r\) el triángulo es acutángulo, rectángulo u obtusángulo?
+¿Para qué valores de \(r\) esl triángulo es equilátero, isósceles o escaleno?
+",3
+136,"Demostrar que si un triángulo tiene dos bisectrices iguales, entonces es isósceles.",3
+137,"Demostrar que si un triángulo tiene dos medianas iguales, entonces es isósceles.",3
+138,"Demostrar que si un triángulo tiene dos alturas iguales, entonces es isósceles.",3
+139,Probar que no existe ningún triángulo equilátero en el plano cuyos vértices sean puntos de coordenadas enteras. ¿Ocurre lo mismo si trabajamos en el espacio tridimensional?,3
+140,"Sea \(ABCD\) un paralelogramo y supongamos que \(AC\) es su diagonal mayor. Desde \(C\) se trazan perpendiculares a las rectas \(AB\) y \(AD\), con pies en \(E\) y \(F\) respectivamente. Demostrar que:
+\[AB\cdot AE+AD\cdot AF=AC^2.\]",3
+141,"Demostrar que, al trazar las medianas de un triángulo cualquiera, éste queda dividido en seis triangulos que tienen la misma área.",3
+142,"Determinar qué condición han de cumplir las longitudes de los lados de un triángulo para que la recta que une el baricentro y el incentro sea paralela a uno de los lados, suponiendo que el triángulo no es equilátero (pues en este caso coinciden incentro y baricentro y dicha recta no está bien definida).",3
+143,"Sea \(H\) el ortocentro de un triángulo, \(P\) el pie de una altura y \(Q\) el otro punto de corte de la recta \(AP\) (distinto de \(A\)) con la circunferencia circunscrita. Demostrar que \(HP=PQ\).",3
+144,"En el triángulo \(ABC\) sea \(D\) el punto de corte de la bisectriz trazada desde \(C\) al lado \(AB\). Sabiendo que el centro de la circunferencia inscrita en el triángulo \(BCD\) coincide con el centro de la circunferencia circunscrita al triángulo \(ABC\), ¿cuáles son los ángulos de \(ABC\)?",3
+145,"Sea $ABC$ un triángulo. Consideremos los puntos $D$ y $E$ sobre el lado $BC$ de forma que las rectas $AD$ y $AE$ son paralelas a las tangentes a la circunferencia circunscrita al triángulo que pasan por $C$ y $B$, respectivamente. Demostrar que
+\[\frac{BE}{CD}=\frac{AB^2}{AC^2}{.}\]",3
+146,"Sea $ABC$ un triángulo equilátero y sean $M$ y $N$ puntos de $AB$ y $AC$, respectivamente, tales que el segmento $MN$ es tangente a la circunferencia inscrita de $ABC$. Demostrar que
+\[\frac{AM}{MB}+\frac{AN}{NC}=1{.}\]",3
+147,"Sea $ABC$ un triángulo y $M$ el punto medio del lado $BC$. Si $r_1$ y $r_2$ son los inradios de los triángulos $ABM$ y $ACM$ respectivamente, demostrar que $r_1<2r_2$.",3
+148,Calcular la razón entre la diagonal y el lado de un pentágono regular.,3
+149,"Sea $ABCDEF$ un hexágono convexo tal que $AB=BC=CD$, $DE=EF=AF$ y $\angle BCD=\angle EFA=\frac{\pi}{3}$. Sean $P$ y $Q$ dos puntos interiores al hexágono de forma que los ángulos $\angle APB$ y $\angle DQE$ valen ambos $\frac{2\pi}{3}$. Demostrar que
+\[AP+PB+PQ+DQ+QE\geq CF.\]",3
+150,"Sea $ABCD$ un paralelogramo y supongamos que $AC$ es su diagonal mayor. Desde $C$ se trazan perpendiculares a las rectas $AB$ y $AD$, con pies en $E$ y $F$ respectivamente. Demostrar que
+\[AB\cdot AE+AD\cdot AF=AC^2{.}\]",3
+151,"Encontrar todos los polinomios $P(x)$ y $Q(x)$ con coeficientes reales que cumplen que
+\[P(Q(x))=(x-1)(x-2)(x-3)(x-4).\]",7
+152,"Hallar el valor del número real $m$ para el que el siguiente polinomio tiene dos raíces reales que son una inversa de la otra:
+\[x^4-\frac{3\sqrt{2}}{2}x^3+3x^2+mx+2.\]",7
+153,Sea $P(x)$ un polinomio con coeficientes enteros tal que la ecuación $P(x)=7$ tiene al menos cuatro soluciones enteras. Demostrar que la ecuación $P(x)=14$ no tiene soluciones enteras.,7
+154,"Supongamos que $\alpha$ y $\beta$ son números reales que cumplen las ecuaciones
+\begin{eqnarray*}
+\alpha^3-3\alpha^2+5\alpha-17&=&0,\\
+\beta^3-3\beta^2+5\beta+11&=&0.
+\end{eqnarray*}
+Calcular $\alpha+\beta$.",7
+155,"Sean $\alpha$, $\beta$ y $\gamma$ las raíces del polinomio
+\[p(x)=x^3-3x+1.\]
+Hallar otro polinomio de grado $3$ cuyas raíces sean $\frac{1-\alpha}{1+\alpha}$,  $\frac{1-\beta}{1+\beta}$ y $\frac{1-\gamma}{1+\gamma}$.",7
+156,"Calcular $a$ y $b$ sabiendo que el polinomio
+\[p(x)=2x^3+ax^2+bx-16\]
+tiene una raíz doble y una raíz simple y que una de ellas es igual a 2.",7
+157,"Determinar todos los pares de polinomios $p(x)$ y $q(x)$ con coeficientes reales tales que
+\[x^2q(x)=p(q(x)){.}\]",7
+158,"Supongamos que $P(x)$, $Q(x)$, $R(x)$ y $S(x)$ son polinomios tales que 
+\[P(x^5)+xQ(x^5)+x^2R(x^5)=(1+x+x^2+x^3+x^4)S(x).\]
+Demostrar que $P(x)$ es divisible entre $x-1$. ",7
+159,"Sean los polinomios
+\begin{eqnarray}
+ P(x)&=&x^4+ax^3+bx^2+cx+1,\\
+ Q(x)&=&x^4+cx^3+bx^2+ax+1.
+\end{eqnarray}
+Hallar las condiciones que tienen que cumplir los parámetros reales $a$, $b$ y $c$ ($a$ distinto de $c$) para que $P(x)$ y $Q(x)$ tengan dos raíces comunes y resuelve en ese caso las ecuaciones $P(x)=0$ y $Q(x)=0$.",7
+160,"Dados dos puntos en el plano de coordenadas enteras, supongamos que por ellos pasa la gráfica de una función polinómica con coeficientes enteros. Probar que si la distancia entre los dos puntos es un número entero, entonces el segmento que los une es paralelo al eje de abscisas.",7
+161,"Encontrar todos los polinomios $P(x)$ con coeficientes reales que cumplen que
+\[P(2P(x))=2P(P(x))+2(P(x))^2\]
+para cualquier número real $x$.",7
+162,"Sean $a,b,c$ reales no nulos con $a\neq b$ y supongamos que los polinomios $x^2+ax+bc$ y $x^2+bx+ac$ tienen una raíz común. Demostrar que las otras dos raíces son raíces del polinomio $x^2+cx+ab$.",7
+163,"Probar que la gráfica del polinomio $P(x)$ es simétrica respecto del punto $A(a, b)$ si, y sólo si, existe un polinomio $Q(x)$ tal que
+\[P(x)=b+(x-a)Q\bigr((x-a)^2\bigl).\]",7
+164,Sea $x$ un número real tal que $x^3+2x^2+10x=20$. Demostrar que $x$ y $x^2$ son irracionales.,7
+165,"Hallar las raíces $r_1,r_2,r_3,r_4$ de la ecuación $4x^4-ax^3+bx^2-cx+5=0$ sabiendo que son todas reales positivas y que
+\[\frac{r_1}{2}+\frac{r_2}{4}+\frac{r_3}{5}+\frac{r_4}{8}=1.\]",7
+166,"Sabemos que un polinomio $p(x)=x^3+ax^2+bx+c$ tiene tres raices reales (posiblemente algunas de ellas iguales). Si $r$ es cualquiera de esas raíces, demostrar que
+\[r^2\leq a^2-2b.\]",7
+167,"Hallar todos los polinomios con coeficientes reales \(P(x)\) tales que
+\[P(x^2-y^2)=P(x-y)P(x+y)\]
+para cualesquiera \(x,y\in\mathbb{R}\).",7
+168,"Demostrar que no existe ningún polinomio $P(x)$ con coeficientes enteros y tres enteros distintos $a$, $b$ y $c$ tales que $P(a)=b$, $P(b)=c$ y $P(c)=a$. ",7
+169,"Sea \(P(x)\) un polinomio con coeficientes enteros satisfaciendo
+\[P(21)=17,\hspace{1cm}P(32)=-247,\hspace{1cm}P(37)=33.\]
+Supongamos que \(n\in\mathbb{Z}\) es un número tal que \(P(n)=n+51\). Demostrar que \(n=26\).",7
+170,"La ecuación \(x^3+bx^2+cx+d=0\), donde \(d\neq 0\), tiene tres raíces positivas distintas en progresión geométrica cuyos inversos están en progresión aritmética. Hallar \(c\) y \(d\) en función de \(b\).",7
+171,"Dado un número real \(c\in\mathbb{R}\), se sabe que las raíces del polinomio \[P(x)=x^3+2cx^2-cx+10\]
+son reales y están en progresión aritmética. Hallar dichas raíces.",7
+172,"Demostrar que si \(a,c,d\) son números racionales con \(a\neq 0\) y una de las raíces del polinomio \(ax^3+cx+d\) es igual al producto de las otras dos, entonces esa raíz es racional.",7
+173,"Consideremos el siguiente producto de polinomios
+\[(1+x+x^2+\ldots+x^{2007})(1-x+x^2-\ldots+x^{2006}-x^{2007})\]
+Demostrar que el resultado no tiene términos de exponente impar.",7
+174,"Hallar \(a\in\mathbb R\) de forma que la suma de los cuadrados de las raíces del polinomio
+\(p(x)=x^3-2ax^2+(a+1)x-a^3\) sea mínima y hallar dicha suma.",7
+175,Encontrar todos los polinomios \(P(x)\) con coeficientes reales que cumplan que \(P(x^2)=P(x)^2\) para cualquier \(x\in\mathbb{R}\).,7
+176,Sabemos que una de las raíces del polinomio de coeficientes reales \(p(x)=x^3+ax^2+bx+c\) es la suma de las otras dos. Demostrar que \(a^3-4ab+8c=0\).,7
+177,"Hallar los valores de $a,b\in\mathbb{R}$ para los que $p(x)=x^5+ax^3+b$ tiene una raíz real múltiple.",7
+178,"Calcular \(a,b\in\mathbb{R}\) para que \(ax^4+bx^3+1\) sea divisible por \(x^2+2x+1\).",7
+179,Supongamos que en el polinomio \(p(x)=x^3+bx^2+cx+d\) tiene sus tres raíces reales y una de ellas es la media geométrica de las otras dos. Probar que \(b^3d=c^3\).,7
+180,"Encontrar todos los polinomios $p(x)$ con coeficientes reales que verifican la igualdad
+\[p(p(x))=p(x)^{2007}{.}\]",7
+181,"Sean $\alpha$ y $\beta$ las soluciones de la ecuación $x^2-6x+1=0$. Demostrar que para cada natural $n$, el número $\alpha^n+\beta^n$ es entero y no es múltiplo de $5$.",7
+182,"Sean $a,b,c,d\in\mathbb Z$ tales que $ad$ es impar y $bc$ es par. Demostrar que el polinomio $$p(x)=ax^3+bx^2+cx+d$$
+tiene almenos una de sus raíces irracional.",7
+183,"Hallar todos los polinomios $P(x)$ con coeficientes reales tales que 
+\[xP(x-1)=(x+1)P(x)\]
+para cualquier $x\in\mathbb{R}$.",7
+184,"Hallar todos los polinomios $P(x)$ con coeficientes reales tales que
+\[P(x+1)=P(x)+2x+1\]
+para todo $x\in\mathbb{R}$.",7
+185,"Encontrar todas las funciones $f:\mathbb{R}\to\mathbb{R}$ que cumplen que
+\[f(x-f(y))=f(f(y))+xf(y)+f(x)-1\]
+para cualesquiera $x,y\in\mathbb{R}$.",7
+186,"Una función $f:[0,1]\to\mathbb{R}$ cumple las siguientes propiedades:
+
+$f(1)=1$,
+$f(x)\geq 0$ para todo $x\in[0,1]$,
+$f(x+y)\geq f(x)+f(y)$ siempre que $x,y,x+y\in[0,1]$.
+
+Demostrar que $f(x)\leq 2x$ para todo $x\in[0,1]$. ¿Es cierto que $f(x)\leq 1,\!9x$ para todo $x\in[0,1]$?",7
+187,"Una función $f$ está definida sobre los enteros positivos mediante
+\begin{eqnarray}
+ f(1)&=&1,\qquad f(3)=3,\\
+ f(2n)&=&f(n),\\
+ f(4n+1)&=&2f(2n+1)-f(n),\\
+ f(4n+3)&=&3f(2n+1)-2f(n).
+\end{eqnarray}
+Determinar el número de enteros positivos $n\leq 1988$ tales que $f(n)=n$.",7
+188,"Encontrar todas las funciones $f:\mathbb{N}\to\mathbb{N}$ tales que 
+$$f(n)+f(f(n))+f(f(f(n)))=3n$$
+para todo número natural $n\in\mathbb{N}$.",7
+189,"Hallar todas las funciones $f:\mathbb{R}\to\mathbb{R}$ que cumplen que
+\[f(x)+f\left(\frac{1}{1-x}\right)=x\]
+para cualquier $x\in\mathbb{R}$ distinto de $0$ y de $1$.",7
+190,"Hallar todas las funciones $f:(0,\infty)\to\mathbb{R}$ que cumplen que existe $\lambda>0$ con $f(\lambda)=1$ tal que
+\[f(x)f(y)+f\left(\frac{\lambda}{x}\right)f\left(\frac{\lambda}{y}\right)=2f(xy),\]
+para cualesquiera $x,y\in\mathbb{R}$.",7
+191,"La función $g$ se define sobre los números naturales y cumple las siguientes tres condiciones:
+
+$g(2)=1$,
+$g(2n)=g(n)$,
+$g(2n+1)=g(2n)+1$.
+
+Hallar el valor máximo $M$ de $g(n)$ para $1\leq n\leq 2002$ y determinar cuántos valores de $n$ en este rango cumplen que $g(n)=M$.",7
+192,"Hallar todas las funciones $f:\mathbb{R}\to\mathbb{R}$ que cumplen que
+\[\bigl(f(x)+f(y)\bigr)\bigl(f(u)+f(v)\bigr)=f(xu-yv)+f(xv+yu),\]
+para cualesquiera $x,y,u,v\in\mathbb{R}$.",7
+193,"Hallar todas las funciones $f:\mathbb{R}\to\mathbb{R}$ que cumplen las siguientes dos condiciones:
+\begin{eqnarray*}
+f(x+y)&=&f(x)+f(y),\\
+f(x\cdot y)&=&f(x)\cdot f(y),
+\end{eqnarray*}
+para cualesquiera $x,y\in\mathbb{R}$.",7
+194,"Hallar todas las funciones $f:\mathbb{N}\rightarrow\mathbb{N}$ estrictamente crecientes y tales que, para todo $n\in\mathbb{N}$, 
+\[f(n+f(n))=2f(n).\]",7
+195,"Sea $a\in\mathbb{N}$ y $f:\mathbb{N}\rightarrow\mathbb{N}$ una función tal que $f(f(n))=n+a,\ \forall n\in\mathbb{N}$.
+
+Demostrar que no existe una tal función si $a=1$.
+Para $a=2$, hallar todos los posibles valores de $f$.
+",7
+196,"Hallar todas las funciones $f:\mathbb{R}\rightarrow\mathbb{R}$ que verifican que
+\[f(x^2-y^2)=(x-y)\left(f(x)+f(y)\right)\]
+para cualesquiera $x,y\in\mathbb{R}$.",7
+197,"Hallar todas las funciones $f:\mathbb{R}\rightarrow\mathbb{R}$ que verifican que
+\[f\left(xf(x)+f(y)\right)=f(x)^2+y\]
+para cualesquiera $x,y\in\mathbb{R}$.",7
+198,"A cada entero positivo $n$ se le asigna un entero no negativo $f(n)$ de tal manera que se satisfagan las siguientes condiciones:
+
+$f(r\cdot s)=f(r)+f(s)$,
+$f(n)=0$, siempre que la cifra de las unidades de $n$ sea $3$,
+$f(10)=0$.
+
+Hallar $f(1985)$. Justificar la respuesta.",7
+199,"Hallar las funciones $f:\mathbb{R}-\{-1,0,1\}\to\mathbb{R}$ que cumplen la ecuación
+\[f(x)^2\cdot f\left(\frac{1-x}{1+x}\right)=64x\]
+para cualquier $x\in\mathbb{R}-\{-1,0,1\}$.",7
+200,"Encontrar todas las funciones $f:\mathbb{R}\rightarrow\mathbb{R}$ que verifican que
+\[f((x-y)^2)=f(x)^2-2xf(y)+y^2\]
+para cualesquiera $x,y\in\mathbb{R}$.",7
+201,"Hallar todas las funciones \(f:\mathbb{Z}\rightarrow\mathbb{Z}\) que verifiquen
+\[f(x+f(y))=f(x)-y\]
+para cualesquiera números enteros \(x,y\in\mathbb{Z}\).",7
+202,"Demostrar que si una función \(f:\mathbb{Z}\rightarrow\mathbb{Z}\) cumple que 
+\[f(m^2+f(n))=f(m)^2+n\]
+para cualesquiera \(m,n\in\mathbb{Z}\), entonces \(f(n)=n\) para todo \(n\in\mathbb{Z}\).",7
+203,"Dado un entero positivo $k$, sea $A_k$ el subconjunto de $\{k+1,k+2,\ldots,2k\}$ formado por los números cuya representación en base $2$ tiene exactamente tres unos y sea $f(k)$ el número de elementos de $A_k$.
+
+Demostrar que la ecuación $f(k)=m$ tiene al menos una solución para todo entero positivo $m$.
+ Hallar todos los enteros positivos $m$ para los que $f(k)=m$ tiene una única solución.
+",4
+204,Sobre una mesa hay cien tarjetas numeradas con los números del $1$ al $100$ y se eligen $25$ de ellas al azar. ¿Cuál es la probabilidad de que la suma de los números elegidos sea par?,4
+205,¿Cuántos divisores impares tiene $20!$?,4
+206,"Sea $S$ un conjunto de $n$ elementos. Denotamos por $p_n(k)$ al número de permutaciones de los elementos de $S$ que dejan exactamente $k$ elementos fijos. Demostrar que
+\[\sum_{k=0}^nkp_n(k)=n!\]",4
+207,"Calcular cuántos números enteros de $n$ cifras ($n\geq 1$) cumplen cada una de las siguientes condiciones:
+
+ Sus cifras forman una sucesión creciente.
+ Sus cifras forman una sucesión estrictamente creciente.
+
+Por ejemplo, las cifras del número $1345567789$ forman una sucesión creciente pero no estrictamente creciente ya que hay cifras repetidas.",4
+208,"Alrededor de una mesa redonda están sentados representantes de $n$ países ($n \geq 2$), de modo que satisfacen la siguiente condición: si dos personas son el mismo país, entonces sus respectivos vecinos de la derecha no pueden ser de un mismo país. Determinar, para cada $n$, el número máximo de personas que puede haber alrededor de la mesa.",4
+209,Se divide el plano en $n$ regiones mediante tres familias de rectas paralelas. No hay tres rectas que pasen por el mismo punto. Determinar el número mínimo de rectas necesarias para que $n\gt 1999$.,4
+210,"Se considera un polígono convexo de $n$ lados y se trazan todas sus rectas diagonales, suponiendo que no hay dos paralelas y que no hay tres con un punto en común que no sea un vértice. En esas condiciones, calcular:
+
+El número de puntos de intersección de estas diagonales, excluidos los vértices.
+Cuántos de esos puntos son interiores al polígono.
+",4
+211,Sea $H$ un conjunto de $n$ puntos en el plano con coordenadas enteras tales que cualesquiera tres de ellos no están alineados y forman un triángulo cuyo baricentro no tiene ninguna coordenada entera. Determinar el valor máximo posible de $n$.,4
+212,"Un conjunto de tres enteros no negativos $\{x,y,z\}$ con $x\lt y\lt z$ se llama histórico cuando cumple que $\{z-y,y-x\}=\{1776,2001\}$. Demostrar que el conjunto $\mathbb{N}$ se puede poner como unión de conjuntos históricos, disjuntos dos a dos.",4
+213,"Tiramos consecutivamente tres dados y formamos con ellos un número $A$ de tres cifras (la primera tirada nos da las centenas de $A$, la segunda las decenas y la tercera las unidades). Repetimos el proceso obteniendo otro número $B$ de tres cifras. Calcular la probabilidad de que $A\gt B$.",4
+214,"Ordenamos de menor a mayor todos los números que se forman reordenando de alguna forma los dígitos del $1$ al $7$ sin repetir ninguno (por ejemplo, el menor de estos números es $1234567$ y el mayor es $7654321$). Hallar el número que ocupa la posición $2015$.",4
+215,¿Cuál es la probabilidad de que al elegir un número al azar entre $1000$ y $9999$ el producto de sus cifras sea múltiplo de $3$? ¿Y si sabemos que el número es par?,4
+216,"En una reunión de 500 diplomáticos sabemos que 450 de ellos hablan inglés, 380 hablan francés, 390 hablan español y 290 hablan alemán. ¿Cuál es el mínimo número de diplomáticos que podemos asegurar que hablan los cuatro idiomas?",4
+217,"Sea $n$ un entero positivo. Consideramos la suma $x_1y_1+x_2y_2+\ldots+x_ny_n$, donde todas las $2n$ variables toman los valores $0$ ó $1$. Sea $I(n)$ el número de $2n$-uplas $(x_1,x_2,\ldots,x_n,y_1,y_2,\ldots,y_n)$ para las cuales el valor de la suma es impar, y sea $P(n)$ el número de las $2n$-uplas para las cuales dicha suma toma un valor par. Demostrar que
+\[\frac{P(n)}{I(n)}=\frac{2^n+1}{2^n-1}{.}\]",4
+218,"Dado $n\geq 1$, tomemos $n$ rectas en el plano tales que no hay dos paralelas ni tres concurrentes. Calcular, en función de $n$, las siguientes cantidades:
+
+el número de puntos de intersección,
+el número de regiones en que el plano queda dividido.
+
+¿Podemos colorear dichas regiones usando dos colores de forma que las regiones que sean adyacentes tengan distinto color?",4
+219,Se lanzan doce monedas al aire. ¿Cuál es la probabilidad de que salgan exactamente 3 caras y 9 cruces?,4
+220,Hallar el número mínimo de apuestas de quiniela que debemos rellenar para asegurar que obtenemos al menos cinco aciertos en una de ellas.,4
+221,"En la primera división de la liga española de fútbol juegan 20 equipos. En la primera jornada, se emparejan estos 20 equipos para jugar 10 partidos. Hallar el número de posibles emparejamientos distintos (no importa el orden de los partidos ni el orden de los equipos, sólo quién juega contra quién).",4
+222,"Dado un número natural $n$, sea $f(n)$ la cantidad de números de $n$ cifras que pueden formarse con los dígitos $1$, $2$ y $3$ de forma que no haya dos unos consecutivos. Demostrar que 
+\[f(n)=2f(n-1)+2f(n-2).\]",4
+223,Consideremos un polígono convexo de $n$ lados y supongamos que no tiene tres diagonales que se corten en el mismo punto. Calcular en función de $n$ el número de puntos interiores al polígono que son corte de dos diagonales.,4
+224,"Seis amigos tienen 100 euros. Determinar el número de formas distintas pueden repartirse el dinero (cada uno obtiene una cantidad entera de euros) en cada uno de los siguiente supuestos independientes:
+
+ Se admite que algunos de ellos reciban 0 euros.
+ Todos tienen que recibir al menos un euro.
+",4
+225,"Consideremos el conjunto $A=\{1,2,\ldots,n\}$.
+
+Demostrar que el número de subconjuntos de $A$ es $2^n$.
+¿Cuál es el número de parejas de subconjuntos disjuntos de $A$ ?
+
+Nota: tener en cuenta que el vacío $\emptyset$ también es un subconjunto de $A$.",4
+226,"Un polígono convexo de $n$ lados se descompone en $m$ triángulos de modo que cada lado de esos $m$ triángulos es también un lado de otro triángulo contiguo o del polígono dado. 
+
+Demostrar que $m+n$ es par.
+Conocidos $m$ y $n$, hallar el número de lados distintos que quedan en el interior del polígono y el número de vértices distintos que quedan en ese interior.
+",4
+227,"Tenemos una familia de subconjuntos de $4$ elementos del conjunto $\{1,2,3,4,5,6,7,8\}$ con la propiedad de que cada número entre $1$ y $8$ pertenece exactamente a $3$ de estos subconjuntos. ¿Cuántos subconjuntos tiene la familia?",4
+228,Determinar el menor número natural $n$ tal que un cubo de arista $n$ puede ser dividido en $1996$ cubos cuyas aristas sean números naturales.,4
+229,¿Es posible dibujar 2003 segmentos en el plano de forma que cada uno de ellos corte exactamente a otros tres segmentos?,4
+230,"Sean \(a\) y \(b\) enteros positivos. Calcular el número de caminos de longitud mínima que unen los puntos del plano \((0,0)\) y \((a,b)\) y están formados por segmentos horizontales y verticales de longitudes enteras. ",4
+231,"Se meten en un saco \(900\) tarjetas numeradas del \(100\) al \(999\). ¿Cuál es la menor cantidad de tarjetas que se deben sacar del saco, para asegurarnos que al menos en tres tarjetas la suma de los dígitos del número escrito es la misma?",4
+232,"Hallar el número de de formas de ordenar los números \(1,2,\ldots,n\) que no dejan fijo a ninguno de los números, es decir, el número \(k\) no está en el \(k\)-ésimo lugar de la ordenación. ¿Cuál es la probabilidad de que al tomar una ordenación al azar, la elegida no deje fijo a ningún elemento?",4
+233,"Dado un número natural $n$ tal que $1\leq n\leq 8$, ¿de cuántas formas pueden colocarse $n$ torres en un tablero de ajedrez $8\times 8$ de forma que no se ataquen?",4
+234,"Escribimos todos los números del $1$ al $9999$ de forma consecutiva formando el número
+\[N=12345678910111213...99989999.\]
+Se pide:
+
+¿Cuántos dígitos tiene el número $N$?
+¿Qué dígito de $N$ ocupa la posición $2015$ por la izquierda?
+",4
+235,"Se escriben en la pizarra 5 números enteros positivos (no necesariamente distintos) y se
+calculan todas las posibles sumas de parejas de estos números. Los únicos resultados que se obtienen
+son 31, 38 y 45 (algunos de ellos, varias veces). ¿Cuáles son los 5 números?",6
+236,"¿Es posible rellenar cada uno de los cuadrados con una suma $+$ ó una resta $-$ para que la igualdad de abajo sea cierta? ¿Y si permitimos también la multiplicación $\times$?
+\[0=1\ \square\ 2\ \square\ 3\ \square\ 4\ \square\ 5\ \square\ 6\ \square\ 7\ \square\ 8\ \square\ 9\ \square\ 10\]",6
+237,"Consideremos el conjunto
+\[S=\left\{1,\frac{1}{2},\frac{1}{3},\frac{1}{4},\ldots,\frac{1}{1000}\right\}\]
+Repetimos el siguiente proceso hasta que sólo quede un elemento en $S$: elegimos dos números $x,y\in S$ y los sustituimos por el número $x+y+xy$. Demostrar que el último número no depende de qué elementos se han elegido en cada paso y calcularlo.",6
+238,"Dado un conjunto $M$ de $1985$ enteros positivos, ninguno de los cuales tiene un divisor primo mayor que $26$, demostrar que podemos encontrar cuatro elementos distintos en $M$ cuya media geométrica es un entero.",6
+239,"En un tablero de ajedrez infinito, se juega al siguiente solitario. Al principio tenemos $n^2$ fichas que ocupan $n^2$ casillas que forman un cuadrado de lado $n$. El único movimiento permitido es que una ficha salte horizontal o verticalmente por encima de una casilla ocupada hasta una casilla libre, eliminando la ficha por encima de la que se ha saltado. El jugador gana si consigue que quede una sola ficha en el tablero al cabo de un cierto número de movimientos. ¿Para qué enteros positivos $n$ se puede ganar a este juego?",6
+240,"Coloreamos nueve de las cien casillas de un tablero $10\times 10$. En cada paso, coloreamos todas las casillas que tengan al menos dos casillas vecinas coloreadas (con las que comparten lados). Hallar todas las configuraciones iniciales para las que, después de cierto número de pasos, llegamos a colorear todas las casillas.",6
+241,"Un preso se halla en el centro de un área circular de radio 100 metros y puede moverse mediante pasos de 1 metro en la dirección y sentido que él elija. No obstante, en cada uno de sus pasos, el carcelero malvado puede ordenarle que se mueva en el sentido opuesto al que ha elegido. ¿Cuál es el mínimo de pasos que el preso necesita para alcanzar la circunferencia exterior y así ganar su libertad?",6
+242,"Dados seis puntos en un círculo, demostrar que siempre podemos encontrar dos de ellos cuya distancia sea menor o igual que el radio del círculo. ¿Es cierto el mismo resultado sólo con cinco puntos?",6
+243,"Dada una sucesión de más de $(r-1)(s-1)$ números reales, demostrar que siempre podemos encontrar una subsucesión creciente de $r$ términos o una subsucesión decreciente de $s$ términos.",6
+244,"Dados seis puntos en el espacio, coloreamos los segmentos que determinan de dos colores distintos. Demostrar que siempre podemos encontrar un triángulo con los tres lados del mismo color. ¿Podemos encontrar dos triángulos distintos con los tres lados del mismo color?",6
+245,"Las casillas de un tablero de $2000\times 2001$ tienen coordenadas $(x,y)$, con $x$ e $y$ enteros tales que $0\leq x\leq 1999$ e $0\leq y\leq 2000$. Una nave en el tablero se mueve de la siguiente manera: antes de cada movimiento, la nave está en la posición $(x,y)$ y tiene una velocidad $(h,v)$, donde $h$ y $v$ son enteros. La nave escoge una nueva velocidad $(h',v')$ de forma que $h'-h$ y $v'-v$ son iguales a $-1$, $0$ ó $+1$. La nueva posición de la nave será $(x',y')$, donde $x'\equiv x+h'\ (\text{mód }2000)$ e $y'\equiv y+v'\ (\text{mód }2001)$.
+
+Hay dos naves en el tablero: la marciana y la terrestre, que quiere atrapar a la marciana. Inicialmente, cada nave está en una casilla del tablero y tiene velocidad $(0,0)$. Se mueven alternativamente, siendo la primera la terrestre, que atrapará a la marciana si después de un movimiento cae en su posición. ¿Existe una estrategia que siempre le permita a la nave terrestre atrapar a la nave marciana, cualesquiera que sean las posiciones iniciales?",6
+246,"Partiendo de un polinomio $x^3+\square x^2+\square x+\square$, donde $\square$ indica que falta el coeficiente, dos jugadores juegan de la siguiente manera: el primero escribe un entero no nulo en uno de los huecos, después el segundo escribe otro entero en uno de los dos huecos restantes y, finalmente, el primer jugador coloca otro coeficiente en el último hueco. El primer jugador gana si el polinomio tiene las tres raíces enteras; en caso contrario, gana el segundo. ¿Quién puede asegurarse la victoria?",6
+247,"Se disponen 2018 presos en fila india y a cada uno se le coloca un sombrero blanco o negro, de forma que cada uno ve el color de los sombreros de los presos que están delante de él en la fila (pero no el suyo ni los de quienes se encuentran detrás en la fila). Se les pregunta a todos los presos por el color de su sombrero, por orden desde el último de la fila al primero. El que acierta se salva y el que no queda en la cárcel. Mediante una estrategia adecuada pactada previamente por los presos, ¿cuál es el máximo número de presos que podemos garantizar que se salva?",6
+248,Un tablero rectangular de dimensiones $m\times n$ se cubre con piezas de tamaños $2\times 2$ y $1\times 4$ (sin solapamiento ni salirse del tablero). Una vez cubierto se sustituye una pieza de un tipo por otra del otro tipo. ¿Es posible recolocar todas las piezas para seguir recubriendo todo el tablero?,6
+249,"Se dan 98 puntos sobre una circunferencia. María y José juegan alternativamente de la siguiente forma: cada uno de ellos traza un segmento uniendo dos de los puntos que no hayan sido unidos entre sí anteriormente. El juego termina cuando los 98 puntos han sido usados como extremos de un segmento al menos una vez, siendo el vencedor quien dibuja el último trazo. Si José inicia el juego, ¿quién puede asegurarse la victoria?",6
+250,"Dos personas juegan colocando monedas sobre un tablero rectangular por turnos. Todas las monedas son del mismo tamaño y la única condición es que una moneda no puede superponerse a otra que ya esté colocada sobre el tablero, perdiendo el jugador que no pueda colocar en su turno. Determinar qué jugador tiene una estrategia ganadora.",6
+251,"Si descomponemos el intervalo $[0,1]$ en una cantidad finita de subintervalos disjuntos y coloreamos algunos de ellos de forma que dos puntos cualesquiera que disten $\frac{1}{10}$ no son ambos coloreados, demostrar que la longitud total de los segmentos coloreados no es mayor que $\frac{1}{2}$.",6
+252,"Pablo estaba copiando el siguiente problema:
+
+
+Entre todas las sucesiones de 2004 números reales $\{x_0,x_1,x_2,\ldots,x_{2003}\}$
+tales que
+\[x_0=1,\ 0\leq x_1\leq 2x_0,\ 0\leq x_2\leq 2x_1,\ \ldots,\ 0\leq x_{2003}\leq 2x_{2002},\]
+determine aquella para la que la siguiente
+expresión toma su mayor valor:
+\[S=\ldots\]
+
+
+Cuando Pablo iba a copiar la expresión de $S$ le borraron la pizarra. Lo único que pudo
+recordar es que era de la forma
+$S=\pm x_1\pm x_2\pm\ldots\pm x_{2002}+x_{2003}$,
+donde el último término, $x_{2003}$, tenía coeficiente $+1$, y los anteriores tenían coeficiente $+1$ ó $–1$. Demostrar que Pablo, a pesar de no tener el enunciado completo, puede determinar con certeza la solución del problema.",6
+253,"Supongamos que tenemos un collar con $n$ perlas y a cada perla le asociamos un número entero de forma que la suma de todos los números es $n-1$. Probar que se puede cortar el collar para obtener una cadena abierta de forma que, si llamamos $a_1,a_2,\ldots,a_n$ a los números asociados a esta cadena en ese orden, se cumple que $a_1+a_2+\ldots+a_k\leq k-1$ para todo $k\in\{1,\ldots,n\}$.",6
+254,"Sea $n$ un entero positivo impar y supongamos que $m_1,m_2,\ldots,m_n$ es una reordenación de los números $1,2,\ldots,n$. Demostrar que
+\[(m_1-1)(m_2-2)\ldots(m_n-n)\]
+es un número par.",6
+255,"Un dispositivo electrónico con dos teclas, una roja y una amarilla, muestra en su pantalla un número entero. Al apretar la tecla roja el número $n$ de la pantalla se reemplaza por $2n-7$ y al apretar la tecla amarilla el número $n$ de la pantalla se reemplaza por $3n-14$. Comenzando con $n=77$ y después de apretar varias veces las teclas, aparece en la pantalla un número $N$ mayor que $777777$. Hallar el menor de tales números $N$.",6
+256,"¿Es posible disponer los números del 0 al 9 alrededor de una circunferencia de forma que la suma de tres números consecutivos cualesquiera sea, como mucho, (a) 13, (b) 14, (c) 15?",6
+257,"Alrededor de un círculo se colocan $2015$ números, todos iguales a cero o a uno. A continuación, si dos números consecutivos son iguales se escribe entre ellos un cero, y si son distintos se escribe un uno entre ellos. Al hacer esta operación con cada par de números consecutivos, se borran los $2015$ números originales. Si repetimos el proceso, ¿para qué configuraciones originales podemos llegar a que todos sean iguales a cero?",6
+258,"Colocamos, formando una circunferencia, 2004 fichas bicolores: blancas por una cara y negras por la otra. En cualquier momento podemos elegir una ficha con la cara negra hacia arriba, y dar la vuelta a tres fichas: la elegida, la de su derecha y la de su izquierda. Supongamos que inicialmente hay una sola ficha con la cara negra hacia arriba. ¿Será posible, repitiendo el movimiento descrito, conseguir que todas las fichas tengan la cara blanca hacia arriba? ¿Y si tuviéramos 2003 fichas, entre las cuales exactamente una tiene al comienzo la cara negra hacia arriba?",6
+259,"Dado el polinomio
+$$p(x)=x^{2014}+a_{2013}x^{2013}+a_{2012}x^{2012}+...+a_1x+a_0{,}$$
+dos personas juegan al siguiente juego: por turnos, cada uno elige  un coeficiente que no haya sido elegido anteriormente y lo cambia por un entero no nulo. Si el polinomio resultante tiene como mucho una raíz entera, entonces gana el primer jugador (el que empezó). Si, por el contrario, el polinomio tiene dos o más raíces enteras, entonces gana el segundo jugador. 
+
+Demuestra que el primer jugador tiene una estrategia ganadora.",6
+260,"Dado un triángulo equilátero, demuestra que no puede cubrirse totalmente con otros dos triángulos equiláteros de lado menor.",6
+261,"Sea $A=\{P_1,P_2,\ldots,P_{1997}\}$ un conjunto de $1997$ puntos en el interior de un círculo de radio $1$, siendo $P_1$ el centro del círculo. Para cada $k\in\{2,3,\ldots,1997\}$, sea $x_k$ la distancia de $P_k$ al punto de $A$ más próximo a $P_k$ y distinto de $P_k$. Demostrar que
+\[x_1^2+x_3^2+\ldots+x_{1997}^2\leq 9.\]",6
+262,"¿Existe algún conjunto finito de números reales $M$ que contenga al menos dos elementos distintos y que cumpla que para dos números $a,b$ cualesquiera de M, el número $2a-b^2$ también sea un elemento de $M$?",6
+263,Un reloj marca las 12:00 y sus agujas coinciden. ¿Cuál es la siguiente hora del día a la que las dos agujas están en la misma posición?,6
+264,"Consideremos cuatro números reales $a,b,c,d>0$ y los cambiamos por los números $a_1=ab$, $b_1=bc$, $c_1=cd$ y $d_1=da$. Ahora con los nuevos cuatro números volvemos a repetir el proceso una y otra vez. Si al cabo de un cierto número de iteraciones obtenemos los números iniciales, ¿cuál es el valor de $a$, $b$, $c$ y $d$?",6
+265,Supongamos que dividimos un cuadrado de lado unidad en dos subconjuntos disjuntos. Demostrar que uno de los dos subconjuntos tiene puntos que están a distancia mayor o igual que $\frac{\sqrt{5}}{2}$.,6
+266,"A un congreso asisten 9 personas que, en cada una de las cuatro reuniones que hacen juntas, se sientan alrededor de una misma mesa redonda. ¿Pueden sentarse de forma que ninguna tenga a la misma persona a su lado más que en una de las cuatro ocasiones?",6
+267,"En un tablero de dimensiones $4\times 4$,
+
+ Demuestra que se pueden colocar siete fichas, cada una en una casilla distinta, de forma que al eliminar dos filas y dos columnas cualesquiera, siempre quede alguna ficha sin eliminar.
+  Demuestra que si colocamos sólo seis fichas, siempre pueden eliminarse dos filas y dos columnas de forma que todas las fichas sean eliminadas.
+",6
+268,Determinar los valores de los números naturales $m$ y $n$ para los que en una cuadrícula de $m\times n$ casillas existe un camino cerrado a través de las aristas que una todos los vértices y no pase dos veces por el mismo sitio.,6
+269,En un tablero $7\times 7$ se colocan ocho fichas. ¿Pueden elegirse siempre dos de ellas que no estén en la misma fila ni en la misma columna ni en la misma diagonal?,6
+270,"En cada una de las casillas de un tablero $4\times 4$ se coloca un signo más o un signo menos, como muestra la siguiente matriz:
+\[\left[\begin{array}{cccc}
++&+&+&+\\
+-&+&+&+\\
++&-&+&+\\
++&+&-&+
+\end{array}\right]\]
+Se permite cambiar el signo de todos los elementos de una fila, o bien de todos los elementos de una columna o de cualquiera de las dos diagonales principales. ¿Puede conseguirse mediante estos cambios que todos los signos sean positivos?",6
+271,"Supongamos que, dentro de un cuadrado de lado uno, dibujamos nueve puntos. Probar que siempre hay tres de ellos tales que el área del triángulo que determinan es menor o igual que $\frac{1}{8}$.",6
+272,"En un tablero de ajedrez se colocan 33 torres. Demostrar que
+
+siempre podemos elegir cinco torres de forma que todas se ataquen entre sí, y
+siempre podemos elegir cinco torres de forma que ninguna ataque a las demás.
+",6
+273,En cada una de las casillas de una cuadrícula $3\times 7$ se coloca una ficha azul o una ficha roja. Demostrar que siempre podemos encontrar cuatro fichas del mismo color centradas en los vértices de un rectángulo.,6
+274,"Dado un conjunto de $9$ puntos en el plano de forma que tres cualesquiera de ellos no están alineados, demuestra que,  para cada punto $P$ del conjunto, el número de triángulos que tienen como vértices a tres de los ocho puntos restantes y a $P$ en el interior es par.",6
+275,"En un polígono regular de $n\geq 3$ lados se les asigna un número entre $1$ y $n$ a cada vértices, a cada lado y a cada diagonal. Demostrar que si $n$ es impar, entonces esto puede conseguirse cumpliendo además que
+
+el número asociado a cada lado o diagonal es distinto al asociado a los vértices que une,
+para cada vértice, no hay dos segmentos (lados o diagonales) que comparten dicho vértice y tengan el mismo número.
+",6
+276,"A cada vértice de un cubo se le asigna el valor $1$ ó $-1$, y a cada cara el producto de los valores asignados a los vértices. ¿Qué valores puede tomar la suma de los catorce valores así obtenidos?",6
+277,La suma de las edades de los 120 estudiantes que participaron el año pasado en la fase final de la Olimpiada Matemática fue de 2002 años. Demostrar que existen 3 de ellos tales que la suma de sus edades no es menor de 51 años.,6
+278,"En una reunión hay 201 personas de 5 nacionalidades diferentes. Se sabe que, en cada grupo de 6, al menos dos tienen la misma edad. Demostrar que hay al menos 5 personas del mismo país, de la misma edad y del mismo sexo.",6
+279,"Dados siete números reales cualesquiera, demostrar que siempre existen dos de ellos, $x$ e $y$, tales que
+\[\frac{x-y}{1+xy}<\frac{\sqrt{3}}{3}{.}\]",6
+280,¿Pueden separarse los números del \(1\) al \(100\) en doce subconjuntos de forma que cada uno de ellos esté formado por términos de una misma sucesión geométrica?,6
+281,Escogemos $n+1$ números distintos desde el $1$ al $2n$. Demostrar que entre esos números siempre hay dos que son primos entre sí. ¿Es cierto el resultado si sólo tomamos $n$ números?,6
+282,"Consideremos un tablero $6\times 6$ que se ha rellenado con fichas de dominó de tamaño $2\times 1$. 
+
+Demostrar que cualquier eje vertical u horizontal de la cuadrícula atraviesa a un número par de fichas.
+Demostrar que al menos uno de esos ejes no atraviesa a ninguna ficha.
+",6
+283,"En un tablero de ajedrez colocamos $24$ fichas ocupando las $3$ filas superiores. Podemos cambiar la posición de las fichas haciendo saltar una por encima de otra a un hueco libre en cualquier dirección (horizontal, vertical o diagonal). ¿Se puede conseguir así llevar las $24$ fichas a las tres filas inferiores?",6
+284,Consideremos los seis vértices de un hexágono regular y coloreemos los segmentos que determinan de dos colores. Demostrar que siempre podemos encontrar tres vértices de forma que los tres lados del triángulo que determinan tienen el mismo color.,6
+285,"Sobre los vértices de un hexágono regular, se colocan, en sentido antihorario, los números $\{1,0,1,0,0,0\}$ y se permite realizar la siguiente operación: sumarle o restarle $1$ a dos vértices consecutivos. ¿Se puede, usando reiteradamente esta operación, llegar a que en todos los vértices haya un cero? ",6
+286,"Si a un tablero de ajedrez $(8\times 8)$ le quitamos las casillas de dos esquinas opuestas, ¿es posible rellenar las 62 casillas restantes con fichas de tamaño $2\times1$?",6
+287,"En una reunión de $2009$ personas, demostrar que hay dos personas que le han dado la mano al mismo número de personas. ",6
+288,Demostrar que en todo conjunto de $5$ números naturales siempre hay tres cuya suma es múltiplo de $3$.,6
+289,"Si $x$ e $y$ son números reales distintos y distintos de $1$ y además
+\[\frac{yz-x^2}{1-x}=\frac{xz-y^2}{1-y},\]
+demostrar que ambas fracciones son iguales a $x+y+z$.",2
+290,"Si $\alpha,\beta,\gamma\in\mathbb{R}$ son los ángulos de un triángulo no rectángulo, demostrar que
+\[\tan(\alpha)+\tan(\beta)+\tan(\gamma)=\tan(\alpha)\tan(\beta)\tan(\gamma).\]",2
+291,"Hallar todos los pares de números reales $(x,y)$ que verifican el siguiente sistema de ecuaciones:
+\[\left\{
+\begin{array}{l}
+ (1+x)(1+x^2)(1+x^4)=1+y^7,\\
+ (1+y)(1+y^2)(1+y^4)=1+x^7.
+\end{array}
+\right.\]",2
+292,"Dados $a,b\in\mathbb{R}$ números reales, demostrar que existe $c\in(0,1)$ tal que
+\[\left|ac+b+\frac{1}{c+1}\right|\gt\frac{1}{24}.\]",2
+293,"Hallar números enteros $a,b,c,d$ tales que
+\[\sqrt[16]{2207-\frac{1}{2207-\frac{1}{2207-\frac{1}{2207-\ldots}}}}=\frac{a+b\sqrt{c}}{d}.\]",2
+294,"Demostrar que los siguientes números son racionales:
+\begin{eqnarray}
+S&=&\tan^2(1º)+\tan^2(3º)+\tan^2(5º)+\ldots+\tan^2(89º),\\
+C&=&\tan^2(2º)+\tan^2(4º)+\tan^2(6º)+\ldots+\tan^2(88º).
+\end{eqnarray}",2
+295,"Sean  $x,y,z,w$ números reales positivos tales que
+\[\left\{\begin{array}{l}x+y=z+w\\2xy=zw\end{array}\right.\]
+Determinar los posibles valores de $\frac{x}{y}$.",2
+296,"Encontrar todos los números naturales $n$ tales que 
+\[(n!)!=n!(2n-1)!\]
+Aquí $a!$ denota el factorial de $a$, es decir, el producto de todos los números enteros entre $1$ y $a$. Por ejemplo, $6!=6\cdot5\cdot4\cdot 3\cdot 2\cdot 1=720$.",2
+297,"Supongamos que los números reales $x$ e $y$ satisfacen el siguiente sistema de ecuaciones:
+\[\left\{\begin{array}{l}2^x-2^y=1,\\4^x-4^y=\frac{5}{3}{.}\end{array}\right.\]
+Hallar el valor de $x-y$.",2
+298,"Sean $m,n\gt 1$ dos números naturales distintos y primos entre sí. Demostrar que
+\[\frac{\log_{10}m}{\log_{10}n}\]
+no es un número racional.",2
+299,"Dados números reales $x,y,z\in\mathbb{R}$ todos distintos entre sí y distintos de cero, y tales que $x+y+z=0$, demostrar que
+$$\left(\frac{y-z}{x}+\frac{z-x}{y}+\frac{x-y}{z}\right)\left(\frac{x}{y-z}+\frac{y}{z-x}+\frac{z}{x-y}\right)=9.$$",2
+300,"
+Dado un número real $x$, demostrar que si $x^2+x$ y $x^3+2x$ son racionales, entonces $x$ también es racional.
+Demostrar que existe un número irracional $w$ tal que $w^2+w$ y $w^3-2w$ son racionales.
+",2
+301,"Hallar todos los pares de números reales $(x,y)$ que cumplen la ecuación
+\[x^2+2x\,\mathrm{sen}(xy)+1=0.\]",2
+302,"Dados números reales $0\lt a_1\lt a_2\lt\cdots\lt a_n$, hallar la suma de las longitudes de todos los intervalos de números reales, disjuntos dos a dos, en los que
+\[f(x)=\frac{a_1}{x+a_1}+\frac{a_2}{x+a_2}+\ldots+\frac{a_n}{x+a_n}\gt 1.\]",2
+303,"Considérense las expresiones de la forma $x+yt+zt^2$ con $x,y,z$ racionales y $t=\sqrt[3]{2}$. Si $x$, $y$ y $z$ no son simultáneamente cero, demostrar que existen $u,v,w$ racionales tales que
+\[(x+yt+zt^2)(u+vt+wt^2)=1.\]",2
+304,"Demostrar la igualdad
+\[\frac{\sin 36}{\sin 18+\sin 42+\sin 54+\sin 78}=\tan12,\]
+donde se entiende que todos los ángulos están medidos en grados sexagesimales.",2
+305,"Sean $r$, $s$ y $t$ las soluciones de la ecuación $x(x-2)(3x-7)=2$.
+
+Demostrar que $r$, $s$ y $t$ son positivas.
+Calcular $\mathrm{arctg}(r)+\mathrm{arctg}(s)+\mathrm{arctg}(t)$.
+",2
+306,"Encontrar todos los soluciones reales de la ecuación
+\[\log_5(x-5)+\log_6(x+6)=4.\]
+Aquí, $\log_b(y)$ denota el logaritmo en base $b$ de $y$.",2
+307,"Encontrar todas las soluciones reales de cada una de las siguientes tres ecuaciones:
+\begin{eqnarray*}
+\sqrt{x+\sqrt{2x-1}}+\sqrt{x-\sqrt{2x-1}}&=&\sqrt{2}\\
+\sqrt{x+\sqrt{2x-1}}+\sqrt{x-\sqrt{2x-1}}&=&1\\
+\sqrt{x+\sqrt{2x-1}}+\sqrt{x-\sqrt{2x-1}}&=&2
+\end{eqnarray*}
+",2
+308,"Hallar todas las cuaternas de números reales que cumplen que si al producto de tres cualesquiera de ellos se le suma el cuarto, el resultado es 2.",2
+309,"Sean $a,b,c$ números reales no nulos y con suma no nula tales que
+\[\frac{1}{a}+\frac{1}{b}+\frac{1}{c}=\frac{1}{a+b+c}.\]
+Demostrar que
+\[\frac{1}{a^{1999}}+\frac{1}{b^{1999}}+\frac{1}{c^{1999}}=\frac{1}{a^{1999}+b^{1999}+c^{1999}}.\]",2
+310,"Sean $x_1,\ldots,x_n$ números reales. Probar que
+\[\sum_{i,j=1}^n\cos(x_i-x_j)\geq 0.\]",2
+311,"Determinar todas las ternas $(x,y,z)$ de números reales que satisfacen el siguiente sistema de ecuaciones:
+\[\left.\begin{array}{r}x+y-z=-1\\x^2-y^2+z^2=1\\-x^3+y^3+z^3=-1\end{array}\right\}\]",2
+312,"Dados dos números reales positivos $x,y$, se define la operación $x*y$ como
+\[x*y=\frac{x+y}{1+xy}\]
+Dado un número natural $n\in\mathbb{N}$, calcular $(\cdots(((2*3)*4)*5)\cdots)*n$.",2
+313,"Supongamos que los números reales $x$ e $y$ verifican
+\[\left(x+\sqrt{1+x^2}\right)\left(y+\sqrt{1+y^2}\right)=1.\]
+Probar que $x+y=0$.",2
+314,"Calcular las soluciones reales de la ecuación
+\[\sqrt[4]{97-x}+\sqrt[4]{x}=5.\]",2
+315,"Sean $ a,b,c\in\mathbb{R}$ números reales con $a\neq 0$. Demostrar que las soluciones de la ecuación $ax^2+bx+c=0$ vienen dadas por \[x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\]
+",2
+316,"Sea $n$ un número natural. Demostrar que la suma de todas las fracciones $\frac{1}{pq}$, donde $p$ y $q$ son primos relativos tales que $1\leq p\lt q\leq n$ y $p+q\gt n$, es igual a $\frac{1}{2}$.",5
+317,"
+Se tienen dos sucesiones, cada una de 2003 enteros consecutivos, y un tablero de 2
+filas y 2003 columnas. Decidir si siempre es posible distribuir los números de la primera sucesión en la primera fila y los de la segunda sucesión en la segunda fila, de tal manera que los resultados obtenidos al sumar los dos números de cada columna formen una nueva sucesión de 2003 números consecutivos.
+¿Y si se reemplaza 2003 por 2004?
+",5
+318,"Calcula el valor de la siguiente suma
+\[E(\sqrt{1})-E(\sqrt{2})+E(\sqrt{3})-E(\sqrt{4})+\ldots+E(\sqrt{2015}),\]
+donde $E(x)$ denota la parte entera de $x$.",5
+319,"Dado un entero $c\geq 1$, definimos la sucesión $\{a_n\}$ como $a_1=2$ y, para $n\geq 2$,
+\[a_{n+1}=ca_n+\sqrt{(c^2-1)(a_n^2-4)}{,}\]
+Demostrar que $a_n$ es un entero para todo $n\geq 1$.
+",5
+320,"Hallar el menor número natural que es suma de 9 naturales consecutivos, es suma de 10 naturales consecutivos y además es suma de 11 naturales consecutivos.
+",5
+321,"Sean $a_0$, $a_1$, $a_2$, $a_3$ y $a_4$ cinco números positivos en progresión aritmética de diferencia $d$. Probar que
+\[a_2^3\leq\frac{1}{10}(a_0^3+4a_1^3+4a_3^3+a_4^3){.}\]",5
+322,"Consideremos dos sucesiones $\{x_n\}$ e $\{y_n\}$ definidas por 
+\begin{eqnarray*}
+x_0=1,\ x_1=1,&&x_{n+1}=x_n+2x_{n-1},\\
+y_0=1,\ y_1=7,&&y_{n+1}=2y_n+3y_{n-1}.
+\end{eqnarray*}
+Demostrar que 1 es el único número que aparece simultáneamente en las dos sucesiones.",5
+323,"Considerando la suma
+$$S_n=\frac{1}{1\cdot 2\cdot 3}+\frac{1}{2\cdot 3\cdot 4}+\ldots+\frac{1}{n(n+1)(n+2)}{,}$$
+expresar $S_{2015}$ como una fracción irreducible.
+",5
+324,"Consideremos la sucesión $\{a_n\}$ dada por $a_1=a_2=1$ y 
+\[a_{n+2}=\frac{1}{a_{n+1}}+a_n\] 
+para todo $n\in\mathbb{N}$. Calcular $a_{2004}$.",5
+325,Hallar todas las sucesiones estrictamente crecientes de números naturales que cumplen que cualquier número natural se escribe de forma única como suma de términos distintos de la sucesión.,5
+326,"Para cada número natural $n$, sea $a_n$ el último dígito del número $1+2+\cdots+n$. Calcular $a_1+a_2+\ldots+a_n$.",5
+327,Calcula todas las sucesiones de números naturales consecutivos cuya suma es $1999$.,5
+328,"Demostrar que, dado un número natural \(n\),
+\[2\cdot 2+3\cdot 2^2+4\cdot 2^3+\cdots+n\cdot 2^{n-1}=(n+1)\cdot 2^n.\]",5
+329,"Calcular el valor de la siguente suma en función de un entero no negativo $n\in\mathbb{Z}$:
+\[\sum_{j=0}^n\sum_{k=0}^{n-j}\frac{(-1)^k}{j!\cdot k!}{.}\]",5
+330,"Consideremos la sucesión definida por
+\[16, 1156, 111556,11115556,\ldots\]
+donde cada número se obtiene del anterior insertando \(15\) entre sus cifras centrales. Demostrar que todos los números de la sucesión son cuadrados perfectos.",5
+331,"Demostrar que si entre los infinitos términos de una progresión aritmética de números enteros positivos hay un cuadrado perfecto, entonces infinitos términos de la progresión son cuadrados perfectos.",5
+332,Tenemos cien números en progresión aritmética de los cuales sabemos que su suma es $52$ y que la suma de los términos pares es $1$. Calcular la suma de los cuadrados de los cien números.,5
+333,"Para cada número natural $n$, consideremos $a_n$ el número cuya expresión decimal está formada por $n$ sietes (es decir, $a_1=7$, $a_2=77$, $a_3=777$, etc,...). Hallar el valor de la suma 
+\[a_1+a_2+\ldots+a_n{.}\]",5
