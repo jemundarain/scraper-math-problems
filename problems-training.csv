@@ -1,293 +1,385 @@
 SN,Enunciado,Category
-1,Hallar todas las formas de expresar $2003$ como la suma de los cuadrados de dos n˙meros enteros.,4
-2,En cada casilla de un tablero $m\times n$ se encuentra un n˙mero real. Se permite cambiar todos los n˙meros de una fila o de una columna de signo tantas veces como queramos. Demostrar que puede conseguirse que las sumas de los elementos cada fila y cada columna sean no negativas independientemente de la configuraciÛn inicial.,4
-3,"Sea  $a_1,a_2,\ldots$ una progresiÛn aritmÈtica no constante de n˙meros reales. Supongamos que existen enteros primos entre sÌ $p,q\gt 1$ para los que $a_1^2$, $a_{p+1}^2$ y $a_{q+1}^2$ son tambiÈn elementos de la misma sucesiÛn. Demostrar que todos los tÈrminos de la sucesiÛn son enteros.",4
-4,"Sean $p$ y $q$ n˙meros enteros tales que \[1-\frac{1}{2}+\frac{1}{3}-\frac{1}{4}+\ldots-\frac{1}{1318}+\frac{1}{1319}=\frac{p}{q}.\] Demostrar que $p$ es divisible entre $1979$.",4
-5,"Demostrar que el siguiente n˙mero entero es compuesto: \[\frac{5^{125}-1}{5^{25}-1}.\]",4
-6,"Si los n˙meros del $11111$ al $99999$ se colocan en alg˙n orden formando un n˙mero de $444445$ cifras, demostrar que dicho n˙mero no es una potencia de $2$.",4
-7,"Dado un n˙mero natural $n$, denotaremos por $s(n)$ a la suma de los dÌgitos de $n$ (por ejemplo, tenemos que $s(436)=4+3+6=13$). Hallar todas las soluciones de la ecuaciÛn \[n+s(n)+s(s(n))=2018.\]",4
-8,"Sean $p$ un n˙mero primo impar y $a$ y $b$ enteros positivos. Si el exponente de $p$ en $a-1$ es $\alpha\geq 1$ y el exponente de $p$ en $b$ es $\beta\geq 0$, demostrar que el exponente de $p$ en $a^b-1$ es $\alpha+\beta$. (Cuando decimos que $e$ es el exponente de $p$ en un n˙mero $n$, queremos decir que es el exponente en su factorizaciÛn como producto de n˙meros primos, es decir, que $p^e$ divide a $n$ pero $p^{e+1}$ no divide a $n$.)",4
-9,"Determinar todos los n˙meros enteros positivos $p$ y $n$ tales que $p$ es primo y  \[8p+120=1+2+\ldots+n.\]",4
-10,"Probar que, para todo n˙mero racional positivo $r$, existen enteros positivos $a,b,c,d$ tales que \[r=\frac{a^3+b^3}{c^3+d^3}.\]",4
-11,"Un entero positivo se llama monÛtono si sus dÌgitos en base decimal de izquierda a derecha forma una sucesiÛn no decreciente. Demostrar que, para cada entero positivo $n$ existe un n˙mero monÛtono de $n$ dÌgitos que es cuadrado perfecto.",4
-12,"Dado un entero $n\geq 2$, demostrar que existe un conjunto $S$ de $n$ n˙meros enteros tales que $(a-b)^2$ divide a $ab$ para cualesquiera $a,b\in S$.",4
-13,"Sean $a,p,n\in\mathbb{N}$ enteros positivos con $p$ primo. Demostrar que si $2^p+3^p=a^n$, entonces $n=1$.",4
-14,"Probar que, para cada $n\in\mathbb{N}$, existe un n˙mero entero $N$ que puede ser expresado como la suma de dos cuadrados y que, adem·s, cumple que $n\leq N\leq n+2\sqrt{2}\sqrt[4]{n}$.",4
-15,"Decimos que un n˙mero entero positivo es un n˙mero ondulante si sus dÌgitos en base 10 son alternativamente cero y distinto de cero, siendo el dÌgito de las unidades distinto de cero. Determinar todos los enteros positivos que no dividen a ning˙n n˙mero ondulante.",4
-16,"Probar que entre $39$ n˙meros naturales consecutivos, siempre existe uno tal que la suma de sus cifras es m˙ltiplo de $11$.",4
-17,"Dados dos n˙meros naturales $a,b\in\mathbb{N}$, øpueden ser $a^2+b$ y $b^2+a$ ambos cuadrados perfectos?",4
-18,Demostrar que los binomios $25x+31y$ y $3x+7y$ son m˙ltiplos de 41 para los mismos valores enteros de $x$ e $y$.,4
-19,"Hallar todos los enteros positivos $n$ tales que  \[n=s+u^2{,}\] donde $s$ es la suma de las cifras de $n$ y $u$ su cifra de las unidades. ",4
-20,"Encontrar todas las soluciones naturales de la ecuaciÛn \[\frac{1}{m}+\frac{1}{n}+\frac{1}{mn^2}=\frac{3}{4}{.}\]",4
-21,"Dado un n˙mero entero positivo, consideremos la operaciÛn consistente en restarle su mayor divisor propio. Partiendo del n˙mero $19^{19}$ y aplicando reiteradamente esta operaciÛn se obtiene el n˙mero 1. Determinar cu·ntas veces se ha aplicado la operaciÛn.",4
-22,"Dados los n˙meros racionales $r$, $q$ y $n$ tales que \[\frac{1}{r+qn}+\frac{1}{q+rn}=\frac{1}{r+q}{,}\] demostrar que $\sqrt{\frac{n-3}{n+1}}$ es un n˙mero racional.",4
-23,"Sea $N$ un entero positivo tal que existen exactamente $2005$ pares ordenados $(x,y)$ de n˙meros enteros positivos que satisfacen la ecuaciÛn \[\frac{1}{x}+\frac{1}{y}=\frac{1}{N}{.}\] Demostrar que $N$ es un cuadrado perfecto.",4
-24,"Hallar todas las ternas de n˙meros enteros $(x,y,z)$ tales que  $$\frac{1}{x^2}+\frac{1}{y^2}=z.$$",4
-25,"Determinar todos los pares de enteros positivos $(a,b)$ para los cuales \[\frac{a^2b+b}{ab^2+9}\] es un n˙mero entero.",4
-26,"Sean $a$ y $b$ enteros. Demostrar que la ecuaciÛn \[(x-a)(x-b)(x-3)+1=0\] admite a lo sumo una soluciÛn entera.",4
-27,øExiste alguna potencia de $2$ tal que al escribirla en el sistema decimal tenga todos sus dÌgitos distintos de cero y sea posible reordenar los mismos para formar con ellos otra potencia de $2$?,4
-28,"Encontrar el mayor entero $N$ que cumple las siguientes condiciones: $E(\frac{N}{3})$ es un n˙mero de tres cifras iguales, $E(\frac{N}{3})=1+2+\ldots+n$, para alg˙n n˙mero natural $n\in\mathbb{N}$, donde $E(x)$ denota la parte entera de $x$.",4
-29,"Sea $a$ un entero positivo impar mayor que $17$ tal que $3a-2$ es un cuadrado perfecto. Demostrar que existen enteros positivos distintos $b$ y $c$ tales que $a+b$, $b+c$, $a+c$ y $a+b+c$ son cuatro cuadrados perfectos.",4
-30,Hallar todos los n˙meros naturales $n$ tales que $2^n+12^n+2011^n$ es un cuadrado perfecto.,4
-31,"Hallar todos los n˙meros enteros $n$ tales que $$n^4-4n^3+22n^2-36n+18$$ es un cuadrado perfecto.",4
-32,"Sean $a,b,c,d$ n˙meros naturales tales que $ad=b^2+bc+c^2$. Demostrar que $$a^2+b^2+c^2+d^2$$ es un n˙mero compuesto.",4
-33,Hallar todos los polinomios de coeficientes enteros $P(x)$ con la propiedad de que $P(n)$ divide a $2^n-1$ para todo n˙mero natural  $n$.,4
-34,Determinar todos los n˙meros naturales $m$ tales que $m2^{m-1}+1$ es un cuadrado perfecto.,4
-35,"Descomponer en factores primos el n˙mero \[N=1995\cdot 2007\cdot 2013+320.\]",4
-36,"Sean $a,b,c,d,p,q$ n˙meros naturales tales que $ad-bc=1$ y \[\frac{a}{b}\gt\frac{p}{q}\gt\frac{c}{d}{.}\] Demostrar que $q\geq b+d$. Si $q=b+d$, entonces $p=a+c$.",4
-37,Determinar razonadamente si el n˙mero $\sqrt{3n^2+2n+2}$ es irracional para todo entero no negativo $n$.,4
-38,"Sean $a$, $b$ y $n$ enteros positivos tales que $ab-1=n^2$. Demostrar que $$|a-b|\geq\sqrt{4n-3}.$$ Indicar justificadamente cu·ndo se alcanza la igualdad.",4
-39,"Demostrar que si $4^n+2^n+1$ es primo, entonces $n$ es una potencia de $3$.",4
-40,"Demuestra que, para cualesquiera enteros no negativos $m$ y $n$, el n˙mero \[\frac{(2m)!(2n)!}{m!\,n!(m+n)!}\] es entero.",4
-41,"Demostrar que si $n$ es un n˙mero impar, entonces $2^n+3^n$ no es un cuadrado perfecto. ",4
-42,"Sea $P(x,y)=2x^2-6xy+5y^2$. Diremos que $a$ es un valor de $P$ si existen n˙meros enteros $b$ y $c$ tales que $a=P(b,c)$. Determinar cu·ntos elementos de $\{1,2,...,100\}$ son valores de $P$. Probar que el producto de valores de $P$ es un valor de $P$.",4
-43,Supongamos que un n˙mero primo se escribe como la suma de los cuadrados de otros tres n˙meros primos. Demuestra que uno de esos primos tiene que ser igual a 3.,4
-44,"Demostrar que existen infinitas ternas de n˙meros naturales distintos $(a,b,c)$ tales que \[\frac{1}{a}+\frac{1}{b}=\frac{1}{c}{.}\]",4
-45,"Dado un n˙mero natural $n$, expresamos \[(3-2\sqrt{2})^n=a_n+b_n\sqrt{2},\] donde $a_n$ y $b_n$ son n˙meros enteros. Demostrar que $a_n$ y $b_n$ son primos entre sÌ para todo $n\in\mathbb{N}$.",4
-46,"Consideremos $d_1\lt d_2\lt\ldots\lt d_k$ los divisores positivos de un n˙mero natural $n$, de forma que $d_1=1$ y $d_k=n$, y sea \[d=d_1d_2+d_2d_3+\ldots+d_{k-1}d_k.\] Demostrar que $d\lt n^2$ y hallar todos los valores de $n$ para los que $d$ divide a $n^2$.",4
-47,"Los n˙meros naturales $a$ y $b$ son tales que \[\frac{a+1}{b}+\frac{b+1}{a}\] es un n˙mero entero. Demostrar que el m·ximo com˙n divisor de $a$ y $b$ no es mayor que $\sqrt{a+b}$.",4
-48,"Demostrar que si $m$, $n$ y $r$ son enteros positivos tales que \[1+m+n\sqrt{3}=\left(2+\sqrt{3}\right)^{2r-1},\] entonces $m$ es un cuadrado perfecto.",4
-49,"Hallar todas las ternas de n˙meros enteros $(a,b,c)$ tales que \begin{eqnarray*} a+b+c&=&24,\\ a^2+b^2+c^2&=&210,\\ abc&=&440. \end{eqnarray*}",4
-50,Supongamos que $n$ es un n˙mero natural tal que $2n+1$ es un cuadrado perfecto. Demostrar que $n+1$ es la suma de los cuadrados de dos n˙meros consecutivos.,4
-51,Encontrar un conjunto infinito de enteros positivos $S$ tal que la suma de los elementos de cualquier subconjunto finito de $S$ no sea un cuadrado perfecto.,4
-52,"Demostrar que si $p\geq 7$ es un n˙mero primo y $k$ es un n˙mero natural cualquiera, entonces existe una potencia de $p$ cuya representaciÛn decimal tiene $k$ ceros consecutivos.",4
-53,"Demostrar que no existen enteros positivos $x$ e $y$ tales que \[x^{2008}+2008!=21^y.\]",4
-54,"Hallar todos los n˙meros enteros $x$ e $y$ que cumplen la ecuaciÛn \[xy-4x-5y=27.\]",4
-55,Hallar todos los n˙meros enteros $n$ para los que $n^4+n^2+1$ es un n˙mero primo.,4
-56,"Dado un n˙mero natural $n$, llamamos $P$ al producto de los n˙meros naturales entre $1$ y $n$, y llamamos $Q$ al producto de los n˙meros entre $n+1$ y $2n$. Demostrar que $Q$ es un m˙ltiplo de $P$.",4
-57,"Supongamos que $a,b,c\in\mathbb{N}$ son n˙meros naturales que no tienen factores comunes y cumplen que \[a=\frac{bc}{c-b}.\] Demostrar que $a-b$ es un cuadrado perfecto.",4
-58,"Un n˙mero $n$ se llama abundante cuando la suma de todos los divisores de $n$ (sin contar al propio $n$ como divisor suyo), es mayor que $n$. Demostrar que todos los m˙ltiplos de $100$ son abundantes. ",4
-59,Sea $p$ un n˙mero primo. Hallar todos los n˙meros enteros $k$ tales que $\sqrt{k^2-kp}$ es un n˙mero natural.,4
-60,"Encontrar todas las soluciones enteras de la ecuaciÛn \[x^2+y^2=3z^2.\]",4
-61,"Encontrar todas las soluciones enteras de la ecuaciÛn \[x^2+y^2+z^2=x^2y^2.\]",4
-62,"Encontrar todas las soluciones enteras de la ecuaciÛn \[x^2-y^2=2xyz.\] ",4
-63,"Escribimos los n˙meros del uno al veinte de forma consecutiva formando el n˙mero de $31$ cifras \[N=1234567891011121314151617181920.\] øPodemos reordenar las cifras de $N$ para obtener un cuadrado perfecto?",4
-64,"Encontrar todas las soluciones enteras $(x,y)$ de la ecuaciÛn \[(x+y)p=xy,\] donde $p$ es un n˙mero primo.",4
-65,"Determinar todas las ternas $(a,b,p)$ de n˙meros enteros, siendo $p$ un n˙mero primo, verificando la ecuaciÛn \[a^2b^2=p^2(a-1)(b-1).\]",4
-66,øEs primo el n˙mero $2015^4+4^{2015}$?,4
-67,"Calcular el siguiente m·ximo com˙n divisor: \[\mathrm{mcd}\left(\left(2^{2009}+1\right)^{2009},2^{2009^{2009}}+1\right)\]",4
-68,"Si tenemos dos n˙meros enteros que pueden expresarse como suma de dos cuadrados perfectos, demostrar que su producto tambiÈn puede expresarse de esta forma.",4
-69,"Encontrar todos los n˙meros naturales $n$ tales que \[n^4+6n^3+11n^2+3n+31\] es un cuadrado perfecto.",4
-70,"Demostrar que existen infinitos n˙meros naturales $n$ de forma que cada uno de los n˙meros $n$, $n+1$ y $n+2$ es un cuadrado perfecto o bien la suma de dos cuadrados perfectos.",4
-71,"øQuÈ elementos de la sucesiÛn \[\{101,\ 10101,\ 1010101,\ 101010101,\ldots\}\] son n˙meros primos?",4
-72,Encontrar un n˙mero que sea m˙ltiplo de $18$ y tenga exactamente $74$ divisores.,4
-73,"Demostrar la veracidad o falsedad de las siguientes afirmaciones: La suma de los cubos de tres enteros consecutivos es m˙ltiplo de $9$. La suma de los cubos de cinco enteros consecutivos es m˙ltiplo de $25$. La suma de las potencias quintas de cinco enteros consecutivos es m˙ltiplo de $25$.",4
-74,"Diremos que un conjunto de n˙meros naturales es especial cuando tomando cualesquiera dos elementos $a$ y $b$ del conjunto, se cumple que $(a-b)^2$ divide a $ab$. Encontrar un conjunto especial de tres elementos. øExiste un conjunto de especial de cuatro n˙meros en progresiÛn aritmÈtica?",4
-75,Hallar todos los n˙meros enteros positivos que son menores que $1000$ y que cumplen que el cubo de la suma de sus cifras es igual al cuadrado del dicho entero.,4
-76,"Partiendo de dos n˙meros naturales $a$ y $b$, repetimos el siguiente proceso: al mayor le restamos el menor y nos quedamos con el menor y con la diferencia. Demostrar que llegar· un momento en el los dos n˙meros obtenidos ser·n iguales y determinar esos n˙meros.",4
-77,Encontrar todos los n˙meros naturales \(n\in\mathbb{N}\) tales que \(3^n+5^n\) es m˙ltiplo de \(3^{n-1}+5^{n-1}\).,4
-78,"Demuestra que el siguiente producto es un n˙mero entero: \[\left(4-\frac{2}{1}\right)\left(4-\frac{2}{2}\right)\left(4-\frac{2}{3}\right)\cdots\left(4-\frac{2}{2011}\right).\]",4
-79,øExiste alg˙n n˙mero natural tal que al elevarlo al cubo su expresiÛn decimal termine en $111$?,4
-80,"øCu·l es el menor valor positivo posible de $36^m-5^n$, siendo $m$ y $n$ n˙meros naturales?",4
-81,"Dado un n˙mero primo \(p\geq 7\), hallar los posibles restos de dividir \(p^2\) entre \(30\).",4
-82,"Se define la sucesiÛn \(\{p_n\}\) de la siguiente manera: \(p_1=2\) y, para todo \(n\geq 2\), \(p_n\) es el mayor divisor primo de la expresiÛn \(p_1p_2\cdots p_{n-1}+1\). Probar que \(p_n\) es siempre distinto de \(5\).",4
-83,"Demostrar que pueden tomarse \(2^k\) n˙meros del conjunto \(\{0,1,2,\ldots,3^k-1\}\), de forma que cualesquiera tres de ellos (distintos) no estÈn en progresiÛn aritmÈtica. ",4
-84,"Demostrar que si \(n\in\mathbb{N}\) cumple que \((n-1)!+1\) es divisible entre \(n\), entonces \(n\) es un n˙mero primo.",4
-85,Demostrar que todo n˙mero entero \(n>6\) puede expresarse como suma de dos n˙meros naturales mayores que uno y primos entre sÌ.,4
-86,Hallar los n˙meros primos \(p\) tales que \(p+10\) y \(p+14\) tambiÈn son primos.,4
-87,"Hallar el valor de \(\mathrm{mcd}(2n+3,n+7)\) en funciÛn del n˙mero entero \(n\in\mathbb{Z}\).",4
-88,Supongamos que \(p\) y \(p^2+2\) son n˙meros primos. Probar que \(p^3+5p^2+1\) es tambiÈn primo.,4
-89,"Demostrar que \(a^5-a\) es m˙ltiplo de \(30\), para cualquier n˙mero entero \(a\in\mathbb{Z}\).",4
-90,Sea \(n\) un n˙mero entero. Demostrar que \(8n+7\) no se puede escribir como suma de tres enteros cuadrados perfectos.,4
-91,"Sean $x,y,z$ n˙meros enteros. Demostrar que si $6$ divide a $x+y+z$, entonces tambiÈn divide a $x^3+y^3+z^3$.",4
-92,"Dado un n˙mero natural $n\in\mathbb{N}$, calcular el n˙mero de soluciones naturales $(x,y)$ de la ecuaciÛn \[\frac{xy}{x+y}=n\] Deducir que el n˙mero de soluciones siempre es impar.",4
-93,"Demostrar que, para cualquier n˙mero natural \(n\in\mathbb{N}\), la siguiente fracciÛn es irreducible: \[\frac{21n+4}{14n+3}\]",4
-94,Demostrar que en un conjunto de diez n˙meros naturales consecutivos siempre hay uno de ellos que es primo relativo con todos los dem·s.,4
-95,Determinar todos los n˙meros naturales de cuatro cifras que sean iguales al cubo de la suma de sus cifras.,4
-96,"Hallar el menor n˙mero natural \(n\in\mathbb{N}\) que cumple las siguientes dos propiedades: Su representaciÛn en base decimal termina en 6. Si borramos el 6 final y lo colocamos delante del resto de los dÌgitos, el n˙mero resultante es cuatro veces el anterior.",4
-97,"Sea \(n\) un entero mayor que \(10\) tal que todos sus dÌgitos son \(1\), \(3\), \(7\) Û \(9\). Demostrar que \(n\) tiene al menos un factor primo mayor o igual que \(11\).",4
-98,"Calcular todas las parejas de n˙meros enteros \((a,b)\) tales que \(a+b=ab\).",4
-99,"Demostrar que para cualquier n˙mero natural \(n\in\mathbb{N}\), existen \(n\) n˙meros compuestos consecutivos.",4
-100,"Sean \(a\) y \(b\) dos n˙meros naturales primos entre sÌ. Para cada n˙mero natural \(n\in\mathbb{N}\), hallar los posibles valores de \(\text{mcd}(a+b,a^n+b^n)\).",4
-101,Hallar todos los n˙meros naturales \(m\) y \(n\) que cumplan \[n!+1=(m!-1)^2\],4
-102,"Encontrar el menor n˙mero natural $n$, si existe, tal que $64$ divide a $5^n-1$.",4
-103,Hallar todos los n˙meros naturales $n\in\mathbb{N}$ para los que $2^{11}+2^{8}+2^n$ es un cuadrado perfecto.,4
-104,"Sean $A$ la suma de las cifras del n˙mero $N=4444^{4444}$, $B$ la suma de las cifras de $A$ y $C$ la suma de las cifras de $B$. Determinar el n˙mero $C$.",4
-105,Encontrar todos los n˙meros naturales \(n\in\mathbb{N}\) tales que \(n!\) no es divisible por \(n^2\).,4
-106,"Dado $n\in\mathbb{N}$, denotamos por $S(n)$ la suma de los dÌgitos del n˙mero $n$ en base 10. Demostrar que $S(2n)\leq 2S(n)\leq 10S(2n)$ para todo $n\in\mathbb{N}$ y analizar para quÈ n˙meros se alcanza la igualdad en cada una de las desigualdades.",4
-107,"Supongamos que $n\in\mathbb{N}$ cumple que $2^n-1$ es primo. Demostrar que $n$ es primo. Demostrar que $2^{n-1}(2^n-1)$ es un n˙mero perfecto, es decir, es igual a la suma de sus divisores (excluyendo en esta suma al propio n˙mero).",4
-108,Encontrar todos los n˙meros naturales $n\in\mathbb{N}$ tales que $2^n-1$ es divisible entre $7$.,4
-109,En un cuadrado $ABCD$ se traza una circunferencia que pasa por el vÈrtice $A$ y por los puntos medios de los lados $BC$ y $CD$. Determinar si es mayor la longitud de la circunferencia o el perÌmetro del cuadrado.,2
-110,"Sea $P$ un punto interior del tri·ngulo equil·tero $ABC$ tal que $PA=5$, $PB=7$ y $PC=8$. Hallar la longitud de un lado del tri·ngulo $ABC$.",2
-111,Diremos que un circunferencia es un separador de un conjunto de cinco puntos en el plano si pasa por tres de ellos y los otros dos est·n uno en su cÌrculo interior y otro en su exterior. Demostrar que todo conjunto de cinco puntos que no contiene tres puntos alineados ni cuatro puntos concÌclicos tiene exactamente cuatro separadores.,2
-112,"Se considera un tri·ngulo cuyos lados son los lados de un pent·gono, hex·gono y dec·gono regulares inscritos en circunferencias de radio unidad. Demostrar que dicho tri·ngulo es rect·ngulo.",2
-113,"Sea $ABCDEFG$ un hept·gono regular de lado 1. Demostrar que se cumple la relaciÛn \[\frac{1}{AC}+\frac{1}{AD}=1.\]",2
-114,Consideremos un polÌgono convexo de ·rea $A$ y perÌmetro $P$. Demostrar que existe un cÌrculo de radio $A/P$ contenido en el interior del polÌgono.,2
-115,Se consideran $n$ puntos en el plano de forma que no haya dos pares de puntos equidistantes. Por cada punto se traza el segmento que lo une al m·s prÛximo. Demostrar que ning˙n punto est· unido a m·s de cinco puntos.,2
-116,"Se sabe que un dodecaedro regular es un poliedro regular con 12 caras pentagonales iguales y concurriendo 3 aristas en cada vÈrtice. Se pide calcular, razonadamente, el n˙mero de vÈrtices; el n˙mero de aristas; el n˙mero de diagonales de todas las caras; el n˙mero de segmentos rectilÌneos determinados por cada dos vÈrtices; el n˙mero de diagonales del dodecaedro.",2
-117,"øExiste un cubo en el espacio tal que las distancias de sus ocho vÈrtices a un plano dado son los n˙meros $0$, $1$, $2$, $3$, $4$, $5$, $6$, $7$ y $8$?",2
-118,"Sea $ABC$ un tri·ngulo acut·ngulo con radio inscrito $r$ y radio circunscrito $1$. Si $\rho$ es el radio inscrito del tri·ngulo Ûrtico de $ABC$, demostrar que \[\rho\leq 1-\frac{1}{3}(1+r)^2.\]",2
-119,"Encontrar el menor n˙mero $A$ que cumple el siguiente enunciado: Para cualquier par de cuadrados tales que la suma de sus ·reas es 1, se pueden colocar dentro de un rect·ngulo de ·rea $A$ sin puntos interiores comunes y con sus lados paralelos a los lados del rect·ngulo.",2
-120,"En un tri·ngulo $ABC$, sea $F$ el punto medio del lado $BC$. Se construyen tri·ngulos rect·ngulos isÛsceles $ABD$ y $ACE$ exteriores a $ABC$ y con ·ngulos rectos en $D$ y $E$, respectivamente. Demostrar que $DEF$ es tambiÈn un tri·ngulo rect·ngulo isÛsceles.",2
-121,Consideremos un pent·gono en el que cada una de sus diagonales es paralela a uno de sus lados. Demostrar que la razÛn entre la longitud de una diagonal y la longitud del correspondiente lado paralelo es la misma para cada diagonal.,2
-122,"Dado un pent·gono regular, construir un tri·ngulo que tenga la misma ·rea.",2
-123,"Dado un rect·ngulo $ABCD$ y un punto $P$ interior al rect·ngulo, demostrar que \[PA^2+PC^2=PB^2+PD^2{.}\]",2
-124,"Dado un rect·ngulo cualquiera en el plano, llamemos $A$ a su ·rea y $p$ a su perÌmetro. Demostrar que $$p^2\geq 16A.$$ øPara quÈ rect·ngulos se tiene una igualdad?",2
-125,"El baricentro del tri·ngulo $ABC$ es $G$ y denotamos por $g_a$, $g_b$ y $g_c$ a las distancias desde $G$ a los lados $a$, $b$ y $c$, respectivamente. Sea $r$ el radio de la circunferencia inscrita a $ABC$. Probar que $g_a\geq\frac{2r}{3}$,  $g_b\geq\frac{2r}{3}$ y  $g_c\geq\frac{2r}{3}$. Probar que $\frac{1}{r}(g_a+g_b+g_c)\geq 3$.",2
-126,"Sea $ABCD$ un cuadril·tero inscrito en una circunferencia de radio 1 de modo que $AB$ es un di·metro y el cuadril·tero admite circunferencia inscrita. Probar que \[CD\leq 2\sqrt{5}-4.\]",2
-127,"En una circunferencia de centro $O$ y radio $1$, tomemos una cuerda de longitud $a$ y la circunferencia $C$ que tiene a dicha cuerda por di·metro. Si $P$ es el punto de $C$ m·s alejado de $O$, øcu·l es el valor m·ximo de la distancia entre $O$ y $P$ cuando variamos $a$?",2
-128,"Sea $P$ un punto interior al tri·ngulo $ABC$ tal que $AP=BP$. Sean $Q$ y $R$ puntos exteriores al tri·ngulo tales que los tri·ngulos $BQC$ y $CRA$ son semejantes a $ABP$ cumpliendo $BQ=CQ$ y $CR=RA$. Probar que los puntos $P$, $Q$, $R$ y $C$ est·n alineados o bien son los vÈrtices de un paralelogramo.",2
-129,Las longitudes de los lados de un tri·ngulo est·n en progresiÛn aritmÈtica y las longitudes de sus alturas tambiÈn est·n en progresiÛn aritmÈtica. Demostrar que el tri·ngulo es equil·tero.,2
-130,"Sea $ABC$ un tri·ngulo cuyos lados son $a$, $b$ y $c$. Se divide cada lado de $ABC$ en $n$ segmentos iguales. Sea $S$ la suma de los cuadrados de las distancias de cada vÈrtice a cada uno de los puntos de divisiÛn del lado opuesto, distintos de los vÈrtices. Demostrar que \[\frac{S}{a^2+b^2+c^2}\] es un n˙mero racional.",2
-131,"En un tri·ngulo $ABC$, supongamos que las rectas tangentes a su circunferencia circunscrita en $B$ y en $C$ se cortan en un punto $P$. Demostrar que la recta $AP$ es la simÈtrica de la mediana del lado $BC$ respecto de la bisectriz del ·ngulo $A$.",2
-132,"Sea $ABC$ un tri·ngulo acut·ngulo, $O$ su circuncentro y $\Gamma$ la circunferencia que pasa por $A$, $B$ y $O$. Supongamos que las rectas $CA$ y $CB$ cortan a $\Gamma$ otra vez en $P$ y $Q$, respectivamente. Probar que las rectas $CO$ y $PQ$ son perpendiculares.",2
-133,"Un tri·ngulo acut·ngulo $ABC$ est· inscrito en una circunferencia de centro $O$. Las alturas del tri·ngulo son $AD$, $BE$ y $CF$. La recta $EF$ corta a la circunferencia circunscrita en $P$ y $Q$. Probar que $OA$ es perpendicular a $PQ$. Si $M$ es el punto medio de $BC$, probar que $AP^2=2\cdot AD\cdot OM$.",2
-134,"En un tri·ngulo rect·ngulo trazamos la altura que parte del ·ngulo recto y el tri·ngulo queda dividido en dos tri·ngulos, uno de los cuales tiene el triple de ·rea que el otro. Si la hipotenusa del tri·ngulo original mide 1, øcu·nto miden sus catetos?",2
-135,"Las longitudes de los lados de un tri·ngulo est·n en progresiÛn geomÈtrica de razÛn \(r\). øPara quÈ valores de \(r\) el tri·ngulo es acut·ngulo, rect·ngulo u obtus·ngulo?øPara quÈ valores de \(r\) esl tri·ngulo es equil·tero, isÛsceles o escaleno?",2
-136,"Demostrar que si un tri·ngulo tiene dos bisectrices iguales, entonces es isÛsceles.",2
-137,"Demostrar que si un tri·ngulo tiene dos medianas iguales, entonces es isÛsceles.",2
-138,"Demostrar que si un tri·ngulo tiene dos alturas iguales, entonces es isÛsceles.",2
-139,Probar que no existe ning˙n tri·ngulo equil·tero en el plano cuyos vÈrtices sean puntos de coordenadas enteras. øOcurre lo mismo si trabajamos en el espacio tridimensional?,2
-140,"Sea \(ABCD\) un paralelogramo y supongamos que \(AC\) es su diagonal mayor. Desde \(C\) se trazan perpendiculares a las rectas \(AB\) y \(AD\), con pies en \(E\) y \(F\) respectivamente. Demostrar que: \[AB\cdot AE+AD\cdot AF=AC^2.\]",2
-141,"Demostrar que, al trazar las medianas de un tri·ngulo cualquiera, Èste queda dividido en seis triangulos que tienen la misma ·rea.",2
-142,"Determinar quÈ condiciÛn han de cumplir las longitudes de los lados de un tri·ngulo para que la recta que une el baricentro y el incentro sea paralela a uno de los lados, suponiendo que el tri·ngulo no es equil·tero (pues en este caso coinciden incentro y baricentro y dicha recta no est· bien definida).",2
-143,"Sea \(H\) el ortocentro de un tri·ngulo, \(P\) el pie de una altura y \(Q\) el otro punto de corte de la recta \(AP\) (distinto de \(A\)) con la circunferencia circunscrita. Demostrar que \(HP=PQ\).",2
-144,"En el tri·ngulo \(ABC\) sea \(D\) el punto de corte de la bisectriz trazada desde \(C\) al lado \(AB\). Sabiendo que el centro de la circunferencia inscrita en el tri·ngulo \(BCD\) coincide con el centro de la circunferencia circunscrita al tri·ngulo \(ABC\), øcu·les son los ·ngulos de \(ABC\)?",2
-145,"Sea $ABC$ un tri·ngulo. Consideremos los puntos $D$ y $E$ sobre el lado $BC$ de forma que las rectas $AD$ y $AE$ son paralelas a las tangentes a la circunferencia circunscrita al tri·ngulo que pasan por $C$ y $B$, respectivamente. Demostrar que \[\frac{BE}{CD}=\frac{AB^2}{AC^2}{.}\]",2
-146,"Sea $ABC$ un tri·ngulo equil·tero y sean $M$ y $N$ puntos de $AB$ y $AC$, respectivamente, tales que el segmento $MN$ es tangente a la circunferencia inscrita de $ABC$. Demostrar que \[\frac{AM}{MB}+\frac{AN}{NC}=1{.}\]",2
-147,"Sea $ABC$ un tri·ngulo y $M$ el punto medio del lado $BC$. Si $r_1$ y $r_2$ son los inradios de los tri·ngulos $ABM$ y $ACM$ respectivamente, demostrar que $r_1<2r_2$.",2
-148,Calcular la razÛn entre la diagonal y el lado de un pent·gono regular.,2
-149,"Sea $ABCDEF$ un hex·gono convexo tal que $AB=BC=CD$, $DE=EF=AF$ y $\angle BCD=\angle EFA=\frac{\pi}{3}$. Sean $P$ y $Q$ dos puntos interiores al hex·gono de forma que los ·ngulos $\angle APB$ y $\angle DQE$ valen ambos $\frac{2\pi}{3}$. Demostrar que \[AP+PB+PQ+DQ+QE\geq CF.\]",2
-150,"Sea $ABCD$ un paralelogramo y supongamos que $AC$ es su diagonal mayor. Desde $C$ se trazan perpendiculares a las rectas $AB$ y $AD$, con pies en $E$ y $F$ respectivamente. Demostrar que \[AB\cdot AE+AD\cdot AF=AC^2{.}\]",2
-151,"Encontrar todos los polinomios $P(x)$ y $Q(x)$ con coeficientes reales que cumplen que \[P(Q(x))=(x-1)(x-2)(x-3)(x-4).\]",1
-152,"Hallar el valor del n˙mero real $m$ para el que el siguiente polinomio tiene dos raÌces reales que son una inversa de la otra: \[x^4-\frac{3\sqrt{2}}{2}x^3+3x^2+mx+2.\]",1
-153,Sea $P(x)$ un polinomio con coeficientes enteros tal que la ecuaciÛn $P(x)=7$ tiene al menos cuatro soluciones enteras. Demostrar que la ecuaciÛn $P(x)=14$ no tiene soluciones enteras.,1
-154,"Supongamos que $\alpha$ y $\beta$ son n˙meros reales que cumplen las ecuaciones \begin{eqnarray*} \alpha^3-3\alpha^2+5\alpha-17&=&0,\\ \beta^3-3\beta^2+5\beta+11&=&0. \end{eqnarray*} Calcular $\alpha+\beta$.",1
-155,"Sean $\alpha$, $\beta$ y $\gamma$ las raÌces del polinomio \[p(x)=x^3-3x+1.\] Hallar otro polinomio de grado $3$ cuyas raÌces sean $\frac{1-\alpha}{1+\alpha}$,  $\frac{1-\beta}{1+\beta}$ y $\frac{1-\gamma}{1+\gamma}$.",1
-156,"Calcular $a$ y $b$ sabiendo que el polinomio \[p(x)=2x^3+ax^2+bx-16\] tiene una raÌz doble y una raÌz simple y que una de ellas es igual a 2.",1
-157,"Determinar todos los pares de polinomios $p(x)$ y $q(x)$ con coeficientes reales tales que \[x^2q(x)=p(q(x)){.}\]",1
-158,"Supongamos que $P(x)$, $Q(x)$, $R(x)$ y $S(x)$ son polinomios tales que  \[P(x^5)+xQ(x^5)+x^2R(x^5)=(1+x+x^2+x^3+x^4)S(x).\] Demostrar que $P(x)$ es divisible entre $x-1$. ",1
-159,"Sean los polinomios \begin{eqnarray} P(x)&=&x^4+ax^3+bx^2+cx+1,\\ Q(x)&=&x^4+cx^3+bx^2+ax+1. \end{eqnarray} Hallar las condiciones que tienen que cumplir los par·metros reales $a$, $b$ y $c$ ($a$ distinto de $c$) para que $P(x)$ y $Q(x)$ tengan dos raÌces comunes y resuelve en ese caso las ecuaciones $P(x)=0$ y $Q(x)=0$.",1
-160,"Dados dos puntos en el plano de coordenadas enteras, supongamos que por ellos pasa la gr·fica de una funciÛn polinÛmica con coeficientes enteros. Probar que si la distancia entre los dos puntos es un n˙mero entero, entonces el segmento que los une es paralelo al eje de abscisas.",1
-161,"Encontrar todos los polinomios $P(x)$ con coeficientes reales que cumplen que \[P(2P(x))=2P(P(x))+2(P(x))^2\] para cualquier n˙mero real $x$.",1
-162,"Sean $a,b,c$ reales no nulos con $a\neq b$ y supongamos que los polinomios $x^2+ax+bc$ y $x^2+bx+ac$ tienen una raÌz com˙n. Demostrar que las otras dos raÌces son raÌces del polinomio $x^2+cx+ab$.",1
-163,"Probar que la gr·fica del polinomio $P(x)$ es simÈtrica respecto del punto $A(a, b)$ si, y sÛlo si, existe un polinomio $Q(x)$ tal que \[P(x)=b+(x-a)Q\bigr((x-a)^2\bigl).\]",1
-164,Sea $x$ un n˙mero real tal que $x^3+2x^2+10x=20$. Demostrar que $x$ y $x^2$ son irracionales.,1
-165,"Hallar las raÌces $r_1,r_2,r_3,r_4$ de la ecuaciÛn $4x^4-ax^3+bx^2-cx+5=0$ sabiendo que son todas reales positivas y que \[\frac{r_1}{2}+\frac{r_2}{4}+\frac{r_3}{5}+\frac{r_4}{8}=1.\]",1
-166,"Sabemos que un polinomio $p(x)=x^3+ax^2+bx+c$ tiene tres raices reales (posiblemente algunas de ellas iguales). Si $r$ es cualquiera de esas raÌces, demostrar que \[r^2\leq a^2-2b.\]",1
-167,"Hallar todos los polinomios con coeficientes reales \(P(x)\) tales que \[P(x^2-y^2)=P(x-y)P(x+y)\] para cualesquiera \(x,y\in\mathbb{R}\).",1
-168,"Demostrar que no existe ning˙n polinomio $P(x)$ con coeficientes enteros y tres enteros distintos $a$, $b$ y $c$ tales que $P(a)=b$, $P(b)=c$ y $P(c)=a$. ",1
-169,"Sea \(P(x)\) un polinomio con coeficientes enteros satisfaciendo \[P(21)=17,\hspace{1cm}P(32)=-247,\hspace{1cm}P(37)=33.\] Supongamos que \(n\in\mathbb{Z}\) es un n˙mero tal que \(P(n)=n+51\). Demostrar que \(n=26\).",1
-170,"La ecuaciÛn \(x^3+bx^2+cx+d=0\), donde \(d\neq 0\), tiene tres raÌces positivas distintas en progresiÛn geomÈtrica cuyos inversos est·n en progresiÛn aritmÈtica. Hallar \(c\) y \(d\) en funciÛn de \(b\).",1
-171,"Dado un n˙mero real \(c\in\mathbb{R}\), se sabe que las raÌces del polinomio \[P(x)=x^3+2cx^2-cx+10\] son reales y est·n en progresiÛn aritmÈtica. Hallar dichas raÌces.",1
-172,"Demostrar que si \(a,c,d\) son n˙meros racionales con \(a\neq 0\) y una de las raÌces del polinomio \(ax^3+cx+d\) es igual al producto de las otras dos, entonces esa raÌz es racional.",1
-173,"Consideremos el siguiente producto de polinomios \[(1+x+x^2+\ldots+x^{2007})(1-x+x^2-\ldots+x^{2006}-x^{2007})\] Demostrar que el resultado no tiene tÈrminos de exponente impar.",1
-174,"Hallar \(a\in\mathbb R\) de forma que la suma de los cuadrados de las raÌces del polinomio \(p(x)=x^3-2ax^2+(a+1)x-a^3\) sea mÌnima y hallar dicha suma.",1
-175,Encontrar todos los polinomios \(P(x)\) con coeficientes reales que cumplan que \(P(x^2)=P(x)^2\) para cualquier \(x\in\mathbb{R}\).,1
-176,Sabemos que una de las raÌces del polinomio de coeficientes reales \(p(x)=x^3+ax^2+bx+c\) es la suma de las otras dos. Demostrar que \(a^3-4ab+8c=0\).,1
-177,"Hallar los valores de $a,b\in\mathbb{R}$ para los que $p(x)=x^5+ax^3+b$ tiene una raÌz real m˙ltiple.",1
-178,"Calcular \(a,b\in\mathbb{R}\) para que \(ax^4+bx^3+1\) sea divisible por \(x^2+2x+1\).",1
-179,Supongamos que en el polinomio \(p(x)=x^3+bx^2+cx+d\) tiene sus tres raÌces reales y una de ellas es la media geomÈtrica de las otras dos. Probar que \(b^3d=c^3\).,1
-180,"Encontrar todos los polinomios $p(x)$ con coeficientes reales que verifican la igualdad \[p(p(x))=p(x)^{2007}{.}\]",1
-181,"Sean $\alpha$ y $\beta$ las soluciones de la ecuaciÛn $x^2-6x+1=0$. Demostrar que para cada natural $n$, el n˙mero $\alpha^n+\beta^n$ es entero y no es m˙ltiplo de $5$.",1
-182,"Sean $a,b,c,d\in\mathbb Z$ tales que $ad$ es impar y $bc$ es par. Demostrar que el polinomio $$p(x)=ax^3+bx^2+cx+d$$ tiene almenos una de sus raÌces irracional.",1
-183,"Hallar todos los polinomios $P(x)$ con coeficientes reales tales que \[xP(x-1)=(x+1)P(x)\] para cualquier $x\in\mathbb{R}$.",1
-184,"Demostrar que si $x,y,z\in\mathbb{R}$ son n˙meros reales tales que $x+y+z=4$, entonces \[\frac{xyz}{\sqrt{(1+x^2)(1+y^2)(1+z^2)}}\leq\frac{64}{125}.\]",1
-185,"Demostrar que si $-1\lt x\lt 1$ y $-1\lt y\lt 1$, entonces \[\left|\frac{x-y}{1-xy}\right|\leq\frac{|x|+|y|}{1+|xy|}.\]",1
-186,"Sean $x,y,z$ tres n˙meros reales tales que $0\lt x\lt y\lt z\lt\frac{\pi}{2}$. Demostrar la siguiente desigualdad: \[\frac{\pi}{2}+2\sin(x)\cos(y)+2\sin(y)\cos(z)\gt \sin(2x)+\sin(2y)+\sin(2z).\]",1
-187,"Sean $a_1,a_2,\ldots,a_n$ n˙meros reales positivos tales que $a_1+a_2+\ldots+a_n=10$. Hallar el mayor valor posible del producto $a_1\cdot a_2\cdots a_n$.",1
-188,"Dados n˙meros reales $x_1,x_2,\ldots,x_n\geq 0$ tales que $x_1+x_2+\ldots+x_n=1$, demostrar que \[\left(\sum_{k=1}^n\sqrt{x_k}\right)\left(\sum_{k=1}^n\frac{1}{\sqrt{x_k+1}}\right)\leq\frac{n^2}{\sqrt{n+1}}.\] Analizar en quÈ casos se obtiene una igualdad.",1
-189,"Demostrar que, para cualesquiera reales positivos $a$, $b$, $c$, $d$, \[\frac{a}{b+2c+3d}+\frac{b}{c+2d+3a}+\frac{c}{d+2a+3b}+\frac{d}{a+2b+3c}\geq\frac{2}{3}.\]",1
-190,"Dados $a,b,c\in\mathbb{R}$ n˙meros positivos tales que $abc=1$, demostrar que \[\frac{1}{a^3(b+c)}+\frac{1}{b^3(c+a)}+\frac{1}{c^3(a+b)}\geq\frac{3}{2}.\]",1
-191,"Sean $\alpha$, $\beta$ y $\gamma$ los ·ngulos de un tri·ngulo. Demostrar que \[\sin(\alpha)+\sin(\beta)+\sin(\gamma)\leq\frac{3\sqrt{3}}{2}.\] Analizar en quÈ casos se obtiene una igualdad.",1
-192,"Sean $x_1,\ldots,x_n\geq 1$ n˙meros reales. Demostrar que \[\frac{1}{1+x_1}+\frac{1}{1+x_2}+\ldots+\frac{1}{1+x_n}\geq\frac{n}{1+\sqrt[n]{x_1x_2\cdots x_n}}.\]",1
-193,"Dados n˙meros reales $a,b,c\gt 0$, demostrar que \[\left(1+\frac{a}{b}\right)\left(1+\frac{b}{c}\right)\left(1+\frac{c}{a}\right)\geq 2\left(1+\frac{a+b+c}{\sqrt[3]{abc}}\right).\]",1
-194,"Demostrar que, para cualquier entero positivo $n\in\mathbb{N}$, se cumple la desigualdad \[2^{1/2}4^{1/4}8^{1/8}\cdots (2^n)^{1/2^n}<4.\]",1
-195,"Dados n˙meros reales $x,y,z>0$ tales que $xyz=1$, demostrar que \[\frac{x^3}{(1+y)(1+z)}+\frac{y^3}{(1+z)(1+x)}+\frac{z^3}{(1+x)(1+y)}\geq\frac{3}{4}.\]",1
-196,"Demostrar que si $x$, $y$ y $z$ son n˙meros reales positivos tales que $xyz=1$, entonces \[(1+x)(1+y)(1+z)\geq 8.\]",1
-197,"Dados tres n˙meros reales positivos $a$, $b$ y $c$ tales que $a+b+c=1$, demostrar que \[\sqrt{a+bc}+\sqrt{b+ac}+\sqrt{c+ab}\leq 2{.}\]",1
-198,"Sean $a$, $b$ y $c$ n˙meros reales positivos. Demostrar que \[a^ab^bc^c\geq(abc)^{(a+b+c)/3}{.}\]",1
-199,"Consideremos cuatro n˙meros reales $x,y,p,q$ tales que $p,q\gt 0$ y $p+q\lt 1$. Demostrar que \[(px+qy)^2\leq px^2+qy^2{.}\]",1
-200,"Sean $x,y,z$ reales positivos tales que $x+y+z=3$. Hallar el valor m·ximo alcanzado por $$\sqrt{x}+\sqrt{2y+2}+\sqrt{3z+6}$$ øPara quÈ valores de $x,y,z$ se alcanza dicho m·ximo?",1
-201,Supongamos que $x$ e $y$ son dos n˙meros reales positivos tales que $x+2y=5$. Hallar el valor m·ximo que puede tomar la expresiÛn $x^2y^3$.,1
-202,"Demostrar que para cualesquiera n˙meros positivos $a,b,c,d\in\mathbb{R}$ se cumple que \[\frac{1}{\frac{1}{a}+\frac{1}{b}}+\frac{1}{\frac{1}{c}+\frac{1}{d}}\leq\frac{1}{\frac{1}{a+c}+\frac{1}{b+d}}{.}\]",1
-203,"Consideremos dos n˙meros reales $0\leq x\leq 1$ y $0\leq y\leq 1$. Demostrar que \[\frac{x}{1+y}+\frac{y}{1+x}\leq 1.\]",1
-204,"Sean $a,b,c,d$ n˙meros reales tales que $b,d\gt 0$ y $\frac{a}{b}\leq\frac{c}{d}$. Demostrar que \[\frac{a}{b}\leq\frac{a+c}{b+d}\leq\frac{c}{d}{.}\]",1
-205,"Sean $a,b,c,x,y,z\in\mathbb{R}$ tales que $x\geq y\geq z\gt 0$ y $a\geq b\geq c\gt 0$. Demostrar que \[\frac{a^2x^2}{(by+cz)(bz+cy)}+\frac{b^2y^2}{(cz+by)(cy+bz)}+\frac{c^2z^2}{(ax+by)(ay+bx)}\geq\frac{3}{4}{.}\] Analizar en quÈ casos se alcanza la igualdad.",1
-206,"Sean $a$, $b$ y $c$ n˙meros reales tales que $abc=1$. Demostrar que \[a^2(1+b^2)^2+b^2(1+c^2)^2+c^2(1+a^2)^2\geq 12.\] Analizar en quÈ casos se alcanza la igualdad.",1
-207,"Dados tres n˙meros reales positivos $a,b,c\gt 0$, demostrar que $$a^{\frac{b+c}{2}}b^{\frac{a+c}{2}}c^{\frac{a+b}{2}}\leq a^ab^bc^c{.}$$",1
-208,"Dados dos n˙meros reales $a,b\gt-1$, demostrar que $$\frac{a}{1+a}+\frac{b}{1+b}\leq \frac{2(a+b)}{2+a+b}{.}$$ øEn quÈ casos se alcanza la igualdad?",1
-209,"Dados dos n˙meros reales $a,b\geq 0$, demostrar que $$\frac{a}{1+a}+\frac{b}{1+b}\geq\frac{a+b}{1+a+b}{.}$$ øEn quÈ casos se alcanza la igualdad?",1
-210,"Demostrar que $$0\leq xy+yz+xz-2xyz\leq\frac{7}{27}{,}$$ para cualesquiera $x,y,z\geq 0$ tales que $x+y+z=1$.",1
-211,"Dado $n\in\mathbb{N}$, demostrar que \[1+\frac{1}{2}+\frac{1}{3}+\ldots+\frac{1}{2^n}\geq 1+ \frac{n}{2}.\]",1
-212,"Sea $a\neq 1$ un n˙mero real positivo y $n\in\mathbb{N}$ mayor que $1$. Demostrar que \[n^2\lt\frac{a^n+a^{-n}-2}{a+a^{-1}-2}.\]",1
-213,"Sean $r,s,u,v$ n˙meros reales cualesquiera. Demostrar que \[\mathrm{min}\{r-s^2,s-u^2,u-v^2,v-r^2\}\leq\frac{1}{4}.\]",1
-214,"Dado un n˙mero natural $n$, determinar quÈ n˙mero es mayor: $n!$ Û $\sqrt{n^n}$.",1
-215,"Hallar todas las sucesiones $0\lt a_1\leq a_2\leq\ldots\leq a_n$ de numeros reales verificando \[\left\{\begin{array}{rcl} a_1+a_2+\ldots+a_n&=&96\\a_1^2+a_2^2+\ldots+a_n^2&=&144\\a_1^3+a_2^3+\ldots+a_n^3&=&216 \end{array}\right.\]",1
-216,"Dado $n\geq 1$, hallar todas las $n$-uplas de n˙meros reales $x_1,x_2,\ldots,x_n\geq 1$ tales que \[\sqrt{x_1}+\sqrt[3]{x_2}+\ldots+\sqrt[n+1]{x_n}=\sqrt{n}\sqrt{x_1+x_2+\ldots+x_n}.\]",1
-217,"Dados tres n˙meros reales positivos $x,y,z\geq 0$ tales que $x+y+z=1$, demostrar que \[\left(1+\frac{1}{x}\right)\left(1+\frac{1}{y}\right)\left(1+\frac{1}{z}\right)\geq 64.\] Analizar para quÈ valores de $x,y,z$ se obtiene la igualdad.",1
-218,"Supongamos que $a,b,c,d\in\mathbb{R}$ son n˙meros positivos que satisfacen la condiciÛn $ab+bc+cd+da=1$. Demostrar que \[\frac{a^3}{b+c+d}+\frac{b^3}{a+c+d}+\frac{c^3}{a+b+d}+\frac{d^3}{a+b+c}\geq\frac{1}{3}\] y analizar en quÈ casos se alcanza la igualdad.",1
-219,"Demostrar la siguiente desigualdad para cualquier n˙mero natural \(n\) \[\frac{1}{2\sqrt{n}}\lt\frac{1}{2}\cdot\frac{3}{4}\cdot\frac{5}{6}\cdots\frac{2n-1}{2n}\lt\frac{1}{\sqrt{2n+1}}\]",1
-220,"Sean $p$ y $q$ dos n˙meros reales positivos tales que $p+q=1$. Probar que \[\left(p+\frac{1}{p}\right)^2+\left(q+\frac{1}{q}\right)^2\geq\frac{25}{2}{.}\] øCu·ndo se obtiene la igualdad?",1
-221,Sea $P(x)$ un polinomio con coeficientes reales no negativos y supongamos que $P(4)=2$ y $P(16)=8$. Demostrar que $P(8)\leq 4$ y determinar para quÈ polinomios se da la igualdad en la desigualdad anterior.,1
-222,"Demostrar que el conjunto de n˙meros reales $x$ que satisfacen la desigualdad \[\sum_{k=1}^{70}\frac{k}{x-k}\geq\frac{4}{5}\] es una uniÛn de intervalos disjuntos cuyas longitudes suman $1988$.",1
-223,"Sean $a,b,c$ n˙meros reales tales que $a^2+b^2+c^2=1$. Demostrar que \[\frac{-1}{2}\leq ab+bc+ac\leq 1\] øPara quÈ valores de $a,b,c$ se dan las igualdades en estas desigualdades?",1
-224,"Hallar todos los polinomios $P(x)$ con coeficientes reales tales que \[P(x+1)=P(x)+2x+1\] para todo $x\in\mathbb{R}$.",1
-225,"Encontrar todas las funciones $f:\mathbb{R}\to\mathbb{R}$ que cumplen que \[f(x-f(y))=f(f(y))+xf(y)+f(x)-1\] para cualesquiera $x,y\in\mathbb{R}$.",1
-226,"Una funciÛn $f:[0,1]\to\mathbb{R}$ cumple las siguientes propiedades: $f(1)=1$, $f(x)\geq 0$ para todo $x\in[0,1]$, $f(x+y)\geq f(x)+f(y)$ siempre que $x,y,x+y\in[0,1]$. Demostrar que $f(x)\leq 2x$ para todo $x\in[0,1]$. øEs cierto que $f(x)\leq 1,\!9x$ para todo $x\in[0,1]$?",1
-227,"Una funciÛn $f$ est· definida sobre los enteros positivos mediante \begin{eqnarray} f(1)&=&1,\qquad f(3)=3,\\ f(2n)&=&f(n),\\ f(4n+1)&=&2f(2n+1)-f(n),\\ f(4n+3)&=&3f(2n+1)-2f(n). \end{eqnarray} Determinar el n˙mero de enteros positivos $n\leq 1988$ tales que $f(n)=n$.",1
-228,"Encontrar todas las funciones $f:\mathbb{N}\to\mathbb{N}$ tales que  $$f(n)+f(f(n))+f(f(f(n)))=3n$$ para todo n˙mero natural $n\in\mathbb{N}$.",1
-229,"Hallar todas las funciones $f:\mathbb{R}\to\mathbb{R}$ que cumplen que \[f(x)+f\left(\frac{1}{1-x}\right)=x\] para cualquier $x\in\mathbb{R}$ distinto de $0$ y de $1$.",1
-230,"Hallar todas las funciones $f:(0,\infty)\to\mathbb{R}$ que cumplen que existe $\lambda>0$ con $f(\lambda)=1$ tal que \[f(x)f(y)+f\left(\frac{\lambda}{x}\right)f\left(\frac{\lambda}{y}\right)=2f(xy),\] para cualesquiera $x,y\in\mathbb{R}$.",1
-231,"La funciÛn $g$ se define sobre los n˙meros naturales y cumple las siguientes tres condiciones: $g(2)=1$, $g(2n)=g(n)$, $g(2n+1)=g(2n)+1$. Hallar el valor m·ximo $M$ de $g(n)$ para $1\leq n\leq 2002$ y determinar cu·ntos valores de $n$ en este rango cumplen que $g(n)=M$.",1
-232,"Hallar todas las funciones $f:\mathbb{R}\to\mathbb{R}$ que cumplen que \[\bigl(f(x)+f(y)\bigr)\bigl(f(u)+f(v)\bigr)=f(xu-yv)+f(xv+yu),\] para cualesquiera $x,y,u,v\in\mathbb{R}$.",1
-233,"Hallar todas las funciones $f:\mathbb{R}\to\mathbb{R}$ que cumplen las siguientes dos condiciones: \begin{eqnarray*} f(x+y)&=&f(x)+f(y),\\ f(x\cdot y)&=&f(x)\cdot f(y), \end{eqnarray*} para cualesquiera $x,y\in\mathbb{R}$.",1
-234,"Hallar todas las funciones $f:\mathbb{N}\rightarrow\mathbb{N}$ estrictamente crecientes y tales que, para todo $n\in\mathbb{N}$, \[f(n+f(n))=2f(n).\]",1
-235,"Sea $a\in\mathbb{N}$ y $f:\mathbb{N}\rightarrow\mathbb{N}$ una funciÛn tal que $f(f(n))=n+a,\ \forall n\in\mathbb{N}$. Demostrar que no existe una tal funciÛn si $a=1$. Para $a=2$, hallar todos los posibles valores de $f$.",1
-236,"Hallar todas las funciones $f:\mathbb{R}\rightarrow\mathbb{R}$ que verifican que \[f(x^2-y^2)=(x-y)\left(f(x)+f(y)\right)\] para cualesquiera $x,y\in\mathbb{R}$.",1
-237,"Hallar todas las funciones $f:\mathbb{R}\rightarrow\mathbb{R}$ que verifican que \[f\left(xf(x)+f(y)\right)=f(x)^2+y\] para cualesquiera $x,y\in\mathbb{R}$.",1
-238,"A cada entero positivo $n$ se le asigna un entero no negativo $f(n)$ de tal manera que se satisfagan las siguientes condiciones: $f(r\cdot s)=f(r)+f(s)$, $f(n)=0$, siempre que la cifra de las unidades de $n$ sea $3$, $f(10)=0$. Hallar $f(1985)$. Justificar la respuesta.",1
-239,"Hallar las funciones $f:\mathbb{R}-\{-1,0,1\}\to\mathbb{R}$ que cumplen la ecuaciÛn \[f(x)^2\cdot f\left(\frac{1-x}{1+x}\right)=64x\] para cualquier $x\in\mathbb{R}-\{-1,0,1\}$.",1
-240,"Encontrar todas las funciones $f:\mathbb{R}\rightarrow\mathbb{R}$ que verifican que \[f((x-y)^2)=f(x)^2-2xf(y)+y^2\] para cualesquiera $x,y\in\mathbb{R}$.",1
-241,"Hallar todas las funciones \(f:\mathbb{Z}\rightarrow\mathbb{Z}\) que verifiquen \[f(x+f(y))=f(x)-y\] para cualesquiera n˙meros enteros \(x,y\in\mathbb{Z}\).",1
-242,"Demostrar que si una funciÛn \(f:\mathbb{Z}\rightarrow\mathbb{Z}\) cumple que  \[f(m^2+f(n))=f(m)^2+n\] para cualesquiera \(m,n\in\mathbb{Z}\), entonces \(f(n)=n\) para todo \(n\in\mathbb{Z}\).",1
-243,"Dado un entero positivo $k$, sea $A_k$ el subconjunto de $\{k+1,k+2,\ldots,2k\}$ formado por los n˙meros cuya representaciÛn en base $2$ tiene exactamente tres unos y sea $f(k)$ el n˙mero de elementos de $A_k$. Demostrar que la ecuaciÛn $f(k)=m$ tiene al menos una soluciÛn para todo entero positivo $m$. Hallar todos los enteros positivos $m$ para los que $f(k)=m$ tiene una ˙nica soluciÛn.",3
-244,Sobre una mesa hay cien tarjetas numeradas con los n˙meros del $1$ al $100$ y se eligen $25$ de ellas al azar. øCu·l es la probabilidad de que la suma de los n˙meros elegidos sea par?,3
-245,øCu·ntos divisores impares tiene $20!$?,3
-246,"Sea $S$ un conjunto de $n$ elementos. Denotamos por $p_n(k)$ al n˙mero de permutaciones de los elementos de $S$ que dejan exactamente $k$ elementos fijos. Demostrar que \[\sum_{k=0}^nkp_n(k)=n!\]",3
-247,"Calcular cu·ntos n˙meros enteros de $n$ cifras ($n\geq 1$) cumplen cada una de las siguientes condiciones: Sus cifras forman una sucesiÛn creciente. Sus cifras forman una sucesiÛn estrictamente creciente. Por ejemplo, las cifras del n˙mero $1345567789$ forman una sucesiÛn creciente pero no estrictamente creciente ya que hay cifras repetidas.",3
-248,"Alrededor de una mesa redonda est·n sentados representantes de $n$ paÌses ($n \geq 2$), de modo que satisfacen la siguiente condiciÛn: si dos personas son el mismo paÌs, entonces sus respectivos vecinos de la derecha no pueden ser de un mismo paÌs. Determinar, para cada $n$, el n˙mero m·ximo de personas que puede haber alrededor de la mesa.",3
-249,Se divide el plano en $n$ regiones mediante tres familias de rectas paralelas. No hay tres rectas que pasen por el mismo punto. Determinar el n˙mero mÌnimo de rectas necesarias para que $n\gt 1999$.,3
-250,"Se considera un polÌgono convexo de $n$ lados y se trazan todas sus rectas diagonales, suponiendo que no hay dos paralelas y que no hay tres con un punto en com˙n que no sea un vÈrtice. En esas condiciones, calcular: El n˙mero de puntos de intersecciÛn de estas diagonales, excluidos los vÈrtices. Cu·ntos de esos puntos son interiores al polÌgono.",3
-251,Sea $H$ un conjunto de $n$ puntos en el plano con coordenadas enteras tales que cualesquiera tres de ellos no est·n alineados y forman un tri·ngulo cuyo baricentro no tiene ninguna coordenada entera. Determinar el valor m·ximo posible de $n$.,3
-252,"Un conjunto de tres enteros no negativos $\{x,y,z\}$ con $x\lt y\lt z$ se llama histÛrico cuando cumple que $\{z-y,y-x\}=\{1776,2001\}$. Demostrar que el conjunto $\mathbb{N}$ se puede poner como uniÛn de conjuntos histÛricos, disjuntos dos a dos.",3
-253,"Tiramos consecutivamente tres dados y formamos con ellos un n˙mero $A$ de tres cifras (la primera tirada nos da las centenas de $A$, la segunda las decenas y la tercera las unidades). Repetimos el proceso obteniendo otro n˙mero $B$ de tres cifras. Calcular la probabilidad de que $A\gt B$.",3
-254,"Ordenamos de menor a mayor todos los n˙meros que se forman reordenando de alguna forma los dÌgitos del $1$ al $7$ sin repetir ninguno (por ejemplo, el menor de estos n˙meros es $1234567$ y el mayor es $7654321$). Hallar el n˙mero que ocupa la posiciÛn $2015$.",3
-255,øCu·l es la probabilidad de que al elegir un n˙mero al azar entre $1000$ y $9999$ el producto de sus cifras sea m˙ltiplo de $3$? øY si sabemos que el n˙mero es par?,3
-256,"En una reuniÛn de 500 diplom·ticos sabemos que 450 de ellos hablan inglÈs, 380 hablan francÈs, 390 hablan espaÒol y 290 hablan alem·n. øCu·l es el mÌnimo n˙mero de diplom·ticos que podemos asegurar que hablan los cuatro idiomas?",3
-257,"Sea $n$ un entero positivo. Consideramos la suma $x_1y_1+x_2y_2+\ldots+x_ny_n$, donde todas las $2n$ variables toman los valores $0$ Û $1$. Sea $I(n)$ el n˙mero de $2n$-uplas $(x_1,x_2,\ldots,x_n,y_1,y_2,\ldots,y_n)$ para las cuales el valor de la suma es impar, y sea $P(n)$ el n˙mero de las $2n$-uplas para las cuales dicha suma toma un valor par. Demostrar que \[\frac{P(n)}{I(n)}=\frac{2^n+1}{2^n-1}{.}\]",3
-258,"Dado $n\geq 1$, tomemos $n$ rectas en el plano tales que no hay dos paralelas ni tres concurrentes. Calcular, en funciÛn de $n$, las siguientes cantidades: el n˙mero de puntos de intersecciÛn, el n˙mero de regiones en que el plano queda dividido. øPodemos colorear dichas regiones usando dos colores de forma que las regiones que sean adyacentes tengan distinto color?",3
-259,Se lanzan doce monedas al aire. øCu·l es la probabilidad de que salgan exactamente 3 caras y 9 cruces?,3
-260,Hallar el n˙mero mÌnimo de apuestas de quiniela que debemos rellenar para asegurar que obtenemos al menos cinco aciertos en una de ellas.,3
-261,"En la primera divisiÛn de la liga espaÒola de f˙tbol juegan 20 equipos. En la primera jornada, se emparejan estos 20 equipos para jugar 10 partidos. Hallar el n˙mero de posibles emparejamientos distintos (no importa el orden de los partidos ni el orden de los equipos, sÛlo quiÈn juega contra quiÈn).",3
-262,"Dado un n˙mero natural $n$, sea $f(n)$ la cantidad de n˙meros de $n$ cifras que pueden formarse con los dÌgitos $1$, $2$ y $3$ de forma que no haya dos unos consecutivos. Demostrar que \[f(n)=2f(n-1)+2f(n-2).\]",3
-263,Consideremos un polÌgono convexo de $n$ lados y supongamos que no tiene tres diagonales que se corten en el mismo punto. Calcular en funciÛn de $n$ el n˙mero de puntos interiores al polÌgono que son corte de dos diagonales.,3
-264,"Seis amigos tienen 100 euros. Determinar el n˙mero de formas distintas pueden repartirse el dinero (cada uno obtiene una cantidad entera de euros) en cada uno de los siguiente supuestos independientes: Se admite que algunos de ellos reciban 0 euros. Todos tienen que recibir al menos un euro.",3
-265,"Consideremos el conjunto $A=\{1,2,\ldots,n\}$. Demostrar que el n˙mero de subconjuntos de $A$ es $2^n$. øCu·l es el n˙mero de parejas de subconjuntos disjuntos de $A$? Nota: tener en cuenta que el vacÌo $\emptyset$ tambiÈn es un subconjunto de $A$.",3
-266,"Un polÌgono convexo de $n$ lados se descompone en $m$ tri·ngulos de modo que cada lado de esos $m$ tri·ngulos es tambiÈn un lado de otro tri·ngulo contiguo o del polÌgono dado. Demostrar que $m+n$ es par. Conocidos $m$ y $n$, hallar el n˙mero de lados distintos que quedan en el interior del polÌgono y el n˙mero de vÈrtices distintos que quedan en ese interior.",3
-267,"Tenemos una familia de subconjuntos de $4$ elementos del conjunto $\{1,2,3,4,5,6,7,8\}$ con la propiedad de que cada n˙mero entre $1$ y $8$ pertenece exactamente a $3$ de estos subconjuntos. øCu·ntos subconjuntos tiene la familia?",3
-268,Determinar el menor n˙mero natural $n$ tal que un cubo de arista $n$ puede ser dividido en $1996$ cubos cuyas aristas sean n˙meros naturales.,3
-269,øEs posible dibujar 2003 segmentos en el plano de forma que cada uno de ellos corte exactamente a otros tres segmentos?,3
-270,"Sean \(a\) y \(b\) enteros positivos. Calcular el n˙mero de caminos de longitud mÌnima que unen los puntos del plano \((0,0)\) y \((a,b)\) y est·n formados por segmentos horizontales y verticales de longitudes enteras. ",3
-271,"Se meten en un saco \(900\) tarjetas numeradas del \(100\) al \(999\). øCu·l es la menor cantidad de tarjetas que se deben sacar del saco, para asegurarnos que al menos en tres tarjetas la suma de los dÌgitos del n˙mero escrito es la misma?",3
-272,"Hallar el n˙mero de de formas de ordenar los n˙meros \(1,2,\ldots,n\) que no dejan fijo a ninguno de los n˙meros, es decir, el n˙mero \(k\) no est· en el \(k\)-Èsimo lugar de la ordenaciÛn. øCu·l es la probabilidad de que al tomar una ordenaciÛn al azar, la elegida no deje fijo a ning˙n elemento?",3
-273,"Dado un n˙mero natural $n$ tal que $1\leq n\leq 8$, øde cu·ntas formas pueden colocarse $n$ torres en un tablero de ajedrez $8\times 8$ de forma que no se ataquen?",3
-274,"Escribimos todos los n˙meros del $1$ al $9999$ de forma consecutiva formando el n˙mero \[N=12345678910111213...99989999.\] Se pide: øCu·ntos dÌgitos tiene el n˙mero $N$? øQuÈ dÌgito de $N$ ocupa la posiciÛn $2015$ por la izquierda?",3
-275,"Sea $n$ un n˙mero natural. Demostrar que la suma de todas las fracciones $\frac{1}{pq}$, donde $p$ y $q$ son primos relativos tales que $1\leq p\lt q\leq n$ y $p+q\gt n$, es igual a $\frac{1}{2}$.",1
-276,"Se tienen dos sucesiones, cada una de 2003 enteros consecutivos, y un tablero de 2 filas y 2003 columnas. Decidir si siempre es posible distribuir los n˙meros de la primera sucesiÛn en la primera fila y los de la segunda sucesiÛn en la segunda fila, de tal manera que los resultados obtenidos al sumar los dos n˙meros de cada columna formen una nueva sucesiÛn de 2003 n˙meros consecutivos. øY si se reemplaza 2003 por 2004?",1
-277,"Calcula el valor de la siguiente suma \[E(\sqrt{1})-E(\sqrt{2})+E(\sqrt{3})-E(\sqrt{4})+\ldots+E(\sqrt{2015}),\] donde $E(x)$ denota la parte entera de $x$.",1
-278,"Dado un entero $c\geq 1$, definimos la sucesiÛn $\{a_n\}$ como $a_1=2$ y, para $n\geq 2$, \[a_{n+1}=ca_n+\sqrt{(c^2-1)(a_n^2-4)}{,}\] Demostrar que $a_n$ es un entero para todo $n\geq 1$.",1
-279,"Hallar el menor n˙mero natural que es suma de 9 naturales consecutivos, es suma de 10 naturales consecutivos y adem·s es suma de 11 naturales consecutivos.",1
-280,"Sean $a_0$, $a_1$, $a_2$, $a_3$ y $a_4$ cinco n˙meros positivos en progresiÛn aritmÈtica de diferencia $d$. Probar que \[a_2^3\leq\frac{1}{10}(a_0^3+4a_1^3+4a_3^3+a_4^3){.}\]",1
-281,"Consideremos dos sucesiones $\{x_n\}$ e $\{y_n\}$ definidas por \begin{eqnarray*} x_0=1,\ x_1=1,&&x_{n+1}=x_n+2x_{n-1},\\ y_0=1,\ y_1=7,&&y_{n+1}=2y_n+3y_{n-1}. \end{eqnarray*} Demostrar que 1 es el ˙nico n˙mero que aparece simult·neamente en las dos sucesiones.",1
-282,"Considerando la suma $$S_n=\frac{1}{1\cdot 2\cdot 3}+\frac{1}{2\cdot 3\cdot 4}+\ldots+\frac{1}{n(n+1)(n+2)}{,}$$ expresar $S_{2015}$ como una fracciÛn irreducible.",1
-283,"Consideremos la sucesiÛn $\{a_n\}$ dada por $a_1=a_2=1$ y \[a_{n+2}=\frac{1}{a_{n+1}}+a_n\] para todo $n\in\mathbb{N}$. Calcular $a_{2004}$.",1
-284,Hallar todas las sucesiones estrictamente crecientes de n˙meros naturales que cumplen que cualquier n˙mero natural se escribe de forma ˙nica como suma de tÈrminos distintos de la sucesiÛn.,1
-285,"Para cada n˙mero natural $n$, sea $a_n$ el ˙ltimo dÌgito del n˙mero $1+2+\cdots+n$. Calcular $a_1+a_2+\ldots+a_n$.",1
-286,Calcula todas las sucesiones de n˙meros naturales consecutivos cuya suma es $1999$.,1
-287,"Demostrar que, dado un n˙mero natural \(n\), \[2\cdot 2+3\cdot 2^2+4\cdot 2^3+\cdots+n\cdot 2^{n-1}=(n+1)\cdot 2^n.\]",1
-288,"Calcular el valor de la siguente suma en funciÛn de un entero no negativo $n\in\mathbb{Z}$: \[\sum_{j=0}^n\sum_{k=0}^{n-j}\frac{(-1)^k}{j!\cdot k!}{.}\]",1
-289,"Consideremos la sucesiÛn definida por \[16, 1156, 111556,11115556,\ldots\] donde cada n˙mero se obtiene del anterior insertando \(15\) entre sus cifras centrales. Demostrar que todos los n˙meros de la sucesiÛn son cuadrados perfectos.",1
-290,"Demostrar que si entre los infinitos tÈrminos de una progresiÛn aritmÈtica de n˙meros enteros positivos hay un cuadrado perfecto, entonces infinitos tÈrminos de la progresiÛn son cuadrados perfectos.",1
-291,Tenemos cien n˙meros en progresiÛn aritmÈtica de los cuales sabemos que su suma es $52$ y que la suma de los tÈrminos pares es $1$. Calcular la suma de los cuadrados de los cien n˙meros.,1
-292,"Para cada n˙mero natural $n$, consideremos $a_n$ el n˙mero cuya expresiÛn decimal est· formada por $n$ sietes (es decir, $a_1=7$, $a_2=77$, $a_3=777$, etc,...). Hallar el valor de la suma \[a_1+a_2+\ldots+a_n{.}\]",1
+1,"Sean $a, b, c$ tres n√∫meros naturales tales que \[\frac{a+b+c}{abc}=\frac{1}{k}\] para cierto entero $k$. Se pide demostrar que  $a^3+b^3+c^3$ no es primo. Para cada $k\in\mathbb{N}$, existen n√∫meros naturales $a,b,c$ cumpliendo esta condici√≥n.",4
+2,"Si $a$ es un entero impar, demostrar que $$a^4+4a^3+11a^2+6a+2$$ es una suma de tres cuadrados y es divisible entre $4$.",4
+3,¬øCu√°les son los posibles valores de la suma de los d√≠gitos de un cuadrado perfecto?,4
+4,"Se dice que un n√∫mero natural $n$ es sensato si existe un entero $r$, con $1\lt r \lt n-1$, tal que la representaci√≥n de $n$ en base $r$ tiene todas sus cifras iguales. Por ejemplo, $62$ y $15$ son sensatos ya que $62 = 222_{(5)}$ y $15 = 33_{(4)}$ . Demostrar que $1993$ no es sensato, pero que $1994$ s√≠ lo es.",4
+5,"Encontrar todos los enteros positivos $a,b,c\geq 1$ tales que $2^a+7^b=c^2+4$.",4
+6,Encuentra todos los n√∫meros $n$ de dos d√≠gitos tales que la suma de los d√≠gitos de $10^n-n$ es divisible entre $170$.,4
+7,Demostrar que el producto de cuatro enteros positivos consecutivos no puede ser un cuadrado perfecto.,4
+8,"Probar que si $p$ es un primo positivo que se expresa como suma de los cubos de dos enteros, entonces $p=2$ o bien $p=3n^2-3n+1$ para alg√∫n entero $n\in\mathbb{Z}$.",4
+9,"Determina todos los n√∫meros enteros positivos primos $p, q, r$, que verifican $p+q+r = 2023$ y tales que $pqr + 1$ es un cuadrado perfecto.",4
+10,"Supongamos que $k\geq 2$ y $n_1,n_2,\ldots,n_k$ son n√∫meros naturales tales que  $$n_1|2^{n_2} ‚àí1,\quad n_2|2^{n_3}‚àí1,...\quad n_k|2^{n_1}‚àí1.$$  Demostrar que $n_1 = n_2 =¬∑¬∑¬∑=n_k=1$.",4
+11,¬øPueden elegirse $1983$ enteros no negativos distintos y menores que $10^5$ tales que no hay tres de ellos en progresi√≥n aritm√©tica?,4
+12,Demostrar que $m(m+1)$ no es la potencia de ning√∫n n√∫mero entero para ning√∫n n√∫mero natural $m\in\mathbb{N}$.,4
+13,"Sea $f(x)=(x+b)^2-c$ un polinomio con $b$ y $c$ n√∫meros enteros.  Si $p$ es un n√∫mero primo que divide a $c$ y $p^2$ no divide a $c$, demostrar que $p^2$ no divide a $f(n)$ para ning√∫n entero $n\in\mathbb{Z}$. Sea $q$ un n√∫mero primo distinto de $2$ que no divide a $c$. Si $q$ divide a $f(n)$ para alg√∫n entero $n\in\mathbb{Z}$, demostrar que para cada entero positivo $r$ existe un entero $n'$ tal que $q^r$ divide a $f(n')$.",4
+14,"Dados tres n√∫meros enteros distintos $x,y,z\in\mathbb{Z}$, demostrar que $(x-y)^5+(y-z)^5+(z-x)^5$ es divisible entre $5(x-y)(y-z)(z-x)$.",4
+15,"Sea $n$ un n√∫mero natural con $1998$ cifras que es divisible entre $9$. Sea $x$ la suma de sus d√≠gitos, $y$ la suma de los d√≠gitos de $x$ y $z$ la suma de los d√≠gitos de $z$. Hallar $z$.",4
+16,"Demostrar que no existen enteros $a,b,c,d\in\mathbb{Z}$ tales que  el polnomio  $ax^3+bx ^2+cx+d$ vale $1$ para $x=19$ y vale $2$ para $x=62$.",4
+17,"Se llama parte entera de un n√∫mero real $a$ al mayor n√∫mero entero menor o igual que $a$. Si $n$ es un n√∫mero natural, demostrar que la parte entera de $(4+\sqrt{11})^n$ es un n√∫mero impar.",4
+18,Un oct√≥gono tiene todos sus √°ngulos interiores iguales y las longitudes de sus lados son n√∫meros enteros. Probar que los lados opuestos son iguales dos a dos.,4
+19,"Sean $m$ y $n$ enteros positivos tales que $1\leq m\lt n$. En su representaci√≥n decimal, $1978^n$ tiene los mismos √∫ltimos tres d√≠gitos que $1978^m$. Encontrar $m$ y $n$ tales que su suma $m+n$ sea la menor posible.",4
+20,"Si $n\geq 3$ es un n√∫mero impar, demostrar que la fracci√≥n $\frac{2}{n}$ se puede escribir como suma de dos fracciones con numerador $1$ y cuyos denominadores son n√∫meros enteros distintos.",4
+21,Hallar todas las formas de expresar $2003$ como la suma de los cuadrados de dos n√∫meros enteros.,4
+22,En cada casilla de un tablero $m\times n$ se encuentra un n√∫mero real. Se permite cambiar todos los n√∫meros de una fila o de una columna de signo tantas veces como queramos. Demostrar que puede conseguirse que las sumas de los elementos cada fila y cada columna sean no negativas independientemente de la configuraci√≥n inicial.,4
+23,"Sea  $a_1,a_2,\ldots$ una progresi√≥n aritm√©tica no constante de n√∫meros reales. Supongamos que existen enteros primos entre s√≠ $p,q\gt 1$ para los que $a_1^2$, $a_{p+1}^2$ y $a_{q+1}^2$ son tambi√©n elementos de la misma sucesi√≥n. Demostrar que todos los t√©rminos de la sucesi√≥n son enteros.",4
+24,Sean $p$ y $q$ n√∫meros enteros tales que \[1-\frac{1}{2}+\frac{1}{3}-\frac{1}{4}+\ldots-\frac{1}{1318}+\frac{1}{1319}=\frac{p}{q}.\] Demostrar que $p$ es divisible entre $1979$.,4
+25,Demostrar que el siguiente n√∫mero entero es compuesto: \[\frac{5^{125}-1}{5^{25}-1}.\],4
+26,"Si los n√∫meros del $11111$ al $99999$ se colocan en alg√∫n orden formando un n√∫mero de $444445$ cifras, demostrar que dicho n√∫mero no es una potencia de $2$.",4
+27,"Dado un n√∫mero natural $n$, denotaremos por $s(n)$ a la suma de los d√≠gitos de $n$ (por ejemplo, tenemos que $s(436)=4+3+6=13$). Hallar todas las soluciones de la ecuaci√≥n \[n+s(n)+s(s(n))=2018.\]",4
+28,"Sean $p$ un n√∫mero primo impar y $a$ y $b$ enteros positivos. Si el exponente de $p$ en $a-1$ es $\alpha\geq 1$ y el exponente de $p$ en $b$ es $\beta\geq 0$, demostrar que el exponente de $p$ en $a^b-1$ es $\alpha+\beta$.  (Cuando decimos que $e$ es el exponente de $p$ en un n√∫mero $n$, queremos decir que es el exponente en su factorizaci√≥n como producto de n√∫meros primos, es decir, que $p^e$ divide a $n$ pero $p^{e+1}$ no divide a $n$.)",4
+29,Determinar todos los n√∫meros enteros positivos $p$ y $n$ tales que $p$ es primo y  \[8p+120=1+2+\ldots+n.\],4
+30,"Probar que, para todo n√∫mero racional positivo $r$, existen enteros positivos $a,b,c,d$ tales que \[r=\frac{a^3+b^3}{c^3+d^3}.\]",4
+31,"Un entero positivo se llama mon√≥tono si sus d√≠gitos en base decimal de izquierda a derecha forma una sucesi√≥n no decreciente. Demostrar que, para cada entero positivo $n$ existe un n√∫mero mon√≥tono de $n$ d√≠gitos que es cuadrado perfecto.",4
+32,"Dado un entero $n\geq 2$, demostrar que existe un conjunto $S$ de $n$ n√∫meros enteros tales que $(a-b)^2$ divide a $ab$ para cualesquiera $a,b\in S$.",4
+33,"Sean $a,p,n\in\mathbb{N}$ enteros positivos con $p$ primo. Demostrar que si $2^p+3^p=a^n$, entonces $n=1$.",4
+34,"Probar que, para cada $n\in\mathbb{N}$, existe un n√∫mero entero $N$ que puede ser expresado como la suma de dos cuadrados y que, adem√°s, cumple que $n\leq N\leq n+2\sqrt{2}\sqrt[4]{n}$.",4
+35,"Decimos que un n√∫mero entero positivo es un n√∫mero ondulante si sus d√≠gitos en base 10 son alternativamente cero y distinto de cero, siendo el d√≠gito de las unidades distinto de cero. Determinar todos los enteros positivos que no dividen a ning√∫n n√∫mero ondulante.",4
+36,"Sea $p$ un n√∫mero primo y supongamos que $n\geq p$ es un n√∫mero natural tal que $\binom{n}{k}$ no es m√∫ltiplo de $p$ para ning√∫n valor de $k\in\{0,\ldots,n\}$. Demostrar que $n=p^sq-1$, siendo $s$ y $q$ enteros tales que $s\gt 0$ y $0\lt q\lt p$.",4
+37,"Probar que entre $39$ n√∫meros naturales consecutivos, siempre existe uno tal que la suma de sus cifras es m√∫ltiplo de $11$.",4
+38,"Dados dos n√∫meros naturales $a,b\in\mathbb{N}$, ¬øpueden ser $a^2+b$ y $b^2+a$ ambos cuadrados perfectos?",4
+39,Demostrar que no es posible dividir dieciocho n√∫meros enteros consecutivos en dos conjuntos disjuntos tales que los productos de los elementos de cada conjunto sean iguales.,4
+40,Demostrar que los binomios $25x+31y$ y $3x+7y$ son m√∫ltiplos de 41 para los mismos valores enteros de $x$ e $y$.,4
+41,"Hallar todos los enteros positivos $n$ tales que  \[n=s+u^2{,}\] donde $s$ es la suma de las cifras de $n$ y $u$ su cifra de las unidades.",4
+42,Encontrar todas las soluciones naturales de la ecuaci√≥n \[\frac{1}{m}+\frac{1}{n}+\frac{1}{mn^2}=\frac{3}{4}{.}\],4
+43,"Dado un n√∫mero entero positivo, consideremos la operaci√≥n consistente en restarle su mayor divisor propio. Partiendo del n√∫mero $19^{19}$ y aplicando reiteradamente esta operaci√≥n se obtiene el n√∫mero 1. Determinar cu√°ntas veces se ha aplicado la operaci√≥n.",4
+44,"Dados los n√∫meros racionales $r$, $q$ y $n$ tales que \[\frac{1}{r+qn}+\frac{1}{q+rn}=\frac{1}{r+q}{,}\] demostrar que $\sqrt{\frac{n-3}{n+1}}$ es un n√∫mero racional.",4
+45,"Sea $N$ un entero positivo tal que existen exactamente $2005$ pares ordenados $(x,y)$ de n√∫meros enteros positivos que satisfacen la ecuaci√≥n \[\frac{1}{x}+\frac{1}{y}=\frac{1}{N}{.}\] Demostrar que $N$ es un cuadrado perfecto.",4
+46,"Hallar todas las ternas de n√∫meros enteros $(x,y,z)$ tales que  $$\frac{1}{x^2}+\frac{1}{y^2}=z.$$",4
+47,"Determinar todos los pares de enteros positivos $(a,b)$ para los cuales \[\frac{a^2b+b}{ab^2+9}\] es un n√∫mero entero.",4
+48,Sean $a$ y $b$ enteros. Demostrar que la ecuaci√≥n \[(x-a)(x-b)(x-3)+1=0\] admite a lo sumo una soluci√≥n entera.,4
+49,¬øExiste alguna potencia de $2$ tal que al escribirla en el sistema decimal tenga todos sus d√≠gitos distintos de cero y sea posible reordenar los mismos para formar con ellos otra potencia de $2$?,4
+50,"Encontrar el mayor entero $N$ que cumple las siguientes condiciones:  $E(\frac{N}{3})$ es un n√∫mero de tres cifras iguales, $E(\frac{N}{3})=1+2+\ldots+n$, para alg√∫n n√∫mero natural $n\in\mathbb{N}$,  donde $E(x)$ denota la parte entera de $x$.",4
+51,"Sea $a$ un entero positivo impar mayor que $17$ tal que $3a-2$ es un cuadrado perfecto. Demostrar que existen enteros positivos distintos $b$ y $c$ tales que $a+b$, $b+c$, $a+c$ y $a+b+c$ son cuatro cuadrados perfectos.",4
+52,Hallar todos los n√∫meros naturales $n$ tales que $2^n+12^n+2011^n$ es un cuadrado perfecto.,4
+53,Hallar todos los n√∫meros enteros $n$ tales que $$n^4-4n^3+22n^2-36n+18$$ es un cuadrado perfecto.,4
+54,"Sean $a,b,c,d$ n√∫meros naturales tales que $ad=b^2+bc+c^2$. Demostrar que $$a^2+b^2+c^2+d^2$$ es un n√∫mero compuesto.",4
+55,Hallar todos los polinomios de coeficientes enteros $P(x)$ con la propiedad de que $P(n)$ divide a $2^n-1$ para todo n√∫mero natural  $n$.,4
+56,Determinar todos los n√∫meros naturales $m$ tales que $m2^{m-1}+1$ es un cuadrado perfecto.,4
+57,Descomponer en factores primos el n√∫mero \[N=1995\cdot 2007\cdot 2013+320.\],4
+58,"Sean $a,b,c,d,p,q$ n√∫meros naturales tales que $ad-bc=1$ y \[\frac{a}{b}\gt\frac{p}{q}\gt\frac{c}{d}{.}\] Demostrar que  $q\geq b+d$. Si $q=b+d$, entonces $p=a+c$.",4
+59,Determinar razonadamente si el n√∫mero $\sqrt{3n^2+2n+2}$ es irracional para todo entero no negativo $n$.,4
+60,"Sean $a$, $b$ y $n$ enteros positivos tales que $ab-1=n^2$. Demostrar que $$|a-b|\geq\sqrt{4n-3}.$$ Indicar justificadamente cu√°ndo se alcanza la igualdad.",4
+61,"Demostrar que si $4^n+2^n+1$ es primo, entonces $n$ es una potencia de $3$.",4
+62,"Demuestra que, para cualesquiera enteros no negativos $m$ y $n$, el n√∫mero \[\frac{(2m)!(2n)!}{m!\,n!(m+n)!}\] es entero.",4
+63,"Demostrar que si $n$ es un n√∫mero impar, entonces $2^n+3^n$ no es un cuadrado perfecto.",4
+64,"Sea $P(x,y)=2x^2-6xy+5y^2$. Diremos que $a$ es un valor de $P$ si existen n√∫meros enteros $b$ y $c$ tales que $a=P(b,c)$.  Determinar cu√°ntos elementos de $\{1,2,...,100\}$ son valores de $P$. Probar que el producto de valores de $P$ es un valor de $P$.",4
+65,Supongamos que un n√∫mero primo se escribe como la suma de los cuadrados de otros tres n√∫meros primos. Demuestra que uno de esos primos tiene que ser igual a 3.,4
+66,"Demostrar que existen infinitas ternas de n√∫meros naturales distintos $(a,b,c)$ tales que  \[\frac{1}{a}+\frac{1}{b}=\frac{1}{c}{.}\]",4
+67,"Dado un n√∫mero natural $n$, expresamos \[(3-2\sqrt{2})^n=a_n+b_n\sqrt{2},\] donde $a_n$ y $b_n$ son n√∫meros enteros. Demostrar que $a_n$ y $b_n$ son primos entre s√≠ para todo $n\in\mathbb{N}$.",4
+68,"Consideremos $d_1\lt d_2\lt\ldots\lt d_k$ los divisores positivos de un n√∫mero natural $n$, de forma que $d_1=1$ y $d_k=n$, y sea \[d=d_1d_2+d_2d_3+\ldots+d_{k-1}d_k.\] Demostrar que $d\lt n^2$ y hallar todos los valores de $n$ para los que $d$ divide a $n^2$.",4
+69,Los n√∫meros naturales $a$ y $b$ son tales que \[\frac{a+1}{b}+\frac{b+1}{a}\] es un n√∫mero entero. Demostrar que el m√°ximo com√∫n divisor de $a$ y $b$ no es mayor que $\sqrt{a+b}$.,4
+70,"Demostrar que si $m$, $n$ y $r$ son enteros positivos tales que \[1+m+n\sqrt{3}=\left(2+\sqrt{3}\right)^{2r-1},\] entonces $m$ es un cuadrado perfecto.",4
+71,"Hallar todas las ternas de n√∫meros enteros $(a,b,c)$ tales que \begin{eqnarray*}  a+b+c&=&24,\\  a^2+b^2+c^2&=&210,\\  abc&=&440. \end{eqnarray*}",4
+72,Supongamos que $n$ es un n√∫mero natural tal que $2n+1$ es un cuadrado perfecto. Demostrar que $n+1$ es la suma de los cuadrados de dos n√∫meros consecutivos.,4
+73,Encontrar un conjunto infinito de enteros positivos $S$ tal que la suma de los elementos de cualquier subconjunto finito de $S$ no sea un cuadrado perfecto.,4
+74,"Demostrar que si $p\geq 7$ es un n√∫mero primo y $k$ es un n√∫mero natural cualquiera, entonces existe una potencia de $p$ cuya representaci√≥n decimal tiene $k$ ceros consecutivos.",4
+75,Demostrar que no existen enteros positivos $x$ e $y$ tales que \[x^{2008}+2008!=21^y.\],4
+76,Hallar todos los n√∫meros enteros $x$ e $y$ que cumplen la ecuaci√≥n \[xy-4x-5y=27.\],4
+77,Hallar todos los n√∫meros enteros $n$ para los que $n^4+n^2+1$ es un n√∫mero primo.,4
+78,"Dado un n√∫mero natural $n$, llamamos $P$ al producto de los n√∫meros naturales entre $1$ y $n$, y llamamos $Q$ al producto de los n√∫meros entre $n+1$ y $2n$. Demostrar que $Q$ es un m√∫ltiplo de $P$.",4
+79,"Supongamos que $a,b,c\in\mathbb{N}$ son n√∫meros naturales que no tienen factores comunes y cumplen que \[a=\frac{bc}{c-b}.\] Demostrar que $a-b$ es un cuadrado perfecto.",4
+80,"Un n√∫mero $n$ se llama abundante cuando la suma de todos los divisores de $n$ (sin contar al propio $n$ como divisor suyo), es mayor que $n$. Demostrar que todos los m√∫ltiplos de $100$ son abundantes.",4
+81,Sea $p$ un n√∫mero primo. Hallar todos los n√∫meros enteros $k$ tales que $\sqrt{k^2-kp}$ es un n√∫mero natural.,4
+82,Encontrar todas las soluciones enteras de la ecuaci√≥n \[x^2+y^2=3z^2.\],4
+83,Encontrar todas las soluciones enteras de la ecuaci√≥n \[x^2+y^2+z^2=x^2y^2.\],4
+84,Encontrar todas las soluciones enteras de la ecuaci√≥n \[x^2-y^2=2xyz.\],4
+85,Escribimos los n√∫meros del uno al veinte de forma consecutiva formando el n√∫mero de $31$ cifras \[N=1234567891011121314151617181920.\] ¬øPodemos reordenar las cifras de $N$ para obtener un cuadrado perfecto?,4
+86,"Encontrar todas las soluciones enteras $(x,y)$ de la ecuaci√≥n \[(x+y)p=xy,\] donde $p$ es un n√∫mero primo.",4
+87,"Determinar todas las ternas $(a,b,p)$ de n√∫meros enteros, siendo $p$ un n√∫mero primo, verificando la ecuaci√≥n \[a^2b^2=p^2(a-1)(b-1).\]",4
+88,¬øEs primo el n√∫mero $2015^4+4^{2015}$?,4
+89,"Calcular el siguiente m√°ximo com√∫n divisor: \[\mathrm{mcd}\left(\left(2^{2009}+1\right)^{2009},2^{2009^{2009}}+1\right)\]",4
+90,"Si tenemos dos n√∫meros enteros que pueden expresarse como suma de dos cuadrados perfectos, demostrar que su producto tambi√©n puede expresarse de esta forma.",4
+91,Encontrar todos los n√∫meros naturales $n$ tales que \[n^4+6n^3+11n^2+3n+31\] es un cuadrado perfecto.,4
+92,"Demostrar que existen infinitos n√∫meros naturales $n$ de forma que cada uno de los n√∫meros $n$, $n+1$ y $n+2$ es un cuadrado perfecto o bien la suma de dos cuadrados perfectos.",4
+93,"¬øQu√© elementos de la sucesi√≥n \[\{101,\ 10101,\ 1010101,\ 101010101,\ldots\}\] son n√∫meros primos?",4
+94,Encontrar un n√∫mero que sea m√∫ltiplo de $18$ y tenga exactamente $74$ divisores.,4
+95,Demostrar la veracidad o falsedad de las siguientes afirmaciones:  La suma de los cubos de tres enteros consecutivos es m√∫ltiplo de $9$.  La suma de los cubos de cinco enteros consecutivos es m√∫ltiplo de $25$.  La suma de las potencias quintas de cinco enteros consecutivos es m√∫ltiplo de $25$.,4
+96,"Diremos que un conjunto de n√∫meros naturales es especial cuando tomando cualesquiera dos elementos $a$ y $b$ del conjunto, se cumple que $(a-b)^2$ divide a $ab$.  Encontrar un conjunto especial de tres elementos. ¬øExiste un conjunto de especial de cuatro n√∫meros en progresi√≥n aritm√©tica?",4
+97,Hallar todos los n√∫meros enteros positivos que son menores que $1000$ y que cumplen que el cubo de la suma de sus cifras es igual al cuadrado del dicho entero.,4
+98,"Partiendo de dos n√∫meros naturales $a$ y $b$, repetimos el siguiente proceso: al mayor le restamos el menor y nos quedamos con el menor y con la diferencia. Demostrar que llegar√° un momento en el los dos n√∫meros obtenidos ser√°n iguales y determinar esos n√∫meros.",4
+99,Encontrar todos los n√∫meros naturales \(n\in\mathbb{N}\) tales que \(3^n+5^n\) es m√∫ltiplo de \(3^{n-1}+5^{n-1}\).,4
+100,¬øExiste alg√∫n n√∫mero natural tal que al elevarlo al cubo su expresi√≥n decimal termine en $111$?,4
+101,"¬øCu√°l es el menor valor positivo posible de $36^m-5^n$, siendo $m$ y $n$ n√∫meros naturales?",4
+102,"Dado un n√∫mero primo \(p\geq 7\), hallar los posibles restos de dividir \(p^2\) entre \(30\).",4
+103,"Se define la sucesi√≥n \(\{p_n\}\) de la siguiente manera: \(p_1=2\) y, para todo \(n\geq 2\), \(p_n\) es el mayor divisor primo de la expresi√≥n \(p_1p_2\cdots p_{n-1}+1\). Probar que \(p_n\) es siempre distinto de \(5\).",4
+104,"Demostrar que pueden tomarse \(2^k\) n√∫meros del conjunto \(\{0,1,2,\ldots,3^k-1\}\), de forma que cualesquiera tres de ellos (distintos) no est√©n en progresi√≥n aritm√©tica.",4
+105,"Demostrar que si \(n\in\mathbb{N}\) cumple que \((n-1)!+1\) es divisible entre \(n\), entonces \(n\) es un n√∫mero primo.",4
+106,Demostrar que todo n√∫mero entero \(n>6\) puede expresarse como suma de dos n√∫meros naturales mayores que uno y primos entre s√≠.,4
+107,Hallar los n√∫meros primos \(p\) tales que \(p+10\) y \(p+14\) tambi√©n son primos.,4
+108,"Hallar el valor de \(\mathrm{mcd}(2n+3,n+7)\) en funci√≥n del n√∫mero entero \(n\in\mathbb{Z}\).",4
+109,Supongamos que \(p\) y \(p^2+2\) son n√∫meros primos. Probar que \(p^3+5p^2+1\) es tambi√©n primo.,4
+110,"Demostrar que \(a^5-a\) es m√∫ltiplo de \(30\), para cualquier n√∫mero entero \(a\in\mathbb{Z}\).",4
+111,Sea \(n\) un n√∫mero entero. Demostrar que \(8n+7\) no se puede escribir como suma de tres enteros cuadrados perfectos.,4
+112,"Sean $x,y,z$ n√∫meros enteros. Demostrar que si $6$ divide a $x+y+z$, entonces tambi√©n divide a $x^3+y^3+z^3$.",4
+113,"Dado un n√∫mero natural $n\in\mathbb{N}$, calcular el n√∫mero de soluciones naturales $(x,y)$ de la ecuaci√≥n \[\frac{xy}{x+y}=n\] Deducir que el n√∫mero de soluciones siempre es impar.",4
+114,"Demostrar que, para cualquier n√∫mero natural \(n\in\mathbb{N}\), la siguiente fracci√≥n es irreducible: \[\frac{21n+4}{14n+3}\]",4
+115,Demostrar que en un conjunto de diez n√∫meros naturales consecutivos siempre hay uno de ellos que es primo relativo con todos los dem√°s.,4
+116,Determinar todos los n√∫meros naturales de cuatro cifras que sean iguales al cubo de la suma de sus cifras.,4
+117,"Hallar el menor n√∫mero natural \(n\in\mathbb{N}\) que cumple las siguientes dos propiedades:  Su representaci√≥n en base decimal termina en 6. Si borramos el 6 final y lo colocamos delante del resto de los d√≠gitos, el n√∫mero resultante es cuatro veces el anterior.",4
+118,"Sea \(n\) un entero mayor que \(10\) tal que todos sus d√≠gitos son \(1\), \(3\), \(7\) √≥ \(9\). Demostrar que \(n\) tiene al menos un factor primo mayor o igual que \(11\).",4
+119,"Calcular todas las parejas de n√∫meros enteros \((a,b)\) tales que \(a+b=ab\).",4
+120,"Demostrar que para cualquier n√∫mero natural \(n\in\mathbb{N}\), existen \(n\) n√∫meros compuestos consecutivos.",4
+121,"Sean \(a\) y \(b\) dos n√∫meros naturales primos entre s√≠. Para cada n√∫mero natural \(n\in\mathbb{N}\), hallar los posibles valores de \(\text{mcd}(a+b,a^n+b^n)\).",4
+122,Hallar todos los n√∫meros naturales \(m\) y \(n\) que cumplan \[n!+1=(m!-1)^2\],4
+123,"Encontrar el menor n√∫mero natural $n$, si existe, tal que $64$ divide a $5^n-1$.",4
+124,Hallar todos los n√∫meros naturales $n\in\mathbb{N}$ para los que $2^{11}+2^{8}+2^n$ es un cuadrado perfecto.,4
+125,"Sean $A$ la suma de las cifras del n√∫mero $N=4444^{4444}$, $B$ la suma de las cifras de $A$ y $C$ la suma de las cifras de $B$. Determinar el n√∫mero $C$.",4
+126,Encontrar todos los n√∫meros naturales $n\in\mathbb{N}$ tales que $n!$ no es divisible por $n^2$.,4
+127,"Dado $n\in\mathbb{N}$, denotamos por $S(n)$ la suma de los d√≠gitos del n√∫mero $n$ en base 10. Demostrar que $S(2n)\leq 2S(n)\leq 10S(2n)$ para todo $n\in\mathbb{N}$ y analizar para qu√© n√∫meros se alcanza la igualdad en cada una de las desigualdades.",4
+128,"Supongamos que $n\in\mathbb{N}$ cumple que $2^n-1$ es primo.  Demostrar que $n$ es primo. Demostrar que $2^{n-1}(2^n-1)$ es un n√∫mero perfecto, es decir, es igual a la suma de sus divisores (excluyendo en esta suma al propio n√∫mero).",4
+129,Encontrar todos los n√∫meros naturales $n\in\mathbb{N}$ tales que $2^n-1$ es divisible entre $7$.,4
+130,"Sea $ABC$ un tri√°ngulo y sea $L$ la recta que pasa por $C$ y es paralela al lado $AB$. Supongamos que la bisectriz interior del √°ngulo $A$ corta al lado $BC$ en $D$ y a la recta $L$ en $E$ y que la bisectriz interior del √°ngulo $B$ corta al lado $AC$ en $F$ y a la recta $L$ en $G$. Demostrar que si $FG=DE$, entonces $AC=BC$.",2
+131,"Consideremos un paralelogramo $ABCD$. Una circunferencia $\Gamma$ que pasa por el punto $A$ corta a los lados $AB$ y $AD$ por segunda vez en los puntos $E$ y $F$, respectivamente, y a la diagonal $AC$ en el punto $G$. Las prolongaciones de $FG$ y $BC$ se cortan en $H$ y las prolongaciones de $EG$ y $CD$ se cortan en $I$. Demostrar que la recta $HI$ es paralela a $EF$.",2
+132,"  Probar que si una terna de n√∫meros positivos $(a,b,c)$ verifica el sistema de ecuaciones \[\left\{\begin{array}{l}a^2+a=b^2,\\b^2+b=c^2,\\c^2+c=a^2,\end{array}\right.\] entonces $(a-b)(b-c)(c-a)=1$. Supongamos que $A_1A_2\ldots A_9$ es un ene√°gono regular tal que \[A_1A_4=1,\qquad A_1A_2=a,\qquad A_1A_3=b,\qquad A_1A_5=c.\] Probar que la terna $(a,b,-c)$ cumple el sistema del apartado anterior.",2
+133,Sea $p$ el per√≠metro de un tri√°ngulo $ABC$ y $P$ un punto interior al tri√°ngulo. Demostrar que  \[\frac{p}{2}\leq AP+BP+CP\leq p.\],2
+134,"Sea $ABC$ un tri√°ngulo. Hallar todos los puntos $P$ interiores a un tri√°ngulo $ABC$ que cumplen las siguientes tres desigualdades: $$\measuredangle APB\leq 2\measuredangle ACB,\qquad\measuredangle BPC\leq 2\measuredangle BAC,\qquad \measuredangle APC\leq 2\measuredangle ABC.$$",2
+135,Determinar qu√© condici√≥n han de cumplir las longitudes de los lados de un tri√°ngulo no equil√°tero para que la recta que une el baricentro y el incentro sea paralela a uno de los lados.,2
+136,"En un tri√°ngulo $ABC$, sabemos que la altura que pasa por $A$ es mayor o igual que el lado $BC$ y que la altura que pasa por $B$ es mayor o igual que el lado $AC$. Encontrar los √°ngulos de dicho tri√°ngulo.",2
+137,"Un c√≠rculo est√° inscrito en un cuadril√°tero convexo $ABCD$ tal que $AB$ es paralelo a $CD$ y $BC=AD$. Si $E$ es el punto de intersecci√≥n de las diagonales y los c√≠rculos inscritos en los tri√°ngulos $ABE$, $BCE$, $CDE$ y $DAE$ tiene radios $r_1$, $r_2$, $r_3$ y $r_4$, respectivamente, demostrar que \[\frac{1}{r_1}+\frac{1}{r_3}=\frac{1}{r_2}+\frac{1}{r_4}.\]",2
+138,"Dado un tri√°ngulo $T$ de v√©rtices $A$, $B$ y $C$, construimos un hex√°gono $H$ de v√©rtices $A_1$, $A_2$, $B_1$, $B_2$, $C_1$ y $C_2$ mediante la prolongaci√≥n de sus lados seg√∫n las longitudes indicadas en la figura. Demostrar que el √°rea de $H$ es mayor o igual que $13$ veces el √°rea de $T$.",2
+139,"Demostrar que de entre todos los tri√°ngulos cuyos v√©rtices distan $3$, $5$ y $7$ de un punto dado $P$ del plano, el que tiene mayor per√≠metro tiene a $P$ como incentro.",2
+140,"Dado un tri√°ngulo acut√°ngulo $ABC$, sean $D$, $E$ y $F$ puntos de las rectas $BC$, $AC$ y $AB$, respectivamente. Si las rectas $AD$, $BE$ y $CF$ pasan todas por $O$, el circuncentro del tri√°ngulo $ABC$, demostrar que \[\frac{1}{AD}+\frac{1}{BE}+\frac{1}{CF}=\frac{2}{R},\] donde $R$ es el radio de la circunferencia circunscrita a $ABC$.",2
+141,"Dadas cinco circunferencias, supongamos que cuatro cualesquiera de ellas tienen un punto en com√∫n. Demostrar que las cinco tienen un punto en com√∫n.",2
+142,"¬øCu√°les son las posibles √°reas de un hex√°gono convexo con todos los √°ngulos iguales y cuyos lados miden $1$, $2$, $3$, $4$, $5$ y $6$ en alg√∫n orden?",2
+143,Las alturas del tri√°ngulo $ABC$ se cortan en el punto $H$. Se sabe que $AB = CH$. Determinar el valor del √°ngulo $\angle BCA$.,2
+144,"Hallar el m√°ximo valor de $n$ para que existan puntos distintos $P_1,P_2,\ldots,P_n$ en el plano y n√∫meros reales $r_1,r_2,\ldots,r_n$ tales que la distancia entre cualesquiera dos puntos diferentes $P_i$ y $P_j$ es $r_i+r_j$.",2
+145,"Consideremos un rect√°ngulo $ABCD$ y circunferencias centrados en los v√©rtices $A$, $B$, $C$ y $D$ de radios $a$, $b$, $c$ y $d$, respectivamente, tales que $a+c=b+d\lt AC$. Trazamos las dos tangentes exteriores a las circunferencias de centros $A$ y $C$ y tambi√©n las dos tangentes exteriores a las circunferencias de centros $B$ y $D$. Demostrar que puede inscribirse una circunferencia en el cuadril√°tero delimitado por estas cuatro rectas.",2
+146,En un cuadrado $ABCD$ se traza una circunferencia que pasa por el v√©rtice $A$ y por los puntos medios de los lados $BC$ y $CD$. Determinar si es mayor la longitud de la circunferencia o el per√≠metro del cuadrado.,2
+147,"Sea $P$ un punto interior del tri√°ngulo equil√°tero $ABC$ tal que $PA=5$, $PB=7$ y $PC=8$. Hallar la longitud de un lado del tri√°ngulo $ABC$.",2
+148,Diremos que un circunferencia es un separador de un conjunto de cinco puntos en el plano si pasa por tres de ellos y los otros dos est√°n uno en su c√≠rculo interior y otro en su exterior. Demostrar que todo conjunto de cinco puntos que no contiene tres puntos alineados ni cuatro puntos conc√≠clicos tiene exactamente cuatro separadores.,2
+149,"Se considera un tri√°ngulo cuyos lados son los lados de un pent√°gono, hex√°gono y dec√°gono regulares inscritos en circunferencias de radio unidad. Demostrar que dicho tri√°ngulo es rect√°ngulo.",2
+150,Sea $ABCDEFG$ un hept√°gono regular de lado 1. Demostrar que se cumple la relaci√≥n \[\frac{1}{AC}+\frac{1}{AD}=1.\],2
+151,Consideremos un pol√≠gono convexo de √°rea $A$ y per√≠metro $P$. Demostrar que existe un c√≠rculo de radio $A/P$ contenido en el interior del pol√≠gono.,2
+152,Se consideran $n$ puntos en el plano de forma que no haya dos pares de puntos equidistantes. Por cada punto se traza el segmento que lo une al m√°s pr√≥ximo. Demostrar que ning√∫n punto est√° unido a m√°s de cinco puntos.,2
+153,"Se sabe que un dodecaedro regular es un poliedro regular con 12 caras pentagonales iguales y concurriendo 3 aristas en cada v√©rtice. Se pide calcular, razonadamente,  el n√∫mero de v√©rtices; el n√∫mero de aristas; el n√∫mero de diagonales de todas las caras; el n√∫mero de segmentos rectil√≠neos determinados por cada dos v√©rtices; el n√∫mero de diagonales del dodecaedro.",2
+154,"¬øExiste un cubo en el espacio tal que las distancias de sus ocho v√©rtices a un plano dado son los n√∫meros $0$, $1$, $2$, $3$, $4$, $5$, $6$, $7$ y $8$?",2
+155,"Sea $ABC$ un tri√°ngulo acut√°ngulo con radio inscrito $r$ y radio circunscrito $1$. Si $\rho$ es el radio inscrito del tri√°ngulo √≥rtico de $ABC$, demostrar que  \[\rho\leq 1-\frac{1}{3}(1+r)^2.\]",2
+156,"Encontrar el menor n√∫mero $A$ que cumple el siguiente enunciado:  Para cualquier par de cuadrados tales que la suma de sus √°reas es 1, se pueden colocar dentro de un rect√°ngulo de √°rea $A$ sin puntos interiores comunes y con sus lados paralelos a los lados del rect√°ngulo.",2
+157,"En un tri√°ngulo $ABC$, sea $F$ el punto medio del lado $BC$. Se construyen tri√°ngulos rect√°ngulos is√≥sceles $ABD$ y $ACE$ exteriores a $ABC$ y con √°ngulos rectos en $D$ y $E$, respectivamente. Demostrar que $DEF$ es tambi√©n un tri√°ngulo rect√°ngulo is√≥sceles.",2
+158,Consideremos un pent√°gono en el que cada una de sus diagonales es paralela a uno de sus lados. Demostrar que la raz√≥n entre la longitud de una diagonal y la longitud del correspondiente lado paralelo es la misma para cada diagonal.,2
+159,"Dado un pent√°gono regular, construir un tri√°ngulo que tenga la misma √°rea.",2
+160,"Dado un rect√°ngulo $ABCD$ y un punto $P$ interior al rect√°ngulo, demostrar que  \[PA^2+PC^2=PB^2+PD^2{.}\]",2
+161,"Dado un rect√°ngulo cualquiera en el plano, llamemos $A$ a su √°rea y $p$ a su per√≠metro. Demostrar que  $$p^2\geq 16A.$$ ¬øPara qu√© rect√°ngulos se tiene una igualdad?",2
+162,"El baricentro del tri√°ngulo $ABC$ es $G$ y denotamos por $g_a$, $g_b$ y $g_c$ a las distancias desde $G$ a los lados $a$, $b$ y $c$, respectivamente. Sea $r$ el radio de la circunferencia inscrita a $ABC$.   Probar que $g_a\geq\frac{2r}{3}$,  $g_b\geq\frac{2r}{3}$ y  $g_c\geq\frac{2r}{3}$.  Probar que $\frac{1}{r}(g_a+g_b+g_c)\geq 3$.",2
+163,Sea $ABCD$ un cuadril√°tero inscrito en una circunferencia de radio 1 de modo que $AB$ es un di√°metro y el cuadril√°tero admite circunferencia inscrita. Probar que \[CD\leq 2\sqrt{5}-4.\],2
+164,"En una circunferencia de centro $O$ y radio $1$, tomemos una cuerda de longitud $a$ y la circunferencia $C$ que tiene a dicha cuerda por di√°metro. Si $P$ es el punto de $C$ m√°s alejado de $O$, ¬øcu√°l es el valor m√°ximo de la distancia entre $O$ y $P$ cuando variamos $a$?",2
+165,"Sea $P$ un punto interior al tri√°ngulo $ABC$ tal que $AP=BP$. Sean $Q$ y $R$ puntos exteriores al tri√°ngulo tales que los tri√°ngulos $BQC$ y $CRA$ son semejantes a $ABP$ cumpliendo $BQ=CQ$ y $CR=RA$. Probar que los puntos $P$, $Q$, $R$ y $C$ est√°n alineados o bien son los v√©rtices de un paralelogramo.",2
+166,Las longitudes de los lados de un tri√°ngulo est√°n en progresi√≥n aritm√©tica y las longitudes de sus alturas tambi√©n est√°n en progresi√≥n aritm√©tica. Demostrar que el tri√°ngulo es equil√°tero.,2
+167,"Sea $ABC$ un tri√°ngulo cuyos lados son $a$, $b$ y $c$. Se divide cada lado de $ABC$ en $n$ segmentos iguales. Sea $S$ la suma de los cuadrados de las distancias de cada v√©rtice a cada uno de los puntos de divisi√≥n del lado opuesto, distintos de los v√©rtices. Demostrar que  \[\frac{S}{a^2+b^2+c^2}\] es un n√∫mero racional.",2
+168,"En un tri√°ngulo $ABC$, supongamos que las rectas tangentes a su circunferencia circunscrita en $B$ y en $C$ se cortan en un punto $P$. Demostrar que la recta $AP$ es la sim√©trica de la mediana del lado $BC$ respecto de la bisectriz del √°ngulo $A$.",2
+169,"Sea $ABC$ un tri√°ngulo acut√°ngulo, $O$ su circuncentro y $\Gamma$ la circunferencia que pasa por $A$, $B$ y $O$. Supongamos que las rectas $CA$ y $CB$ cortan a $\Gamma$ otra vez en $P$ y $Q$, respectivamente. Probar que las rectas $CO$ y $PQ$ son perpendiculares.",2
+170,"Un tri√°ngulo acut√°ngulo $ABC$ est√° inscrito en una circunferencia de centro $O$. Las alturas del tri√°ngulo son $AD$, $BE$ y $CF$. La recta $EF$ corta a la circunferencia circunscrita en $P$ y $Q$.  Probar que $OA$ es perpendicular a $PQ$. Si $M$ es el punto medio de $BC$, probar que $AP^2=2\cdot AD\cdot OM$.",2
+171,"En un tri√°ngulo rect√°ngulo trazamos la altura que parte del √°ngulo recto y el tri√°ngulo queda dividido en dos tri√°ngulos, uno de los cuales tiene el triple de √°rea que el otro. Si la hipotenusa del tri√°ngulo original mide 1, ¬øcu√°nto miden sus catetos?",2
+172,"Las longitudes de los lados de un tri√°ngulo est√°n en progresi√≥n geom√©trica de raz√≥n \(r\).   ¬øPara qu√© valores de \(r\) el tri√°ngulo es acut√°ngulo, rect√°ngulo u obtus√°ngulo? ¬øPara qu√© valores de \(r\) esl tri√°ngulo es equil√°tero, is√≥sceles o escaleno?",2
+173,"Demostrar que si un tri√°ngulo tiene dos bisectrices iguales, entonces es is√≥sceles.",2
+174,"Demostrar que si un tri√°ngulo tiene dos medianas iguales, entonces es is√≥sceles.",2
+175,"Demostrar que si un tri√°ngulo tiene dos alturas iguales, entonces es is√≥sceles.",2
+176,Probar que no existe ning√∫n tri√°ngulo equil√°tero en el plano cuyos v√©rtices sean puntos de coordenadas enteras. ¬øOcurre lo mismo si trabajamos en el espacio tridimensional?,2
+177,"Sea \(ABCD\) un paralelogramo y supongamos que \(AC\) es su diagonal mayor. Desde \(C\) se trazan perpendiculares a las rectas \(AB\) y \(AD\), con pies en \(E\) y \(F\) respectivamente. Demostrar que: \[AB\cdot AE+AD\cdot AF=AC^2.\]",2
+178,"Demostrar que, al trazar las medianas de un tri√°ngulo cualquiera, √©ste queda dividido en seis triangulos que tienen la misma √°rea.",2
+179,"Determinar qu√© condici√≥n han de cumplir las longitudes de los lados de un tri√°ngulo para que la recta que une el baricentro y el incentro sea paralela a uno de los lados, suponiendo que el tri√°ngulo no es equil√°tero (pues en este caso coinciden incentro y baricentro y dicha recta no est√° bien definida).",2
+180,"Sea \(H\) el ortocentro de un tri√°ngulo, \(P\) el pie de una altura y \(Q\) el otro punto de corte de la recta \(AP\) (distinto de \(A\)) con la circunferencia circunscrita. Demostrar que \(HP=PQ\).",2
+181,"En el tri√°ngulo \(ABC\) sea \(D\) el punto de corte de la bisectriz trazada desde \(C\) al lado \(AB\). Sabiendo que el centro de la circunferencia inscrita en el tri√°ngulo \(BCD\) coincide con el centro de la circunferencia circunscrita al tri√°ngulo \(ABC\), ¬øcu√°les son los √°ngulos de \(ABC\)?",2
+182,"Sea $ABC$ un tri√°ngulo. Consideremos los puntos $D$ y $E$ sobre el lado $BC$ de forma que las rectas $AD$ y $AE$ son paralelas a las tangentes a la circunferencia circunscrita al tri√°ngulo que pasan por $C$ y $B$, respectivamente. Demostrar que \[\frac{BE}{CD}=\frac{AB^2}{AC^2}{.}\]",2
+183,"Sea $ABC$ un tri√°ngulo equil√°tero y sean $M$ y $N$ puntos de $AB$ y $AC$, respectivamente, tales que el segmento $MN$ es tangente a la circunferencia inscrita de $ABC$. Demostrar que \[\frac{AM}{MB}+\frac{AN}{NC}=1{.}\]",2
+184,"Sea $ABC$ un tri√°ngulo y $M$ el punto medio del lado $BC$. Si $r_1$ y $r_2$ son los inradios de los tri√°ngulos $ABM$ y $ACM$ respectivamente, demostrar que $r_1<2r_2$.",2
+185,Calcular la raz√≥n entre la diagonal y el lado de un pent√°gono regular.,2
+186,"Sea $ABCDEF$ un hex√°gono convexo tal que $AB=BC=CD$, $DE=EF=AF$ y $\angle BCD=\angle EFA=\frac{\pi}{3}$. Sean $P$ y $Q$ dos puntos interiores al hex√°gono de forma que los √°ngulos $\angle APB$ y $\angle DQE$ valen ambos $\frac{2\pi}{3}$. Demostrar que \[AP+PB+PQ+DQ+QE\geq CF.\]",2
+187,"Sea $ABCD$ un paralelogramo y supongamos que $AC$ es su diagonal mayor. Desde $C$ se trazan perpendiculares a las rectas $AB$ y $AD$, con pies en $E$ y $F$ respectivamente. Demostrar que \[AB\cdot AE+AD\cdot AF=AC^2{.}\]",2
+188,"Supongamos que el polinomio $p(x)=ax^2+bx+c$ tiene sus dos ra√≠ces reales y $a\gt 0$. Demostrar que ambas ra√≠ces tienen valor absoluto menor o igual que $1$ si, y s√≥lo si, $a+c\geq|b|$ y $a-c\geq 0$.",1
+189,Encontrar todos los polinomios $P(x)$ y $Q(x)$ con coeficientes reales que cumplen que \[P(Q(x))=(x-1)(x-2)(x-3)(x-4).\],1
+190,Hallar el valor del n√∫mero real $m$ para el que el siguiente polinomio tiene dos ra√≠ces reales que son una inversa de la otra: \[x^4-\frac{3\sqrt{2}}{2}x^3+3x^2+mx+2.\],1
+191,Sea $P(x)$ un polinomio con coeficientes enteros tal que la ecuaci√≥n $P(x)=7$ tiene al menos cuatro soluciones enteras. Demostrar que la ecuaci√≥n $P(x)=14$ no tiene soluciones enteras.,1
+192,"Supongamos que $\alpha$ y $\beta$ son n√∫meros reales que cumplen las ecuaciones \begin{eqnarray*} \alpha^3-3\alpha^2+5\alpha-17&=&0,\\ \beta^3-3\beta^2+5\beta+11&=&0. \end{eqnarray*} Calcular $\alpha+\beta$.",1
+193,Sea $P(x)$ un polinomio con coeficientes enteros que es igual a $1979$ para cuatro valores enteros de $x$ distintos. Demostrar que $P(x)$ no es igual a $2\cdot 1979$ para ning√∫n valor entero de $x$.,1
+194,"Sean $\alpha$, $\beta$ y $\gamma$ las ra√≠ces del polinomio \[p(x)=x^3-3x+1.\] Hallar otro polinomio de grado $3$ cuyas ra√≠ces sean $\frac{1-\alpha}{1+\alpha}$,  $\frac{1-\beta}{1+\beta}$ y $\frac{1-\gamma}{1+\gamma}$.",1
+195,Calcular $a$ y $b$ sabiendo que el polinomio \[p(x)=2x^3+ax^2+bx-16\] tiene una ra√≠z doble y una ra√≠z simple y que una de ellas es igual a 2.,1
+196,Determinar todos los pares de polinomios $p(x)$ y $q(x)$ con coeficientes reales tales que \[x^2q(x)=p(q(x)){.}\],1
+197,"Supongamos que $P(x)$, $Q(x)$, $R(x)$ y $S(x)$ son polinomios tales que  \[P(x^5)+xQ(x^5)+x^2R(x^5)=(1+x+x^2+x^3+x^4)S(x).\] Demostrar que $P(x)$ es divisible entre $x-1$.",1
+198,"Sean los polinomios \begin{eqnarray}  P(x)&=&x^4+ax^3+bx^2+cx+1,\\  Q(x)&=&x^4+cx^3+bx^2+ax+1. \end{eqnarray} Hallar las condiciones que tienen que cumplir los par√°metros reales $a$, $b$ y $c$ ($a$ distinto de $c$) para que $P(x)$ y $Q(x)$ tengan dos ra√≠ces comunes y resuelve en ese caso las ecuaciones $P(x)=0$ y $Q(x)=0$.",1
+199,"Dados dos puntos en el plano de coordenadas enteras, supongamos que por ellos pasa la gr√°fica de una funci√≥n polin√≥mica con coeficientes enteros. Probar que si la distancia entre los dos puntos es un n√∫mero entero, entonces el segmento que los une es paralelo al eje de abscisas.",1
+200,Encontrar todos los polinomios $P(x)$ con coeficientes reales que cumplen que \[P(2P(x))=2P(P(x))+2(P(x))^2\] para cualquier n√∫mero real $x$.,1
+201,"Sean $a,b,c$ reales no nulos con $a\neq b$ y supongamos que los polinomios $x^2+ax+bc$ y $x^2+bx+ac$ tienen una ra√≠z com√∫n. Demostrar que las otras dos ra√≠ces son ra√≠ces del polinomio $x^2+cx+ab$.",1
+202,"Probar que la gr√°fica del polinomio $P(x)$ es sim√©trica respecto del punto $A(a, b)$ si, y s√≥lo si, existe un polinomio $Q(x)$ tal que \[P(x)=b+(x-a)Q\bigr((x-a)^2\bigl).\]",1
+203,Sea $x$ un n√∫mero real tal que $x^3+2x^2+10x=20$. Demostrar que $x$ y $x^2$ son irracionales.,1
+204,"Hallar las ra√≠ces $r_1,r_2,r_3,r_4$ de la ecuaci√≥n $4x^4-ax^3+bx^2-cx+5=0$ sabiendo que son todas reales positivas y que \[\frac{r_1}{2}+\frac{r_2}{4}+\frac{r_3}{5}+\frac{r_4}{8}=1.\]",1
+205,"Sabemos que un polinomio $p(x)=x^3+ax^2+bx+c$ tiene tres raices reales (posiblemente algunas de ellas iguales). Si $r$ es cualquiera de esas ra√≠ces, demostrar que \[r^2\leq a^2-2b.\]",1
+206,"Hallar todos los polinomios con coeficientes reales \(P(x)\) tales que \[P(x^2-y^2)=P(x-y)P(x+y)\] para cualesquiera \(x,y\in\mathbb{R}\).",1
+207,"Demostrar que no existe ning√∫n polinomio $P(x)$ con coeficientes enteros y tres enteros distintos $a$, $b$ y $c$ tales que $P(a)=b$, $P(b)=c$ y $P(c)=a$.",1
+208,"Sea \(P(x)\) un polinomio con coeficientes enteros satisfaciendo \[P(21)=17,\hspace{1cm}P(32)=-247,\hspace{1cm}P(37)=33.\] Supongamos que \(n\in\mathbb{Z}\) es un n√∫mero tal que \(P(n)=n+51\). Demostrar que \(n=26\).",1
+209,"La ecuaci√≥n \(x^3+bx^2+cx+d=0\), donde \(d\neq 0\), tiene tres ra√≠ces positivas distintas en progresi√≥n geom√©trica cuyos inversos est√°n en progresi√≥n aritm√©tica. Hallar \(c\) y \(d\) en funci√≥n de \(b\).",1
+210,"Dado un n√∫mero real \(c\in\mathbb{R}\), se sabe que las ra√≠ces del polinomio \[P(x)=x^3+2cx^2-cx+10\] son reales y est√°n en progresi√≥n aritm√©tica. Hallar dichas ra√≠ces.",1
+211,"Demostrar que si \(a,c,d\) son n√∫meros racionales con \(a\neq 0\) y una de las ra√≠ces del polinomio \(ax^3+cx+d\) es igual al producto de las otras dos, entonces esa ra√≠z es racional.",1
+212,Consideremos el siguiente producto de polinomios \[(1+x+x^2+\ldots+x^{2007})(1-x+x^2-\ldots+x^{2006}-x^{2007})\] Demostrar que el resultado no tiene t√©rminos de exponente impar.,1
+213,Hallar \(a\in\mathbb R\) de forma que la suma de los cuadrados de las ra√≠ces del polinomio \(p(x)=x^3-2ax^2+(a+1)x-a^3\) sea m√≠nima y hallar dicha suma.,1
+214,Encontrar todos los polinomios \(P(x)\) con coeficientes reales que cumplan que \(P(x^2)=P(x)^2\) para cualquier \(x\in\mathbb{R}\).,1
+215,Sabemos que una de las ra√≠ces del polinomio de coeficientes reales \(p(x)=x^3+ax^2+bx+c\) es la suma de las otras dos. Demostrar que \(a^3-4ab+8c=0\).,1
+216,"Hallar los valores de $a,b\in\mathbb{R}$ para los que $p(x)=x^5+ax^3+b$ tiene una ra√≠z real m√∫ltiple.",1
+217,"Calcular \(a,b\in\mathbb{R}\) para que \(ax^4+bx^3+1\) sea divisible por \(x^2+2x+1\).",1
+218,Supongamos que en el polinomio \(p(x)=x^3+bx^2+cx+d\) tiene sus tres ra√≠ces reales y una de ellas es la media geom√©trica de las otras dos. Probar que \(b^3d=c^3\).,1
+219,Encontrar todos los polinomios $p(x)$ con coeficientes reales que verifican la igualdad \[p(p(x))=p(x)^{2007}{.}\],1
+220,"Sean $\alpha$ y $\beta$ las soluciones de la ecuaci√≥n $x^2-6x+1=0$. Demostrar que para cada natural $n$, el n√∫mero $\alpha^n+\beta^n$ es entero y no es m√∫ltiplo de $5$.",1
+221,"Sean $a,b,c,d\in\mathbb Z$ tales que $ad$ es impar y $bc$ es par. Demostrar que el polinomio $$p(x)=ax^3+bx^2+cx+d$$ tiene almenos una de sus ra√≠ces irracional.",1
+222,Hallar todos los polinomios $P(x)$ con coeficientes reales tales que  \[xP(x-1)=(x+1)P(x)\] para cualquier $x\in\mathbb{R}$.,1
+223,"Dados cuatro n√∫meros reales positivos $a, b, c, d$ tales que  $abcd=1$, probar que \[a^2+b^2+c^2+d^2+ab+ac+ad+bc+bd+cd\geq 10.\]",1
+224,"Demostrar que, para cualquier n√∫mero natural $n\in\mathbb{N}$, se cumple que \[\left(1+\frac{1}{n}\right)^{n}\lt\left(1+\frac{1}{n+1}\right)^{n+1}\lt 3.\]",1
+225,"Si $a$ y $b$ son n√∫meros reales distintos, resolver el sistema \[\left\{\begin{array}{l} x+y=1,\\ (ax+by)^2\leq a^2x+b^2y.\end{array}\right.\] Resolver tambi√©n el sistema \[\left\{\begin{array}{l} x+y=1,\\ (ax+by)^4\leq a^4x+b^4y.\end{array}\right.\]",1
+226,Demostrar que $$\binom{2n}{n}\geq\frac{4^n}{n+1}$$ para todo n√∫mero natural $n$. ¬øPara qu√© valores de $n$ se tiene una igualdad?,1
+227,"Sea $p(x)=x^n+nx^{n-1}+a_{n-2}x^{n-2}+\ldots+a_1x+a_0$ un polinomio de grado $n$ que tiene todas sus ra√≠ces reales $r_1,r_2,\ldots,r_n$. Encontrar dichas ra√≠ces si sabemos que $r_1^{16}+r_2^{16}+\ldots+r_n^{16}=n$.",1
+228,"Demostrar que si $x,y,z\in\mathbb{R}$ son n√∫meros reales tales que $x+y+z=4$, entonces \[\frac{xyz}{\sqrt{(1+x^2)(1+y^2)(1+z^2)}}\leq\frac{64}{125}.\]",1
+229,"Demostrar que si $-1\lt x\lt 1$ y $-1\lt y\lt 1$, entonces \[\left|\frac{x-y}{1-xy}\right|\leq\frac{|x|+|y|}{1+|xy|}.\]",1
+230,"Sean $x,y,z$ tres n√∫meros reales tales que $0\lt x\lt y\lt z\lt\frac{\pi}{2}$. Demostrar la siguiente desigualdad: \[\frac{\pi}{2}+2\sin(x)\cos(y)+2\sin(y)\cos(z)\gt \sin(2x)+\sin(2y)+\sin(2z).\]",1
+231,"Si el n√∫mero $10$ se expresa como suma de n√∫meros reales positivos, hallar el mayor valor posible del producto de dichos n√∫meros.",1
+232,"Dados n√∫meros reales $x_1,x_2,\ldots,x_n\geq 0$ tales que $x_1+x_2+\ldots+x_n=1$, demostrar que \[\left(\sum_{k=1}^n\sqrt{x_k}\right)\left(\sum_{k=1}^n\frac{1}{\sqrt{x_k+1}}\right)\leq\frac{n^2}{\sqrt{n+1}}.\] Analizar en qu√© casos se obtiene una igualdad.",1
+233,"Demostrar que, para cualesquiera reales positivos $a$, $b$, $c$ y $d$, se cumple que \[\frac{a}{b+2c+3d}+\frac{b}{c+2d+3a}+\frac{c}{d+2a+3b}+\frac{d}{a+2b+3c}\geq\frac{2}{3}.\]",1
+234,"Dados $a,b,c\in\mathbb{R}$ n√∫meros positivos tales que $abc=1$, demostrar que \[\frac{1}{a^3(b+c)}+\frac{1}{b^3(c+a)}+\frac{1}{c^3(a+b)}\geq\frac{3}{2}.\]",1
+235,"Sean $\alpha$, $\beta$ y $\gamma$ los √°ngulos de un tri√°ngulo. Demostrar que \[\sin(\alpha)+\sin(\beta)+\sin(\gamma)\leq\frac{3\sqrt{3}}{2}.\] Analizar en qu√© casos se obtiene una igualdad.",1
+236,"Sean $x_1,\ldots,x_n\geq 1$ n√∫meros reales. Demostrar que \[\frac{1}{1+x_1}+\frac{1}{1+x_2}+\ldots+\frac{1}{1+x_n}\geq\frac{n}{1+\sqrt[n]{x_1x_2\cdots x_n}}.\]",1
+237,"Sean $n\geq 2$ y $x_1,x_2,\ldots,x_n$ n√∫meros reales positivos. Probar que \[\frac{x_1}{x_2+x_3}+\frac{x_2}{x_3+x_4}+\ldots+\frac{x_{n-1}}{x_n+x_1}+\frac{x_n}{x_1+x_2}\gt\frac{n}{4}.\]",1
+238,"Dados n√∫meros reales $a,b,c\gt 0$, demostrar que \[\left(1+\frac{a}{b}\right)\left(1+\frac{b}{c}\right)\left(1+\frac{c}{a}\right)\geq 2\left(1+\frac{a+b+c}{\sqrt[3]{abc}}\right).\]",1
+239,"Demostrar que, para cualquier entero positivo $n\in\mathbb{N}$, se cumple la desigualdad \[2^{1/2}4^{1/4}8^{1/8}\cdots (2^n)^{1/2^n}<4.\]",1
+240,"Se dan cinco n√∫meros reales con la propiedad siguiente: independientemente de los tres que se elijan, la diferencia entre la suma de los elegidos y la suma de los restantes siempre es positiva. Probar que el producto de las diez diferencias no es mayor que el producto de los cuadrados de esos cinco n√∫meros.",1
+241,"Dados n√∫meros reales $x,y,z>0$ tales que $xyz=1$, demostrar que \[\frac{x^3}{(1+y)(1+z)}+\frac{y^3}{(1+z)(1+x)}+\frac{z^3}{(1+x)(1+y)}\geq\frac{3}{4}.\]",1
+242,"Demostrar que si $x$, $y$ y $z$ son n√∫meros reales positivos tales que $xyz=1$, entonces \[(1+x)(1+y)(1+z)\geq 8.\]",1
+243,"Dados tres n√∫meros reales positivos $a$, $b$ y $c$ tales que $a+b+c=1$, demostrar que \[\sqrt{a+bc}+\sqrt{b+ac}+\sqrt{c+ab}\leq 2{.}\]",1
+244,"Sean $a$, $b$ y $c$ n√∫meros reales positivos. Demostrar que \[a^ab^bc^c\geq(abc)^{(a+b+c)/3}{.}\]",1
+245,"Consideremos cuatro n√∫meros reales $x,y,p,q$ tales que $p,q\gt 0$ y $p+q\lt 1$. Demostrar que \[(px+qy)^2\leq px^2+qy^2{.}\]",1
+246,"Sean $x,y,z$ reales positivos tales que $x+y+z=3$. Hallar el valor m√°ximo alcanzado por $$\sqrt{x}+\sqrt{2y+2}+\sqrt{3z+6}$$ ¬øPara qu√© valores de $x,y,z$ se alcanza dicho m√°ximo?",1
+247,Supongamos que $x$ e $y$ son dos n√∫meros reales positivos tales que $x+2y=5$. Hallar el valor m√°ximo que puede tomar la expresi√≥n $x^2y^3$.,1
+248,"Demostrar que para cualesquiera n√∫meros positivos $a,b,c,d\in\mathbb{R}$ se cumple que \[\frac{1}{\frac{1}{a}+\frac{1}{b}}+\frac{1}{\frac{1}{c}+\frac{1}{d}}\leq\frac{1}{\frac{1}{a+c}+\frac{1}{b+d}}{.}\]",1
+249,Consideremos dos n√∫meros reales $0\leq x\leq 1$ y $0\leq y\leq 1$. Demostrar que \[\frac{x}{1+y}+\frac{y}{1+x}\leq 1.\],1
+250,"Sean $a,b,c,d$ n√∫meros reales tales que $b,d\gt 0$ y $\frac{a}{b}\leq\frac{c}{d}$. Demostrar que \[\frac{a}{b}\leq\frac{a+c}{b+d}\leq\frac{c}{d}{.}\]",1
+251,"Sean $a,b,c,x,y,z\in\mathbb{R}$ tales que $x\geq y\geq z\gt 0$ y $a\geq b\geq c\gt 0$. Demostrar que \[\frac{a^2x^2}{(by+cz)(bz+cy)}+\frac{b^2y^2}{(cz+by)(cy+bz)}+\frac{c^2z^2}{(ax+by)(ay+bx)}\geq\frac{3}{4}{.}\] Analizar en qu√© casos se alcanza la igualdad.",1
+252,"Sean $a$, $b$ y $c$ n√∫meros reales tales que $abc=1$. Demostrar que \[a^2(1+b^2)^2+b^2(1+c^2)^2+c^2(1+a^2)^2\geq 12.\] Analizar en qu√© casos se alcanza la igualdad.",1
+253,"Dados tres n√∫meros reales positivos $a,b,c\gt 0$, demostrar que $$a^{\frac{b+c}{2}}b^{\frac{a+c}{2}}c^{\frac{a+b}{2}}\leq a^ab^bc^c{.}$$",1
+254,"Dados dos n√∫meros reales $a,b\gt-1$, demostrar que $$\frac{a}{1+a}+\frac{b}{1+b}\leq \frac{2(a+b)}{2+a+b}{.}$$ ¬øEn qu√© casos se alcanza la igualdad?",1
+255,"Dados dos n√∫meros reales $a,b\geq 0$, demostrar que $$\frac{a}{1+a}+\frac{b}{1+b}\geq\frac{a+b}{1+a+b}{.}$$ ¬øEn qu√© casos se alcanza la igualdad?",1
+256,"Demostrar que $$0\leq xy+yz+xz-2xyz\leq\frac{7}{27}{,}$$ para cualesquiera $x,y,z\geq 0$ tales que $x+y+z=1$.",1
+257,"Dado $n\in\mathbb{N}$, demostrar que \[1+\frac{1}{2}+\frac{1}{3}+\ldots+\frac{1}{2^n}\geq 1+ \frac{n}{2}.\]",1
+258,Sea $a\neq 1$ un n√∫mero real positivo y $n\in\mathbb{N}$ mayor que $1$. Demostrar que \[n^2\lt\frac{a^n+a^{-n}-2}{a+a^{-1}-2}.\],1
+259,"Sean $r,s,u,v$ n√∫meros reales cualesquiera. Demostrar que \[\mathrm{min}\{r-s^2,s-u^2,u-v^2,v-r^2\}\leq\frac{1}{4}.\]",1
+260,"Dado un n√∫mero natural $n$, determinar qu√© n√∫mero es mayor: $n!$ √≥ $\sqrt{n^n}$.",1
+261,Hallar todas las sucesiones $0\lt a_1\leq a_2\leq\ldots\leq a_n$ de numeros reales verificando \[\left\{\begin{array}{rcl} a_1+a_2+\ldots+a_n&=&96\\a_1^2+a_2^2+\ldots+a_n^2&=&144\\a_1^3+a_2^3+\ldots+a_n^3&=&216 \end{array}\right.\],1
+262,"Dado $n\geq 1$, hallar todas las $n$-uplas de n√∫meros reales $x_1,x_2,\ldots,x_n\geq 1$ tales que \[\sqrt{x_1}+\sqrt[3]{x_2}+\ldots+\sqrt[n+1]{x_n}=\sqrt{n}\sqrt{x_1+x_2+\ldots+x_n}.\]",1
+263,"Dados tres n√∫meros reales positivos $x,y,z\geq 0$ tales que $x+y+z=1$, demostrar que  \[\left(1+\frac{1}{x}\right)\left(1+\frac{1}{y}\right)\left(1+\frac{1}{z}\right)\geq 64.\] Analizar para qu√© valores de $x,y,z$ se obtiene la igualdad.",1
+264,"Supongamos que $a,b,c,d\in\mathbb{R}$ son n√∫meros positivos que satisfacen la condici√≥n $ab+bc+cd+da=1$. Demostrar que \[\frac{a^3}{b+c+d}+\frac{b^3}{a+c+d}+\frac{c^3}{a+b+d}+\frac{d^3}{a+b+c}\geq\frac{1}{3}\] y analizar en qu√© casos se alcanza la igualdad.",1
+265,Demostrar la siguiente desigualdad para cualquier n√∫mero natural \(n\) \[\frac{1}{2\sqrt{n}}\lt\frac{1}{2}\cdot\frac{3}{4}\cdot\frac{5}{6}\cdots\frac{2n-1}{2n}\lt\frac{1}{\sqrt{2n+1}}\],1
+266,Sean $p$ y $q$ dos n√∫meros reales positivos tales que $p+q=1$. Probar que \[\left(p+\frac{1}{p}\right)^2+\left(q+\frac{1}{q}\right)^2\geq\frac{25}{2}{.}\] ¬øCu√°ndo se obtiene la igualdad?,1
+267,Sea $P(x)$ un polinomio con coeficientes reales no negativos y supongamos que $P(4)=2$ y $P(16)=8$. Demostrar que $P(8)\leq 4$ y determinar para qu√© polinomios se da la igualdad en la desigualdad anterior.,1
+268,Demostrar que el conjunto de n√∫meros reales $x$ que satisfacen la desigualdad \[\sum_{k=1}^{70}\frac{k}{x-k}\geq\frac{4}{5}\] es una uni√≥n de intervalos disjuntos cuyas longitudes suman $1988$.,1
+269,"Sean $a,b,c$ n√∫meros reales tales que $a^2+b^2+c^2=1$. Demostrar que \[\frac{-1}{2}\leq ab+bc+ac\leq 1\] ¬øPara qu√© valores de $a,b,c$ se dan las igualdades en estas desigualdades?",1
+270,Determinar el valor de la siguiente suma: $$\frac{5}{5+25^{1/2009}}+\frac{5}{5+25^{2/2009}}+\ldots+\frac{5}{5+25^{2008/2009}}.$$,1
+271,"Encontrar todos los n√∫meros reales $x$ para los que la progresi√≥n aritm√©tica $$\{x,x+1,x+2,x+3,x+4,\ldots\}$$ tiene tres t√©rminos en progresi√≥n geom√©trica.",1
+272,"Sean $(a_n)$ y $(b_n)$ dos sucesiones de n√∫meros enteros que cumplen las siguientes condiciones:  $a_0=0$ y $b_0=8$, $a_{n+2}=2a_{n+1}-a_n+2$ y $b_{n+2}=2b_{n+1}-b_n$, $a_n^2+b_n^2$ es un cuadrado perfecto para todo $n$.  Hallar dos valores posibles del par $(a_{1992},b_{1992})$.",1
+273,Demostrar que una progresi√≥n aritm√©tica infinita de n√∫meros naturales que contiene un cuadrado contiene realmente infinitos cuadrados.,1
+274,"Alrededor de un c√≠rculo vamos colocando n√∫meros de la siguiente manera. En el primer paso, escribimos un 1 en dos puntos diametralmente opuestos; en los pasos siguientes, colocamos entre cada dos n√∫meros del paso anterior su suma. ¬øCu√°l es la suma de todos los n√∫meros en el paso $n$-√©simo?",1
+275,"Sean $a_0,a_1,\ldots,a_n\in\mathbb{R}$ n√∫meros reales tales que $a_0 = a_n = 0$ y $a_{k-1}-2a_k+a_{k+1}\geq 0$ para $k=0,1,\ldots, n-1$. Demostrar que todos los n√∫meros son negativos o cero.",1
+276,Demostrar que la siguiente suma  \[\sqrt[3]{\frac{a+1}{2}+\frac{a+3}{6}\sqrt{\frac{4a+3}{3}}}+\sqrt[3]{\frac{a+1}{2}-\frac{a+3}{6}\sqrt{\frac{4a+3}{3}}}\] no depende del valor de $a\geq\frac{-3}{4}$ y calcular su valor.,1
+277,"Dado un n√∫mero natural $n\in\mathbb{N}$, demostrar que $1989^n$ se puede escribir como suma de dos cuadrados de enteros positivos como m√≠nimo de dos formas diferentes.",1
+278,"Definimos una distancia entre dos n√∫meros reales $x$ e $y$ como \[d(x,y)=\sqrt{([x]-[y])^2+(\{x\}-\{y\})^2},\] donde $[x]$ y $\{x\}$ representan la parte entera y la parte decimal del n√∫mero $x$. Expresar como uni√≥n de intervalos el conjunto de los n√∫meros reales que distan de $\frac{3}{2}$ menos de $\frac{202}{100}$.",1
+279,Demostrar que el n√∫mero  $$(1+\sqrt{5})^n+(1-\sqrt{5})^n$$ es un entero divisible por $2^n$ para todo n√∫mero natural $n$.,1
+280,"Si $x\in\mathbb{R}$ es distinto de $1$ y $-1$ y $n\in\mathbb{N}$, demostrar que $$\frac{1}{x+1}+\frac{2}{x^2+1}+\frac{4}{x^4+1}+\ldots+\frac{2^n}{x^{2^n}+1}=\frac{1}{x-1}-\frac{2^{n+1}}{x^{2^{n+1}}-1}.$$",1
+281,"Para cada n√∫mero natural $n\in\mathbb{N}$, definimos $a_n$ como el n√∫mero real con parte entera $0$ y parte decimal las potencias $n$-√©simas de los naturales. Por ejemplo, \begin{align*} a_1&=0.1234567891011121314151617...\\ a_2&=0.149162536496481100121144...\\ a_3&=0.1827641252163435127291000... \end{align*} ¬øEs $a_n$ un n√∫mero racional para alg√∫n valor de $n$?",1
+282,"Sea $n$ un n√∫mero natural. Demostrar que la suma de todas las fracciones $\frac{1}{pq}$, donde $p$ y $q$ son primos relativos tales que $1\leq p\lt q\leq n$ y $p+q\gt n$, es igual a $\frac{1}{2}$.",1
+283,"Si $x$ e $y$ son n√∫meros reales distintos y distintos de $1$ y adem√°s \[\frac{yz-x^2}{1-x}=\frac{xz-y^2}{1-y},\] demostrar que ambas fracciones son iguales a $x+y+z$.",1
+284,"Si $\alpha,\beta,\gamma\in\mathbb{R}$ son los √°ngulos de un tri√°ngulo no rect√°ngulo, demostrar que \[\tan(\alpha)+\tan(\beta)+\tan(\gamma)=\tan(\alpha)\tan(\beta)\tan(\gamma).\]",1
+285,Hallar todos los polinomios $P(x)$ con coeficientes reales tales que \[P(x+1)=P(x)+2x+1\] para todo $x\in\mathbb{R}$.,1
+286,"Encontrar todas las funciones $f:\mathbb{R}\to\mathbb{R}$ que cumplen que \[f(x-f(y))=f(f(y))+xf(y)+f(x)-1\] para cualesquiera $x,y\in\mathbb{R}$.",1
+287,"Hallar todos los pares de n√∫meros reales $(x,y)$ que verifican el siguiente sistema de ecuaciones: \[\left\{ \begin{array}{l}  (1+x)(1+x^2)(1+x^4)=1+y^7,\\  (1+y)(1+y^2)(1+y^4)=1+x^7. \end{array} \right.\]",1
+288,"Dados $a,b\in\mathbb{R}$ n√∫meros reales, demostrar que existe $c\in(0,1)$ tal que \[\left|ac+b+\frac{1}{c+1}\right|\gt\frac{1}{24}.\]",1
+289,"Una funci√≥n $f:[0,1]\to\mathbb{R}$ cumple las siguientes propiedades:  $f(1)=1$, $f(x)\geq 0$ para todo $x\in[0,1]$, $f(x+y)\geq f(x)+f(y)$ siempre que $x,y,x+y\in[0,1]$.  Demostrar que $f(x)\leq 2x$ para todo $x\in[0,1]$. ¬øEs cierto que $f(x)\leq 1,\!9x$ para todo $x\in[0,1]$?",1
+290,"Hallar n√∫meros enteros $a,b,c,d$ tales que \[\sqrt[16]{2207-\frac{1}{2207-\frac{1}{2207-\frac{1}{2207-\ldots}}}}=\frac{a+b\sqrt{c}}{d}.\]",1
+291," Se tienen dos sucesiones, cada una de 2003 enteros consecutivos, y un tablero de 2 filas y 2003 columnas. Decidir si siempre es posible distribuir los n√∫meros de la primera sucesi√≥n en la primera fila y los de la segunda sucesi√≥n en la segunda fila, de tal manera que los resultados obtenidos al sumar los dos n√∫meros de cada columna formen una nueva sucesi√≥n de 2003 n√∫meros consecutivos. ¬øY si se reemplaza 2003 por 2004?",1
+292,"Demostrar que los siguientes n√∫meros son racionales: \begin{eqnarray} S&=&\tan^2(1¬∫)+\tan^2(3¬∫)+\tan^2(5¬∫)+\ldots+\tan^2(89¬∫),\\ C&=&\tan^2(2¬∫)+\tan^2(4¬∫)+\tan^2(6¬∫)+\ldots+\tan^2(88¬∫). \end{eqnarray}",1
+293,"Sean  $x,y,z,w$ n√∫meros reales positivos tales que \[\left\{\begin{array}{l}x+y=z+w\\2xy=zw\end{array}\right.\] Determinar los posibles valores de $\frac{x}{y}$.",1
+294,"Encontrar todos los n√∫meros naturales $n$ tales que  \[(n!)!=n!(2n-1)!\] Aqu√≠ $a!$ denota el factorial de $a$, es decir, el producto de todos los n√∫meros enteros entre $1$ y $a$. Por ejemplo, $6!=6\cdot5\cdot4\cdot 3\cdot 2\cdot 1=720$.",1
+295,"Calcula el valor de la siguiente suma \[E(\sqrt{1})-E(\sqrt{2})+E(\sqrt{3})-E(\sqrt{4})+\ldots+E(\sqrt{2015}),\] donde $E(x)$ denota la parte entera de $x$.",1
+296,"Dado un entero $c\geq 1$, definimos la sucesi√≥n $\{a_n\}$ como $a_1=2$ y, para $n\geq 2$, \[a_{n+1}=ca_n+\sqrt{(c^2-1)(a_n^2-4)}{,}\] Demostrar que $a_n$ es un entero para todo $n\geq 1$.",1
+297,"Supongamos que los n√∫meros reales $x$ e $y$ satisfacen el siguiente sistema de ecuaciones: \[\left\{\begin{array}{l}2^x-2^y=1,\\4^x-4^y=\frac{5}{3}{.}\end{array}\right.\] Hallar el valor de $x-y$.",1
+298,"Sean $m,n\gt 1$ dos n√∫meros naturales distintos y primos entre s√≠. Demostrar que \[\frac{\log_{10}m}{\log_{10}n}\] no es un n√∫mero racional.",1
+299,"Hallar el menor n√∫mero natural que es suma de 9 naturales consecutivos, es suma de 10 naturales consecutivos y adem√°s es suma de 11 naturales consecutivos.",1
+300,"Sean $a_0$, $a_1$, $a_2$, $a_3$ y $a_4$ cinco n√∫meros positivos en progresi√≥n aritm√©tica de diferencia $d$. Probar que \[a_2^3\leq\frac{1}{10}(a_0^3+4a_1^3+4a_3^3+a_4^3){.}\]",1
+301,"Consideremos dos sucesiones $\{x_n\}$ e $\{y_n\}$ definidas por  \begin{eqnarray*} x_0=1,\ x_1=1,&&x_{n+1}=x_n+2x_{n-1},\\ y_0=1,\ y_1=7,&&y_{n+1}=2y_n+3y_{n-1}. \end{eqnarray*} Demostrar que 1 es el √∫nico n√∫mero que aparece simult√°neamente en las dos sucesiones.",1
+302,"Una funci√≥n $f$ est√° definida sobre los enteros positivos mediante \begin{eqnarray}  f(1)&=&1,\qquad f(3)=3,\\  f(2n)&=&f(n),\\  f(4n+1)&=&2f(2n+1)-f(n),\\  f(4n+3)&=&3f(2n+1)-2f(n). \end{eqnarray} Determinar el n√∫mero de enteros positivos $n\leq 1988$ tales que $f(n)=n$.",1
+303,"Considerando la suma $$S_n=\frac{1}{1\cdot 2\cdot 3}+\frac{1}{2\cdot 3\cdot 4}+\ldots+\frac{1}{n(n+1)(n+2)}{,}$$ expresar $S_{2015}$ como una fracci√≥n irreducible.",1
+304,"Dados n√∫meros reales $x,y,z\in\mathbb{R}$ todos distintos entre s√≠ y distintos de cero, y tales que $x+y+z=0$, demostrar que $$\left(\frac{y-z}{x}+\frac{z-x}{y}+\frac{x-y}{z}\right)\left(\frac{x}{y-z}+\frac{y}{z-x}+\frac{z}{x-y}\right)=9.$$",1
+305," Dado un n√∫mero real $x$, demostrar que si $x^2+x$ y $x^3+2x$ son racionales, entonces $x$ tambi√©n es racional. Demostrar que existe un n√∫mero irracional $w$ tal que $w^2+w$ y $w^3-2w$ son racionales.",1
+306,"Hallar todos los pares de n√∫meros reales $(x,y)$ que cumplen la ecuaci√≥n \[x^2+2x\,\mathrm{sen}(xy)+1=0.\]",1
+307,"Dados n√∫meros reales $0\lt a_1\lt a_2\lt\cdots\lt a_n$, hallar la suma de las longitudes de todos los intervalos de n√∫meros reales, disjuntos dos a dos, en los que \[f(x)=\frac{a_1}{x+a_1}+\frac{a_2}{x+a_2}+\ldots+\frac{a_n}{x+a_n}\gt 1.\]",1
+308,"Consid√©rense las expresiones de la forma $x+yt+zt^2$ con $x,y,z$ racionales y $t=\sqrt[3]{2}$. Si $x$, $y$ y $z$ no son simult√°neamente cero, demostrar que existen $u,v,w$ racionales tales que \[(x+yt+zt^2)(u+vt+wt^2)=1.\]",1
+309,Encontrar todas las funciones $f:\mathbb{N}\to\mathbb{N}$ tales que  $$f(n)+f(f(n))+f(f(f(n)))=3n$$ para todo n√∫mero natural $n\in\mathbb{N}$.,1
+310,Hallar todas las funciones $f:\mathbb{R}\to\mathbb{R}$ que cumplen que \[f(x)+f\left(\frac{1}{1-x}\right)=x\] para cualquier $x\in\mathbb{R}$ distinto de $0$ y de $1$.,1
+311,"Demostrar la igualdad \[\frac{\sin 36}{\sin 18+\sin 42+\sin 54+\sin 78}=\tan12,\] donde se entiende que todos los √°ngulos est√°n medidos en grados sexagesimales.",1
+312,"Hallar todas las funciones $f:(0,\infty)\to\mathbb{R}$ que cumplen que existe $\lambda>0$ con $f(\lambda)=1$ tal que \[f(x)f(y)+f\left(\frac{\lambda}{x}\right)f\left(\frac{\lambda}{y}\right)=2f(xy),\] para cualesquiera $x,y\in\mathbb{R}$.",1
+313,"La funci√≥n $g$ se define sobre los n√∫meros naturales y cumple las siguientes tres condiciones:  $g(2)=1$, $g(2n)=g(n)$, $g(2n+1)=g(2n)+1$.  Hallar el valor m√°ximo $M$ de $g(n)$ para $1\leq n\leq 2002$ y determinar cu√°ntos valores de $n$ en este rango cumplen que $g(n)=M$.",1
+314,"Hallar todas las funciones $f:\mathbb{R}\to\mathbb{R}$ que cumplen que \[\bigl(f(x)+f(y)\bigr)\bigl(f(u)+f(v)\bigr)=f(xu-yv)+f(xv+yu),\] para cualesquiera $x,y,u,v\in\mathbb{R}$.",1
+315,"Hallar todas las funciones $f:\mathbb{R}\to\mathbb{R}$ que cumplen las siguientes dos condiciones: \begin{eqnarray*} f(x+y)&=&f(x)+f(y),\\ f(x\cdot y)&=&f(x)\cdot f(y), \end{eqnarray*} para cualesquiera $x,y\in\mathbb{R}$.",1
+316,"Hallar todas las funciones $f:\mathbb{N}\rightarrow\mathbb{N}$ estrictamente crecientes y tales que, para todo $n\in\mathbb{N}$,  \[f(n+f(n))=2f(n).\]",1
+317,"Sean $r$, $s$ y $t$ las soluciones de la ecuaci√≥n $x(x-2)(3x-7)=2$.  Demostrar que $r$, $s$ y $t$ son positivas. Calcular $\mathrm{arctg}(r)+\mathrm{arctg}(s)+\mathrm{arctg}(t)$.",1
+318,Consideremos la sucesi√≥n $\{a_n\}$ dada por $a_1=a_2=1$ y  \[a_{n+2}=\frac{1}{a_{n+1}}+a_n\]  para todo $n\in\mathbb{N}$. Calcular $a_{2004}$.,1
+319,"Encontrar todos los soluciones reales de la ecuaci√≥n \[\log_5(x-5)+\log_6(x+6)=4.\] Aqu√≠, $\log_b(y)$ denota el logaritmo en base $b$ de $y$.",1
+320,Encontrar todas las soluciones reales de cada una de las siguientes tres ecuaciones: \begin{eqnarray*} \sqrt{x+\sqrt{2x-1}}+\sqrt{x-\sqrt{2x-1}}&=&\sqrt{2}\\ \sqrt{x+\sqrt{2x-1}}+\sqrt{x-\sqrt{2x-1}}&=&1\\ \sqrt{x+\sqrt{2x-1}}+\sqrt{x-\sqrt{2x-1}}&=&2 \end{eqnarray*},1
+321,"Sea $a\in\mathbb{N}$ y $f:\mathbb{N}\rightarrow\mathbb{N}$ una funci√≥n tal que $f(f(n))=n+a,\ \forall n\in\mathbb{N}$.  Demostrar que no existe una tal funci√≥n si $a=1$. Para $a=2$, hallar todos los posibles valores de $f$.",1
+322,"Hallar todas las funciones $f:\mathbb{R}\rightarrow\mathbb{R}$ que verifican que \[f(x^2-y^2)=(x-y)\left(f(x)+f(y)\right)\] para cualesquiera $x,y\in\mathbb{R}$.",1
+323,"Hallar todas las funciones $f:\mathbb{R}\rightarrow\mathbb{R}$ que verifican que \[f\left(xf(x)+f(y)\right)=f(x)^2+y\] para cualesquiera $x,y\in\mathbb{R}$.",1
+324,"Hallar todas las cuaternas de n√∫meros reales que cumplen que si al producto de tres cualesquiera de ellos se le suma el cuarto, el resultado es 2.",1
+325,"Sean $a,b,c$ n√∫meros reales no nulos y con suma no nula tales que \[\frac{1}{a}+\frac{1}{b}+\frac{1}{c}=\frac{1}{a+b+c}.\] Demostrar que \[\frac{1}{a^{1999}}+\frac{1}{b^{1999}}+\frac{1}{c^{1999}}=\frac{1}{a^{1999}+b^{1999}+c^{1999}}.\]",1
+326,Hallar todas las sucesiones estrictamente crecientes de n√∫meros naturales que cumplen que cualquier n√∫mero natural se escribe de forma √∫nica como suma de t√©rminos distintos de la sucesi√≥n.,1
+327,"Sean $x_1,\ldots,x_n$ n√∫meros reales. Probar que \[\sum_{i,j=1}^n\cos(x_i-x_j)\geq 0.\]",1
+328,"Para cada n√∫mero natural $n$, sea $a_n$ el √∫ltimo d√≠gito del n√∫mero $1+2+\cdots+n$. Calcular $a_1+a_2+\ldots+a_n$.",1
+329,"Determinar todas las ternas $(x,y,z)$ de n√∫meros reales que satisfacen el siguiente sistema de ecuaciones: \[\left.\begin{array}{r}x+y-z=-1\\x^2-y^2+z^2=1\\-x^3+y^3+z^3=-1\end{array}\right\}\]",1
+330,"A cada entero positivo $n$ se le asigna un entero no negativo $f(n)$ de tal manera que se satisfagan las siguientes condiciones:  $f(r\cdot s)=f(r)+f(s)$, $f(n)=0$, siempre que la cifra de las unidades de $n$ sea $3$, $f(10)=0$.  Hallar $f(1985)$. Justificar la respuesta.",1
+331,"Hallar las funciones $f:\mathbb{R}-\{-1,0,1\}\to\mathbb{R}$ que cumplen la ecuaci√≥n \[f(x)^2\cdot f\left(\frac{1-x}{1+x}\right)=64x\] para cualquier $x\in\mathbb{R}-\{-1,0,1\}$.",1
+332,Calcula todas las sucesiones de n√∫meros naturales consecutivos cuya suma es $1999$.,1
+333,Demuestra que el siguiente producto es un n√∫mero entero: \[\left(4-\frac{2}{1}\right)\left(4-\frac{2}{2}\right)\left(4-\frac{2}{3}\right)\cdots\left(4-\frac{2}{2011}\right).\],1
+334,"Demostrar que, dado un n√∫mero natural \(n\), \[2\cdot 2+3\cdot 2^2+4\cdot 2^3+\cdots+n\cdot 2^{n-1}=(n+1)\cdot 2^n.\]",1
+335,Calcular el valor de la siguente suma en funci√≥n de un entero no negativo $n\in\mathbb{Z}$: \[\sum_{j=0}^n\sum_{k=0}^{n-j}\frac{(-1)^k}{j!\cdot k!}{.}\],1
+336,"Consideremos la sucesi√≥n definida por \[16, 1156, 111556,11115556,\ldots\] donde cada n√∫mero se obtiene del anterior insertando \(15\) entre sus cifras centrales. Demostrar que todos los n√∫meros de la sucesi√≥n son cuadrados perfectos.",1
+337,"Dados dos n√∫meros reales positivos $x,y$, se define la operaci√≥n $x*y$ como \[x*y=\frac{x+y}{1+xy}\] Dado un n√∫mero natural $n\in\mathbb{N}$, calcular $(\cdots(((2*3)*4)*5)\cdots)*n$.",1
+338,Supongamos que los n√∫meros reales $x$ e $y$ verifican \[\left(x+\sqrt{1+x^2}\right)\left(y+\sqrt{1+y^2}\right)=1.\] Probar que $x+y=0$.,1
+339,Calcular las soluciones reales de la ecuaci√≥n \[\sqrt[4]{97-x}+\sqrt[4]{x}=5.\],1
+340,"Demostrar que si entre los infinitos t√©rminos de una progresi√≥n aritm√©tica de n√∫meros enteros positivos hay un cuadrado perfecto, entonces infinitos t√©rminos de la progresi√≥n son cuadrados perfectos.",1
+341,Tenemos cien n√∫meros en progresi√≥n aritm√©tica de los cuales sabemos que su suma es $52$ y que la suma de los t√©rminos pares es $1$. Calcular la suma de los cuadrados de los cien n√∫meros.,1
+342,"Para cada n√∫mero natural $n$, consideremos $a_n$ el n√∫mero cuya expresi√≥n decimal est√° formada por $n$ sietes (es decir, $a_1=7$, $a_2=77$, $a_3=777$, etc.). Hallar el valor de la suma  \[a_1+a_2+\ldots+a_n{.}\]",1
+343,"Encontrar todas las funciones $f:\mathbb{R}\rightarrow\mathbb{R}$ que verifican que \[f((x-y)^2)=f(x)^2-2xf(y)+y^2\] para cualesquiera $x,y\in\mathbb{R}$.",1
+344,"Hallar todas las funciones \(f:\mathbb{Z}\rightarrow\mathbb{Z}\) que verifiquen \[f(x+f(y))=f(x)-y\] para cualesquiera n√∫meros enteros \(x,y\in\mathbb{Z}\).",1
+345,"Demostrar que si una funci√≥n \(f:\mathbb{Z}\rightarrow\mathbb{Z}\) cumple que  \[f(m^2+f(n))=f(m)^2+n\] para cualesquiera \(m,n\in\mathbb{Z}\), entonces \(f(n)=n\) para todo \(n\in\mathbb{Z}\).",1
+346,"Sean $ a,b,c\in\mathbb{R}$ n√∫meros reales con $a\neq 0$. Demostrar que las soluciones de la ecuaci√≥n $ax^2+bx+c=0$ vienen dadas por \[x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\]",1
+347,"Demostrar que todo n√∫mero natural $n\leq 2^{1000000}$ puede ser obtenido a partir del $1$ haciendo menos de $1100000$ sumas. M√°s precisamente, hay una sucesi√≥n finita de n√∫meros naturales $x_0,x_1,\ldots, x_k$ con $k\lt 1100000$, $x_0 = 1$ y $x_k = n$, tal que para cada $i=1,2,\ldots,k$ existen $r, s$ con $0\leq r\lt i$, $0\leq s\lt i$ y $x_i =x_r +x_s$.",3
+348,¬øCu√°ntas expresiones algebraicamente diferentes podemos obtener colocando par√©ntesis en la expresi√≥n $a_1/a_2/a_3/\ldots/a_n$?,3
+349,¬øSe pueden etiquetar los v√©rtices de un pol√≠gono de 45 lados con los d√≠gitos del $0$ al $9$ de forma que no haya dos v√©rtices consecutivos etiquetados con el mismo d√≠gito y tampoco haya dos lados distintos del pol√≠gono con los mismos d√≠gitos en sus extremos?,3
+350,"Ensartamos $2n$ bolas blancas y $2$n bolas negras formando una cadena abierta. Demuestra que, se haga en el orden en que se haga, siempre es posible cortar un segmento de cadena que contenga exactamente $n$ bolas blancas y $n$ bolas negras.",3
+351,Consideramos la siguiente figura formada por 12 v√©rtices y 16 segmentos. ¬øEs posible dibujar una curva que atraviese cada segmento una √∫nica vez sin pasar por ning√∫n v√©rtice?,3
+352,Se escogen $1000$ n√∫meros enteros al azar entre $1$ y el $n$ (de forma que todos los n√∫meros tienen la misma probabilidad de ser elegidos cada vez). ¬øCu√°l es la probabilidad de que su suma sea m√∫ltiplo de $n$?,3
+353,"Dado un entero positivo $k$, sea $A_k$ el subconjunto de $\{k+1,k+2,\ldots,2k\}$ formado por los n√∫meros cuya representaci√≥n en base $2$ tiene exactamente tres unos y sea $f(k)$ el n√∫mero de elementos de $A_k$.  Demostrar que la ecuaci√≥n $f(k)=m$ tiene al menos una soluci√≥n para todo entero positivo $m$.  Hallar todos los enteros positivos $m$ para los que $f(k)=m$ tiene una √∫nica soluci√≥n.",3
+354,Sobre una mesa hay cien tarjetas numeradas con los n√∫meros del $1$ al $100$ y se eligen $25$ de ellas al azar. ¬øCu√°l es la probabilidad de que la suma de los n√∫meros elegidos sea par?,3
+355,¬øCu√°ntos divisores impares tiene $20!$?,3
+356,Sea $S$ un conjunto de $n$ elementos. Denotamos por $p_n(k)$ al n√∫mero de permutaciones de los elementos de $S$ que dejan exactamente $k$ elementos fijos. Demostrar que \[\sum_{k=0}^nkp_n(k)=n!\],3
+357,"Calcular cu√°ntos n√∫meros enteros de $n$ cifras ($n\geq 1$) cumplen cada una de las siguientes condiciones:   Sus cifras forman una sucesi√≥n creciente.  Sus cifras forman una sucesi√≥n estrictamente creciente.  Por ejemplo, las cifras del n√∫mero $1345567789$ forman una sucesi√≥n creciente pero no estrictamente creciente ya que hay cifras repetidas.",3
+358,"Alrededor de una mesa redonda est√°n sentados representantes de $n$ pa√≠ses ($n \geq 2$), de modo que satisfacen la siguiente condici√≥n: si dos personas son el mismo pa√≠s, entonces sus respectivos vecinos de la derecha no pueden ser de un mismo pa√≠s. Determinar, para cada $n$, el n√∫mero m√°ximo de personas que puede haber alrededor de la mesa.",3
+359,Se divide el plano en $n$ regiones mediante tres familias de rectas paralelas. No hay tres rectas que pasen por el mismo punto. Determinar el n√∫mero m√≠nimo de rectas necesarias para que $n\gt 1999$.,3
+360,"Se considera un pol√≠gono convexo de $n$ lados y se trazan todas sus rectas diagonales, suponiendo que no hay dos paralelas y que no hay tres con un punto en com√∫n que no sea un v√©rtice. En esas condiciones, calcular:  El n√∫mero de puntos de intersecci√≥n de estas diagonales, excluidos los v√©rtices. Cu√°ntos de esos puntos son interiores al pol√≠gono.",3
+361,Sea $H$ un conjunto de $n$ puntos en el plano con coordenadas enteras tales que cualesquiera tres de ellos no est√°n alineados y forman un tri√°ngulo cuyo baricentro no tiene ninguna coordenada entera. Determinar el valor m√°ximo posible de $n$.,3
+362,"Un conjunto de tres enteros no negativos $\{x,y,z\}$ con $x\lt y\lt z$ se llama hist√≥rico cuando cumple que $\{z-y,y-x\}=\{1776,2001\}$. Demostrar que el conjunto $\mathbb{N}$ se puede poner como uni√≥n de conjuntos hist√≥ricos, disjuntos dos a dos.",3
+363,"Tiramos consecutivamente tres dados y formamos con ellos un n√∫mero $A$ de tres cifras (la primera tirada nos da las centenas de $A$, la segunda las decenas y la tercera las unidades). Repetimos el proceso obteniendo otro n√∫mero $B$ de tres cifras. Calcular la probabilidad de que $A\gt B$.",3
+364,"Ordenamos de menor a mayor todos los n√∫meros que se forman reordenando de alguna forma los d√≠gitos del $1$ al $7$ sin repetir ninguno (por ejemplo, el menor de estos n√∫meros es $1234567$ y el mayor es $7654321$). Hallar el n√∫mero que ocupa la posici√≥n $2015$.",3
+365,¬øCu√°l es la probabilidad de que al elegir un n√∫mero al azar entre $1000$ y $9999$ el producto de sus cifras sea m√∫ltiplo de $3$? ¬øY si sabemos que el n√∫mero es par?,3
+366,"En una reuni√≥n de 500 diplom√°ticos sabemos que 450 de ellos hablan ingl√©s, 380 hablan franc√©s, 390 hablan espa√±ol y 290 hablan alem√°n. ¬øCu√°l es el m√≠nimo n√∫mero de diplom√°ticos que podemos asegurar que hablan los cuatro idiomas?",3
+367,"Sea $n$ un entero positivo. Consideramos la suma $x_1y_1+x_2y_2+\ldots+x_ny_n$, donde todas las $2n$ variables toman los valores $0$ √≥ $1$. Sea $I(n)$ el n√∫mero de $2n$-uplas $(x_1,x_2,\ldots,x_n,y_1,y_2,\ldots,y_n)$ para las cuales el valor de la suma es impar, y sea $P(n)$ el n√∫mero de las $2n$-uplas para las cuales dicha suma toma un valor par. Demostrar que \[\frac{P(n)}{I(n)}=\frac{2^n+1}{2^n-1}{.}\]",3
+368,"Dado $n\geq 1$, tomemos $n$ rectas en el plano tales que no hay dos paralelas ni tres concurrentes. Calcular, en funci√≥n de $n$, las siguientes cantidades:  el n√∫mero de puntos de intersecci√≥n, el n√∫mero de regiones en que el plano queda dividido.  ¬øPodemos colorear dichas regiones usando dos colores de forma que las regiones que sean adyacentes tengan distinto color?",3
+369,Se lanzan doce monedas al aire. ¬øCu√°l es la probabilidad de que salgan exactamente 3 caras y 9 cruces?,3
+370,Hallar el n√∫mero m√≠nimo de apuestas de quiniela que debemos rellenar para asegurar que obtenemos al menos cinco aciertos en una de ellas.,3
+371,"En la primera divisi√≥n de la liga espa√±ola de f√∫tbol juegan 20 equipos. En la primera jornada, se emparejan estos 20 equipos para jugar 10 partidos. Hallar el n√∫mero de posibles emparejamientos distintos (no importa el orden de los partidos ni el orden de los equipos, s√≥lo qui√©n juega contra qui√©n).",3
+372,"Dado un n√∫mero natural $n$, sea $f(n)$ la cantidad de n√∫meros de $n$ cifras que pueden formarse con los d√≠gitos $1$, $2$ y $3$ de forma que no haya dos unos consecutivos. Demostrar que  \[f(n)=2f(n-1)+2f(n-2).\]",3
+373,Consideremos un pol√≠gono convexo de $n$ lados y supongamos que no tiene tres diagonales que se corten en el mismo punto. Calcular en funci√≥n de $n$ el n√∫mero de puntos interiores al pol√≠gono que son corte de dos diagonales.,3
+374,Seis amigos tienen 100 euros. Determinar el n√∫mero de formas distintas pueden repartirse el dinero (cada uno obtiene una cantidad entera de euros) en cada uno de los siguiente supuestos independientes:   Se admite que algunos de ellos reciban 0 euros.  Todos tienen que recibir al menos un euro.,3
+375,"Consideremos el conjunto $A=\{1,2,\ldots,n\}$.  Demostrar que el n√∫mero de subconjuntos de $A$ es $2^n$. ¬øCu√°l es el n√∫mero de parejas de subconjuntos disjuntos de $A$ ?  Nota: tener en cuenta que el vac√≠o $\emptyset$ tambi√©n es un subconjunto de $A$.",3
+376,"Un pol√≠gono convexo de $n$ lados se descompone en $m$ tri√°ngulos de modo que cada lado de esos $m$ tri√°ngulos es tambi√©n un lado de otro tri√°ngulo contiguo o del pol√≠gono dado.   Demostrar que $m+n$ es par. Conocidos $m$ y $n$, hallar el n√∫mero de lados distintos que quedan en el interior del pol√≠gono y el n√∫mero de v√©rtices distintos que quedan en ese interior.",3
+377,"Tenemos una familia de subconjuntos de $4$ elementos del conjunto $\{1,2,3,4,5,6,7,8\}$ con la propiedad de que cada n√∫mero entre $1$ y $8$ pertenece exactamente a $3$ de estos subconjuntos. ¬øCu√°ntos subconjuntos tiene la familia?",3
+378,Determinar el menor n√∫mero natural $n$ tal que un cubo de arista $n$ puede ser dividido en $1996$ cubos cuyas aristas sean n√∫meros naturales.,3
+379,¬øEs posible dibujar 2003 segmentos en el plano de forma que cada uno de ellos corte exactamente a otros tres segmentos?,3
+380,"Sean \(a\) y \(b\) enteros positivos. Calcular el n√∫mero de caminos de longitud m√≠nima que unen los puntos del plano \((0,0)\) y \((a,b)\) y est√°n formados por segmentos horizontales y verticales de longitudes enteras.",3
+381,"Se meten en un saco \(900\) tarjetas numeradas del \(100\) al \(999\). ¬øCu√°l es la menor cantidad de tarjetas que se deben sacar del saco, para asegurarnos que al menos en tres tarjetas la suma de los d√≠gitos del n√∫mero escrito es la misma?",3
+382,"Hallar el n√∫mero de de formas de ordenar los n√∫meros \(1,2,\ldots,n\) que no dejan fijo a ninguno de los n√∫meros, es decir, el n√∫mero \(k\) no est√° en el \(k\)-√©simo lugar de la ordenaci√≥n. ¬øCu√°l es la probabilidad de que al tomar una ordenaci√≥n al azar, la elegida no deje fijo a ning√∫n elemento?",3
+383,"Dado un n√∫mero natural $n$ tal que $1\leq n\leq 8$, ¬øde cu√°ntas formas pueden colocarse $n$ torres en un tablero de ajedrez $8\times 8$ de forma que no se ataquen?",3
+384,Escribimos todos los n√∫meros del $1$ al $9999$ de forma consecutiva formando el n√∫mero \[N=12345678910111213...99989999.\] Se pide:  ¬øCu√°ntos d√≠gitos tiene el n√∫mero $N$? ¬øQu√© d√≠gito de $N$ ocupa la posici√≥n $2015$ por la izquierda?,3
