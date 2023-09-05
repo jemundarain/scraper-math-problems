@@ -1,4 +1,4 @@
-SN,Enunciado,Category
+SN,Statement,Category
 1,"Sean $a, b, c$ tres números naturales tales que \[\frac{a+b+c}{abc}=\frac{1}{k}\] para cierto entero $k$. Se pide demostrar que  $a^3+b^3+c^3$ no es primo. Para cada $k\in\mathbb{N}$, existen números naturales $a,b,c$ cumpliendo esta condición.",4
 2,"Si $a$ es un entero impar, demostrar que $$a^4+4a^3+11a^2+6a+2$$ es una suma de tres cuadrados y es divisible entre $4$.",4
 3,¿Cuáles son los posibles valores de la suma de los dígitos de un cuadrado perfecto?,4
